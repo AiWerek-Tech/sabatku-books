@@ -6,6 +6,7 @@ import Ajv from 'ajv/dist/2020.js';
 import formats from 'ajv-formats';
 export const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const hash=b=>crypto.createHash('sha256').update(b).digest('hex');
+const MAX_CHAPTER_BYTES=2*1024*1024;
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 export function safeFile(base,rel){
  if(typeof rel!=='string'||rel.includes('\\')||rel.includes(':')||path.isAbsolute(rel)||rel.split('/').includes('..')) throw Error('Unsafe path: '+rel);
@@ -45,14 +46,14 @@ export function build(base=root,{write=true}={}){
    for(const n of d.nodes)if(n.parentId&&!nodeIds.has(n.parentId))throw Error('Missing parent node');
    for(const n of d.nodes){const seen=new Set([n.id]);let p=n.parentId;while(p){if(seen.has(p))throw Error('TOC cycle');seen.add(p);p=d.nodes.find(x=>x.id===p).parentId}}
    if(d.cover)safeFile(source,d.cover);
-   for(const n of d.nodes){const body=fs.readFileSync(safeFile(source,n.file),'utf8');if(!body.trim())throw Error('Empty chapter');textSafe(body)}
+   for(const n of d.nodes){const body=fs.readFileSync(safeFile(source,n.file));if(!body.length||body.length>MAX_CHAPTER_BYTES)throw Error('Chapter is empty or exceeds the 2 MiB reader limit');textSafe(body.toString('utf8'))}
    if(d.status!=='published')continue;
    if(!['verified','public-domain'].includes(d.rights.status)||!d.nodes.length||!d.cover)throw Error('Published edition needs approved rights, cover and content');
    const prefix='editions/'+d.key+'/revisions/'+d.revision;if(destinations.has(prefix))throw Error('Output collision');destinations.add(prefix);
    const nodes=d.nodes.map(n=>({id:n.id,title:n.title,parentId:n.parentId,order:n.order,content:asset(source,n.file,prefix+'/nodes/'+n.id.replaceAll(':','-')+'.md')}));
    const cover=asset(source,d.cover,prefix+'/assets/cover'+path.extname(d.cover));
    const manifest={schemaVersion:'sabatku-library-v1',edition:d,work:works.get(d.workId),cover,nodes,capabilities:['markdown-chapters','online-reading'],offlineRedistributionAllowed:d.rights.offlineAllowed};
-   put(prefix+'/manifest.json',manifest);catalog.push({id:d.id,workId:d.workId,title:d.title,locale:d.locale,revision:d.revision,themeIds:d.themeIds,collectionIds:d.collectionIds,manifest:prefix+'/manifest.json',cover});
+   put(prefix+'/manifest.json',manifest);catalog.push({id:d.id,workId:d.workId,title:d.title,author:works.get(d.workId).author,locale:d.locale,revision:d.revision,themeIds:d.themeIds,collectionIds:d.collectionIds,manifest:prefix+'/manifest.json',cover});
   }
   if(d.kind==='publication'){
    const provider=providers.get(d.providerId);if(!provider)throw Error('Missing provider');

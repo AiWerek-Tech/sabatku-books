@@ -29,4 +29,5 @@ test('draft content is excluded; a published edition includes hashed cover and c
  assert.throws(()=>{fs.writeFileSync(path.join(f.dir,'content/book/chapter.md'),'changed');build(f.dir)},/Immutable revision/);
 });
 test('unreviewed rights cannot enter the catalog',t=>{const f=fixture(t);f.edition.status='published';f.save();assert.throws(()=>build(f.dir),/approved rights/)});
+test('chapters larger than the online reader limit are rejected',t=>{const f=fixture(t);fs.writeFileSync(path.join(f.dir,'content/book/chapter.md'),Buffer.alloc(2*1024*1024+1,97));assert.throws(()=>build(f.dir),/2 MiB reader limit/)});
 test('TOC cycles and broken reading-plan targets fail validation',t=>{const f=fixture(t);f.edition.nodes[0].parentId='chapter-27';f.save();assert.throws(()=>build(f.dir),/TOC cycle/);delete f.edition.nodes[0].parentId;f.save();fs.writeFileSync(path.join(f.dir,'content/plan.json'),JSON.stringify({kind:'reading-plan',id:'plan:q4:01',programId:'cornerstone',editionId:'2026-q4-cc',lessonId:'lesson-01',targets:[{editionId:f.edition.id,nodeId:'missing'}]}));assert.throws(()=>build(f.dir),/Broken reading target/)});

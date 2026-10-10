@@ -1,0 +1,83 @@
+Beberapa minggu setelah Luther lahir di sebuah rumah sederhana milik penambang di Sachsen, Ulrich Zwingli lahir di sebuah pondok keluarga penggembala di antara Pegunungan Alpen. Dibesarkan di tengah keagungan alam, sejak masa kanak-kanak pikirannya telah terkesan oleh kebesaran Allah. Di sisi neneknya, ia mendengarkan beberapa kisah Alkitab yang berharga, yang telah dipelajari sang nenek di tengah legenda dan tradisi gereja. [LF 103.1]
+
+Pada usia tiga belas tahun, Zwingli pergi ke Bern, yang ketika itu memiliki sekolah terbaik di Swiss. Akan tetapi, di sana muncul bahaya. Para biarawan berusaha keras membujuknya masuk ke biara. Melalui campur tangan Allah, ayahnya mengetahui rencana para biarawan itu. Ia menyadari bahwa peluang putranya untuk menjadi orang yang berguna kelak dipertaruhkan, sehingga ia memerintahkan Zwingli pulang. [LF 103.2]
+
+Zwingli menaati perintah itu, tetapi ia tidak dapat merasa puas tinggal terlalu lama di lembah tempat kelahirannya. Tidak lama kemudian, ia kembali melanjutkan pendidikannya dan akhirnya pergi ke Basel. Di sanalah Zwingli untuk pertama kalinya mendengar Injil tentang kasih karunia Allah yang diberikan dengan cuma-cuma. Wittembach, seorang pengajar bahasa-bahasa kuno, telah dituntun kepada Kitab Suci ketika mempelajari bahasa Yunani dan Ibrani. Melalui pengajarannya, sinar terang ilahi menerangi pikiran para mahasiswa. Ia mengajarkan bahwa kematian Kristus merupakan satu-satunya tebusan bagi orang berdosa. Bagi Zwingli, perkataan itu bagaikan cahaya pertama sebelum fajar menyingsing. [LF 103.3]
+
+Tidak lama kemudian Zwingli meninggalkan Basel untuk memulai pekerjaan seumur hidupnya. Tugas pertamanya berada di sebuah jemaat di Pegunungan Alpen. Setelah ditahbiskan sebagai imam, ia “mengabdikan dirinya dengan segenap hati untuk menyelidiki kebenaran ilahi.”[^1] [LF 103.4]
+
+Semakin ia menyelidiki Kitab Suci, semakin jelas ia melihat perbedaan antara kebenaran dan ajaran Roma yang keliru. Ia tunduk kepada Alkitab sebagai Firman Allah, satu-satunya pedoman yang memadai dan tidak dapat salah. Ia melihat bahwa Alkitab harus menjadi penafsir bagi dirinya sendiri. Ia menggunakan setiap bantuan yang tersedia untuk memahami maknanya dengan benar dan memohon pertolongan Roh Kudus. “Aku mulai memohon terang-Nya kepada Allah,” tulisnya kemudian, “dan Kitab Suci mulai menjadi jauh lebih mudah kupahami.”[^2] [LF 103.5]
+
+Ajaran yang diberitakan Zwingli bukanlah berasal dari Luther, melainkan ajaran Kristus. “Jika Luther memberitakan Kristus,” kata Zwingli, “ia melakukan apa yang juga kulakukan. ... Aku belum pernah menulis sepatah kata pun kepada Luther, demikian pula Luther kepadaku. Mengapa? ... Untuk menunjukkan betapa Roh Allah selaras dengan diri-Nya sendiri, sebab kami berdua, tanpa bekerja sama sebelumnya, mengajarkan ajaran Kristus dengan keseragaman yang demikian besar.”[^3] [LF 104.1]
+
+Pada tahun 1516, Zwingli diundang untuk berkhotbah di sebuah biara di Einsiedeln. Di tempat itu, ia akan memberikan pengaruh sebagai seorang Reformator yang menjangkau jauh melampaui Pegunungan Alpen, tanah kelahirannya. [LF 104.2]
+
+Salah satu daya tarik utama Einsiedeln ialah sebuah gambar Perawan Maria. Orang-orang mengatakan bahwa gambar tersebut memiliki kuasa untuk mengadakan mukjizat. Di atas gerbang biara terdapat tulisan: “Di sini orang dapat memperoleh pengampunan dosa sepenuhnya.”[^4] Orang banyak berdatangan ke tempat pemujaan Perawan Maria itu dari seluruh Swiss, bahkan dari Prancis dan Jerman. Zwingli menggunakan kesempatan tersebut untuk memberitakan kebebasan melalui Injil kepada orang-orang yang diperbudak oleh takhayul. [LF 104.3]
+
+Ia berkata, “Janganlah membayangkan bahwa Allah berada di dalam rumah ibadah ini lebih daripada di bagian lain ciptaan-Nya. ... Dapatkah perbuatan yang sia-sia, ziarah yang jauh, persembahan, gambar-gambar, ataupun permohonan kepada Perawan Maria atau para santo mendatangkan kasih karunia Allah bagimu? ... Bagaimana mungkin tudung biarawan yang mengilap, kepala yang dicukur licin, jubah panjang yang terurai, atau sandal bersulam emas sedikit pun dapat membantu pengampunan dosa?” “Kristus,” katanya, “yang telah satu kali dipersembahkan di salib adalah kurban yang melunasi utang dosa orang-orang percaya untuk selama-lamanya.”[^5] [LF 104.4]
+
+Bagi banyak orang, sungguh mengecewakan ketika diberi tahu bahwa perjalanan berat mereka selama ini sia-sia. Mereka tidak dapat memahami pengampunan yang ditawarkan secara cuma-cuma melalui Kristus. Mereka merasa puas dengan jalan yang ditunjukkan Roma. Lebih mudah bagi mereka menyerahkan urusan keselamatan kepada imam dan paus daripada berusaha memperoleh kemurnian hati. [LF 104.5]
+
+Namun, orang-orang lain menerima kabar baik tentang penebusan melalui Kristus dengan sukacita. Dalam iman mereka menerima darah Juruselamat sebagai pendamaian bagi dosa mereka. Mereka pulang dan menceritakan kepada orang lain tentang terang berharga yang telah diterima. Dengan demikian, kebenaran tersebar dari kota ke kota, dan jumlah peziarah ke tempat pemujaan Perawan Maria sangat berkurang. Persembahan pun menurun, demikian pula gaji Zwingli yang berasal dari persembahan itu. Akan tetapi, hal ini justru membuatnya bersukacita karena ia melihat kuasa takhayul mulai dipatahkan. Kebenaran mulai menguasai hati orang-orang. [LF 105.1]
+
+## Zwingli Dipanggil ke Zurich
+
+Setelah tiga tahun, Zwingli dipanggil untuk berkhotbah di katedral Zurich, kota terpenting dalam konfederasi Swiss. Pengaruh yang diberikannya di sana akan terasa luas. Para pejabat gereja mulai menjelaskan kepadanya tugas-tugas yang harus ia jalankan: [LF 105.2]
+
+“Engkau harus berusaha sekuat tenaga mengumpulkan pendapatan dewan gereja, tanpa mengabaikan sedikit pun. ... Engkau harus rajin meningkatkan pendapatan yang berasal dari orang sakit, dari misa, dan pada umumnya dari setiap kegiatan gereja.” “Mengenai penyelenggaraan sakramen, khotbah, dan pemeliharaan umat, ... engkau boleh menggunakan seorang pengganti, khususnya dalam berkhotbah.”[^6] [LF 105.3]
+
+Zwingli mendengarkan petunjuk itu dengan diam, lalu menjawab: “Kehidupan Kristus sudah terlalu lama disembunyikan dari orang banyak. Aku akan berkhotbah mengenai seluruh Injil Matius. ... Aku akan mengabdikan pelayananku demi kemuliaan Allah, pujian bagi Anak-Nya, keselamatan jiwa-jiwa yang sesungguhnya, dan pertumbuhan mereka dalam iman yang benar.” [LF 105.4]
+
+Orang banyak berbondong-bondong datang mendengarkan khotbahnya. Ia memulai pelayanannya dengan membuka kitab-kitab Injil serta menjelaskan kehidupan, pengajaran, dan kematian Kristus. “Kepada Kristuslah,” katanya, “aku ingin menuntun kalian—kepada Kristus, sumber keselamatan yang sejati.” Para negarawan, cendekiawan, pengrajin, dan petani mendengarkan perkataannya. Dengan berani ia menegur berbagai kejahatan dan kerusakan moral pada zamannya. Banyak orang pulang dari katedral sambil memuji Allah. “Orang ini,” kata mereka, “adalah seorang pemberita kebenaran. Ia akan menjadi Musa bagi kita, yang menuntun kita keluar dari kegelapan Mesir ini.”[^7] [LF 105.5]
+
+Setelah beberapa waktu, timbullah perlawanan. Para biarawan mengganggu dan mencemoohnya; orang-orang lain menghujaninya dengan hinaan dan ancaman. Namun, Zwingli menanggung semuanya dengan sabar. [LF 106.1]
+
+Ketika Allah sedang bersiap mematahkan belenggu kebodohan dan takhayul, Setan mengerahkan kekuatannya yang terbesar untuk mempertahankan manusia dalam kegelapan dan mengikat belenggu mereka semakin erat. Roma bekerja dengan semangat baru untuk membuka pasarnya di seluruh dunia Kristen, menawarkan pengampunan dengan imbalan uang. Setiap dosa mempunyai harga, dan gereja memberi keleluasaan kepada orang-orang untuk berbuat jahat asalkan perbendaharaan gereja tetap terisi penuh. Dengan demikian, dua gerakan itu berjalan maju: Roma mengizinkan dosa dan menjadikannya sumber pendapatan, sedangkan para Reformator mengecam dosa serta menunjuk kepada Kristus sebagai kurban dan Pembebas. [LF 106.2]
+
+## Penjualan Indulgensi di Swiss
+
+Di Jerman, Tetzel yang terkenal buruk menangani penjualan indulgensi. Di Swiss, gereja menyerahkan penjualan itu kepada Samson, seorang biarawan Italia. Samson sebelumnya telah mengumpulkan uang dalam jumlah sangat besar dari Jerman dan Swiss untuk mengisi perbendaharaan kepausan. Kini ia berkeliling ke seluruh Swiss, menguras penghasilan para petani miskin yang hanya sedikit dan menuntut pemberian besar dari orang-orang kaya. Ketika tiba dengan barang dagangannya di sebuah kota dekat Einsiedeln, Zwingli segera menentangnya. Zwingli begitu berhasil menyingkapkan kebohongan biarawan itu sehingga Samson terpaksa pergi ke kota-kota lain. Belakangan, di Zurich, Zwingli dengan penuh semangat berkhotbah menentang orang-orang yang berusaha menjual pengampunan Allah. Ketika Samson mendekati kota itu, ia menggunakan siasat licik untuk masuk. Namun, penduduk mengusirnya tanpa membiarkannya menjual satu pun surat pengampunan, sehingga tidak lama kemudian ia meninggalkan Swiss. [LF 106.3]
+
+Wabah penyakit sampar, yang juga disebut Maut Besar, melanda Swiss pada tahun 1519. Banyak orang mulai menyadari betapa tidak berguna dan tidak berharganya surat-surat pengampunan yang mereka beli. Mereka merindukan dasar iman yang lebih kokoh. Di Zurich, Zwingli sendiri terserang wabah itu, dan tersiar luas kabar bahwa ia sudah meninggal. Dalam saat yang mengerikan itu, ia dengan iman memandang kepada salib Kalvari, percaya kepada kurban yang sepenuhnya memadai untuk menebus dosa. Ketika ia pulih dari ambang kematian, ia memberitakan Injil dengan semangat yang lebih besar daripada sebelumnya. Orang-orang sendiri telah menghadapi penderitaan orang sakit dan kematian orang-orang di sekitar mereka; kini mereka menyadari nilai Injil lebih daripada sebelumnya. [LF 106.4]
+
+Zwingli telah memperoleh pemahaman yang lebih jelas tentang kebenaran Injil dan mengalami dengan lebih penuh kuasanya yang memperbarui dirinya. “Kristus,” katanya, “... telah membeli bagi kita penebusan yang tidak berkesudahan. ... Penderitaan-Nya adalah ... kurban yang kekal, dan memiliki kuasa menyembuhkan yang kekal. Kurban itu untuk selama-lamanya memenuhi tuntutan keadilan ilahi bagi semua yang bersandar kepadanya dengan iman yang teguh dan tidak tergoyahkan. ... Di mana ada iman kepada Allah, di situ juga terdapat semangat yang mendorong dan menggerakkan manusia untuk melakukan perbuatan baik.”[^8] [LF 107.1]
+
+Langkah demi langkah, Reformasi semakin berkembang di Zurich. Karena cemas, musuh-musuhnya bangkit untuk menentang secara terbuka. Mereka berulang kali menyerang Zwingli dan berusaha membungkam pengajar yang mereka anggap menyebarkan ajaran sesat itu. Uskup Constance mengutus tiga wakil kepada Dewan Zurich untuk menuduh Zwingli membahayakan kedamaian dan ketertiban masyarakat. Ia mendesak bahwa jika kewenangan gereja dikesampingkan, akibatnya adalah kekacauan menyeluruh. [LF 107.2]
+
+Dewan itu menolak mengambil tindakan terhadap Zwingli, dan Roma mempersiapkan serangan baru. Sang Reformator berseru, “Biarkan mereka datang. Aku takut kepada mereka sebagaimana tebing batu takut kepada ombak yang bergemuruh di kakinya.”[^9] Upaya para pejabat gereja justru membantu perjuangan yang hendak mereka hancurkan. Kebenaran terus tersebar. Di Jerman, para pengikutnya yang putus asa karena menghilangnya Luther kembali memperoleh keberanian ketika menyaksikan kemajuan Injil di Swiss. Ketika Reformasi semakin kuat di Zurich, buah-buahnya semakin nyata melalui berkurangnya kejahatan dan meningkatnya ketertiban. [LF 107.3]
+
+## Perdebatan dengan Wakil-Wakil Roma
+
+Setelah melihat bahwa penganiayaan hanya sedikit berhasil menekan pekerjaan Luther di Jerman, para wakil Roma memutuskan untuk mengadakan perdebatan dengan Zwingli. Mereka hendak memastikan kemenangan dengan memilih bukan saja tempat perdebatan, tetapi juga para hakim yang akan menentukan keputusan antara kedua pihak. Seandainya Zwingli jatuh ke tangan mereka, mereka akan memastikan bahwa ia tidak dapat meloloskan diri. Akan tetapi, niat itu mereka sembunyikan dengan hati-hati. [LF 107.4]
+
+Perdebatan itu dijadwalkan berlangsung di Baden. Namun, Dewan Zurich mencurigai rencana para wakil Roma. Mereka juga telah mendapat peringatan mengenai api pembakaran yang dinyalakan di kanton-kanton pendukung kepausan untuk membakar orang-orang yang menerima Injil. Karena itu, dewan melarang pendeta mereka pergi ke tempat yang begitu berbahaya. Pergi ke Baden, tempat darah para martir kebenaran baru saja ditumpahkan, berarti menuju kematian yang pasti. Oecolampadius dan Haller dipilih untuk mewakili para Reformator, sedangkan Dr. Eck yang termasyhur, didukung oleh banyak cendekiawan dan pejabat gereja, menjadi pembela Roma. [LF 108.1]
+
+Pihak Roma memilih semua sekretaris, dan siapa pun selain mereka dilarang mencatat jalannya perdebatan, dengan ancaman hukuman mati. Meskipun demikian, seorang mahasiswa yang menghadiri perdebatan itu setiap malam membuat catatan tentang berbagai argumen yang dikemukakan pada hari itu. Dua mahasiswa lain bertugas mengantarkan catatan tersebut kepada Zwingli di Zurich bersama surat-surat harian dari Oecolampadius. Zwingli membalasnya dengan memberikan nasihat. Untuk menghindari pemeriksaan para penjaga di gerbang kota, para utusan ini membawa keranjang berisi unggas di atas kepala mereka sehingga diizinkan lewat tanpa kesulitan. [LF 108.2]
+
+Myconius mengatakan bahwa Zwingli “telah bekerja lebih banyak melalui pemikirannya yang mendalam, malam-malam tanpa tidur, dan nasihat yang disampaikannya ke Baden daripada yang dapat dilakukannya jika ia sendiri ikut berdebat di tengah para musuhnya.”[^10] [LF 108.3]
+
+Para wakil Roma datang ke Baden dengan mengenakan jubah paling mewah dan perhiasan yang berkilauan. Mereka menyantap makanan mewah di meja yang dipenuhi hidangan mahal dan anggur pilihan. Sebaliknya, para Reformator hanya menyantap makanan sederhana dan murah sehingga mereka tidak perlu berlama-lama di meja makan. Pemilik penginapan tempat Oecolampadius menginap kadang-kadang mengamatinya di kamar. Karena selalu menemukannya sedang belajar atau berdoa, ia melaporkan bahwa orang yang dianggap penyesat itu setidaknya “sangat saleh.” [LF 108.4]
+
+Dalam pertemuan itu, “Eck dengan angkuh naik ke mimbar yang dihias dengan megah, sementara Oecolampadius yang sederhana, berpakaian seadanya, dipaksa duduk di hadapan lawannya di atas sebuah bangku berukir kasar.” Suara Eck yang lantang dan rasa percaya dirinya yang seolah tidak terbatas tidak pernah surut. Sebagai pembela iman, ia akan menerima bayaran yang besar. Ketika tidak memiliki argumen yang lebih baik, ia memilih melontarkan hinaan, bahkan makian. [LF 108.5]
+
+Oecolampadius yang rendah hati dan kurang percaya diri tidak menyukai pertarungan perdebatan itu. Namun, meskipun lemah lembut dan sopan dalam sikap, ia terbukti mampu berdiri teguh tanpa gentar. Ia berpegang erat pada Kitab Suci. “Adat kebiasaan,” katanya, “tidak memiliki kekuatan di Swiss kami, kecuali jika sesuai dengan konstitusi. Dalam perkara iman, Alkitab adalah konstitusi kami.”[^11] [LF 109.1]
+
+Penalaran sang Reformator yang tenang dan jernih, dikemukakan dengan begitu lembut dan rendah hati, menyentuh pikiran orang-orang yang merasa muak terhadap pernyataan-pernyataan Eck yang pongah. [LF 109.2]
+
+Perdebatan itu berlangsung selama delapan belas hari. Para wakil Roma mengaku menang. Sebagian besar utusan berpihak kepada Roma, dan dewan menyatakan para Reformator kalah serta mengumumkan bahwa mereka bersama Zwingli telah dikeluarkan dari gereja. Namun, pertarungan itu justru memberikan semangat baru kepada perjuangan Protestan. Tidak lama sesudahnya, kota-kota penting Bern dan Basel menyatakan dukungan bagi Reformasi. [LF 109.3]
+
+---
+
+## Catatan kaki sumber
+
+[^1]: James A. Wylie, *History of Protestantism*, buku 8, bab 5.
+[^2]: James A. Wylie, *History of Protestantism*, buku 8, bab 6.
+[^3]: J. H. Merle D’Aubigné, *History of the Reformation of the Sixteenth Century*, buku 8, bab 9.
+[^4]: J. H. Merle D’Aubigné, *History of the Reformation of the Sixteenth Century*, buku 8, bab 5.
+[^5]: J. H. Merle D’Aubigné, *History of the Reformation of the Sixteenth Century*, buku 8, bab 5.
+[^6]: J. H. Merle D’Aubigné, *History of the Reformation of the Sixteenth Century*, buku 8, bab 6.
+[^7]: J. H. Merle D’Aubigné, *History of the Reformation of the Sixteenth Century*, buku 8, bab 6.
+[^8]: J. H. Merle D’Aubigné, *History of the Reformation of the Sixteenth Century*, buku 8, bab 9.
+[^9]: James A. Wylie, *History of Protestantism*, buku 8, bab 11.
+[^10]: J. H. Merle D’Aubigné, *History of the Reformation of the Sixteenth Century*, buku 11, bab 13.
+[^11]: J. H. Merle D’Aubigné, *History of the Reformation of the Sixteenth Century*, buku 11, bab 13.

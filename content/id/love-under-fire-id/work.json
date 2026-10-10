@@ -1,0 +1,19 @@
+{
+  "kind": "work",
+  "id": "work:love-under-fire",
+  "title": "Love Under Fire",
+  "key": "love-under-fire",
+  "relationships": [
+    {
+      "workId": "work:from-here-to-forever",
+      "type": "adaptationOf"
+    }
+  ],
+  "externalIdentifiers": [
+    {
+      "providerId": "egw-writings",
+      "value": "12269"
+    }
+  ],
+  "author": "Ellen G. White"
+}

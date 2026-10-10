@@ -1,0 +1,316 @@
+{
+  "workId": "work:love-under-fire",
+  "collectionIds": [
+    "egw-writings",
+    "conflict-of-the-ages",
+    "young-reader-adaptations"
+  ],
+  "rights": {
+    "permissionNote": "Izin penerbitan dan distribusi digital edisi Bahasa Indonesia di SabatKu telah diatur oleh tim penerbit.",
+    "attribution": "Copyright © 2018 Ellen G. White Estate, Inc. Edisi Bahasa Indonesia oleh tim penerjemah resmi SabatKu.",
+    "status": "verified",
+    "offlineAllowed": true
+  },
+  "cover": "assets/cover.png",
+  "revision": "1",
+  "title": "Kasih di Tengah Kobaran Konflik",
+  "primaryThemeId": "prophecy-eschatology",
+  "key": "love-under-fire-id",
+  "status": "published",
+  "id": "edition:love-under-fire:id:sabatku",
+  "audienceIds": [
+    "teens",
+    "young-adults"
+  ],
+  "kind": "edition",
+  "nodes": [
+    {
+      "id": "front-information",
+      "order": 0,
+      "title": "Informasi tentang Buku",
+      "file": "nodes/00-informasi-buku.md"
+    },
+    {
+      "id": "foreword",
+      "order": 1,
+      "title": "Kata Pengantar",
+      "file": "nodes/01-kata-pengantar.md"
+    },
+    {
+      "id": "introduction",
+      "order": 2,
+      "title": "Menyingkap Tabir Masa Depan",
+      "file": "nodes/02-menyingkap-tabir-masa-depan.md"
+    },
+    {
+      "id": "chapter-01",
+      "order": 3,
+      "title": "Nubuat tentang Nasib Dunia",
+      "file": "nodes/01-nubuat-tentang-nasib-dunia.md"
+    },
+    {
+      "id": "chapter-02",
+      "order": 4,
+      "title": "Orang Kristen Pertama yang Setia dan Teguh",
+      "file": "nodes/02-orang-kristen-pertama-yang-setia-dan-teguh.md"
+    },
+    {
+      "id": "chapter-03",
+      "order": 5,
+      "title": "Kegelapan Rohani dalam Gereja Mula-Mula",
+      "file": "nodes/03-kegelapan-rohani-dalam-gereja-mula-mula.md"
+    },
+    {
+      "id": "chapter-04",
+      "order": 6,
+      "title": "Orang Waldens Mempertahankan Iman",
+      "file": "nodes/04-orang-waldens-mempertahankan-iman.md"
+    },
+    {
+      "id": "chapter-05",
+      "order": 7,
+      "title": "Fajar Terang di Inggris",
+      "file": "nodes/05-fajar-terang-di-inggris.md"
+    },
+    {
+      "id": "chapter-06",
+      "order": 8,
+      "title": "Dua Pahlawan Menghadapi Maut",
+      "file": "nodes/06-dua-pahlawan-menghadapi-maut.md"
+    },
+    {
+      "id": "chapter-07",
+      "order": 9,
+      "title": "Luther, Seorang Tokoh bagi Zamannya",
+      "file": "nodes/07-luther-seorang-tokoh-bagi-zamannya.md"
+    },
+    {
+      "id": "chapter-08",
+      "order": 10,
+      "title": "Seorang Pembela Kebenaran",
+      "file": "nodes/08-seorang-pembela-kebenaran.md"
+    },
+    {
+      "id": "chapter-09",
+      "order": 11,
+      "title": "Terang Dinyalakan di Swiss",
+      "file": "nodes/09-terang-dinyalakan-di-swiss.md"
+    },
+    {
+      "id": "chapter-10",
+      "order": 12,
+      "title": "Kemajuan di Jerman",
+      "file": "nodes/10-kemajuan-di-jerman.md"
+    },
+    {
+      "id": "chapter-11",
+      "order": 13,
+      "title": "Protes Para Pangeran",
+      "file": "nodes/11-protes-para-pangeran.md"
+    },
+    {
+      "id": "chapter-12",
+      "order": 14,
+      "title": "Fajar Menyingsing di Prancis",
+      "file": "nodes/12-fajar-menyingsing-di-prancis.md"
+    },
+    {
+      "id": "chapter-13",
+      "order": 15,
+      "title": "Belanda dan Skandinavia",
+      "file": "nodes/13-belanda-dan-skandinavia.md"
+    },
+    {
+      "id": "chapter-14",
+      "order": 16,
+      "title": "Kebenaran Berkembang di Britania",
+      "file": "nodes/14-kebenaran-berkembang-di-britania.md"
+    },
+    {
+      "id": "chapter-15",
+      "order": 17,
+      "title": "Masa Teror di Prancis: Penyebab Sebenarnya",
+      "file": "nodes/15-masa-teror-di-prancis-penyebab-sebenarnya.md"
+    },
+    {
+      "id": "chapter-16",
+      "order": 18,
+      "title": "Mencari Kebebasan di Dunia Baru",
+      "file": "nodes/16-mencari-kebebasan-di-dunia-baru.md"
+    },
+    {
+      "id": "chapter-17",
+      "order": 19,
+      "title": "Janji tentang Kedatangan Kristus Kembali",
+      "file": "nodes/17-janji-tentang-kedatangan-kristus-kembali.md"
+    },
+    {
+      "id": "chapter-18",
+      "order": 20,
+      "title": "Terang Baru di Dunia Baru",
+      "file": "nodes/18-terang-baru-di-dunia-baru.md"
+    },
+    {
+      "id": "chapter-19",
+      "order": 21,
+      "title": "Mengapa Terjadi Kekecewaan Besar?",
+      "file": "nodes/19-mengapa-terjadi-kekecewaan-besar.md"
+    },
+    {
+      "id": "chapter-20",
+      "order": 22,
+      "title": "Kerinduan akan Kedatangan Kristus",
+      "file": "nodes/20-kerinduan-akan-kedatangan-kristus.md"
+    },
+    {
+      "id": "chapter-21",
+      "order": 23,
+      "title": "Menuai Angin Puyuh",
+      "file": "nodes/21-menuai-angin-puyuh.md"
+    },
+    {
+      "id": "chapter-22",
+      "order": 24,
+      "title": "Penggenapan Nubuat",
+      "file": "nodes/22-penggenapan-nubuat.md"
+    },
+    {
+      "id": "chapter-23",
+      "order": 25,
+      "title": "Misteri Bait Suci yang Tersingkap",
+      "file": "nodes/23-misteri-bait-suci-yang-tersingkap.md"
+    },
+    {
+      "id": "chapter-24",
+      "order": 26,
+      "title": "Apa yang Sedang Kristus Kerjakan Sekarang?",
+      "file": "nodes/24-apa-yang-sedang-kristus-kerjakan-sekarang.md"
+    },
+    {
+      "id": "chapter-25",
+      "order": 27,
+      "title": "Hukum Allah Tidak Berubah",
+      "file": "nodes/25-hukum-allah-tidak-berubah.md"
+    },
+    {
+      "id": "chapter-26",
+      "order": 28,
+      "title": "Para Pejuang Kebenaran",
+      "file": "nodes/26-para-pejuang-kebenaran.md"
+    },
+    {
+      "id": "chapter-27",
+      "order": 29,
+      "title": "Seberapa Berhasilkah Kebangunan Rohani Masa Kini?",
+      "file": "nodes/27-seberapa-berhasilkah-kebangunan-rohani-masa-kini.md"
+    },
+    {
+      "id": "chapter-28",
+      "order": 30,
+      "title": "Menghadapi Catatan Kehidupan Kita",
+      "file": "nodes/28-menghadapi-catatan-kehidupan-kita.md"
+    },
+    {
+      "id": "chapter-29",
+      "order": 31,
+      "title": "Mengapa Dosa Diizinkan?",
+      "file": "nodes/29-mengapa-dosa-diizinkan.md"
+    },
+    {
+      "id": "chapter-30",
+      "order": 32,
+      "title": "Setan dan Umat Manusia dalam Peperangan",
+      "file": "nodes/30-setan-dan-umat-manusia-dalam-peperangan.md"
+    },
+    {
+      "id": "chapter-31",
+      "order": 33,
+      "title": "Roh-Roh Jahat",
+      "file": "nodes/31-roh-roh-jahat.md"
+    },
+    {
+      "id": "chapter-32",
+      "order": 34,
+      "title": "Cara Mengalahkan Setan",
+      "file": "nodes/32-cara-mengalahkan-setan.md"
+    },
+    {
+      "id": "chapter-33",
+      "order": 35,
+      "title": "Apa yang Terjadi Setelah Kematian?",
+      "file": "nodes/33-apa-yang-terjadi-setelah-kematian.md"
+    },
+    {
+      "id": "chapter-34",
+      "order": 36,
+      "title": "Siapakah “Roh-Roh” dalam Spiritisme?",
+      "file": "nodes/34-siapakah-roh-roh-dalam-spiritisme.md"
+    },
+    {
+      "id": "chapter-35",
+      "order": 37,
+      "title": "Kebebasan Hati Nurani Terancam",
+      "file": "nodes/35-kebebasan-hati-nurani-terancam.md"
+    },
+    {
+      "id": "chapter-36",
+      "order": 38,
+      "title": "Pertentangan yang Semakin Dekat",
+      "file": "nodes/36-pertentangan-yang-semakin-dekat.md"
+    },
+    {
+      "id": "chapter-37",
+      "order": 39,
+      "title": "Satu-Satunya Perlindungan Kita",
+      "file": "nodes/37-satu-satunya-perlindungan-kita.md"
+    },
+    {
+      "id": "chapter-38",
+      "order": 40,
+      "title": "Pekabaran Terakhir Allah",
+      "file": "nodes/38-pekabaran-terakhir-allah.md"
+    },
+    {
+      "id": "chapter-39",
+      "order": 41,
+      "title": "Masa Kesukaran",
+      "file": "nodes/39-masa-kesukaran.md"
+    },
+    {
+      "id": "chapter-40",
+      "order": 42,
+      "title": "Umat Allah Dibebaskan",
+      "file": "nodes/40-umat-allah-dibebaskan.md"
+    },
+    {
+      "id": "chapter-41",
+      "order": 43,
+      "title": "Bumi yang Hancur",
+      "file": "nodes/41-bumi-yang-hancur.md"
+    },
+    {
+      "id": "chapter-42",
+      "order": 44,
+      "title": "Kedamaian Kekal: Pertentangan Berakhir",
+      "file": "nodes/42-kedamaian-kekal-pertentangan-berakhir.md"
+    },
+    {
+      "id": "appendix",
+      "order": 45,
+      "title": "Lampiran",
+      "file": "nodes/lampiran.md"
+    },
+    {
+      "id": "glossary",
+      "order": 46,
+      "title": "Glosarium Istilah Teologi",
+      "file": "nodes/glosarium.md"
+    }
+  ],
+  "themeIds": [
+    "prophecy-eschatology",
+    "history-biography"
+  ],
+  "sourceUrl": "https://m.egwwritings.org/en/book/12269.2",
+  "locale": "id"
+}

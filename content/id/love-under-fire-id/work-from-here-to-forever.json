@@ -1,0 +1,13 @@
+{
+  "kind": "work",
+  "id": "work:from-here-to-forever",
+  "title": "From Here to Forever",
+  "key": "from-here-to-forever",
+  "relationships": [
+    {
+      "workId": "work:great-controversy",
+      "type": "abridgementOf"
+    }
+  ],
+  "author": "Ellen G. White"
+}
