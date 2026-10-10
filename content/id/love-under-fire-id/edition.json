@@ -12,7 +12,7 @@
     "offlineAllowed": true
   },
   "cover": "assets/cover.png",
-  "revision": "1",
+  "revision": "2",
   "title": "Kasih di Tengah Kobaran Konflik",
   "primaryThemeId": "prophecy-eschatology",
   "key": "love-under-fire-id",
@@ -311,6 +311,31 @@
     "prophecy-eschatology",
     "history-biography"
   ],
-  "sourceUrl": "https://m.egwwritings.org/en/book/12269.2",
+  "externalEditions": [
+    {
+      "id": "edition:love-under-fire:en:egw-writings",
+      "locale": "en",
+      "title": "Love Under Fire",
+      "providerId": "egw-writings",
+      "sources": [
+        {
+          "kind": "online-text",
+          "label": "Read online at EGW Writings",
+          "url": "https://egwwritings.org/read?panels=p12269.2&index=0",
+          "primary": true
+        },
+        {
+          "kind": "online-text",
+          "label": "Read on EGW Writings mobile",
+          "url": "https://m.egwwritings.org/en/book/12269.2"
+        },
+        {
+          "kind": "pdf",
+          "label": "English PDF from EGW Writings",
+          "url": "https://media2.egwwritings.org/pdf/en_LF.pdf"
+        }
+      ]
+    }
+  ],
   "locale": "id"
 }

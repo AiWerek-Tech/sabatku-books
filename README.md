@@ -2,7 +2,7 @@
 
 Pustaka digital: karya, edisi bahasa, bab, cover, dan binding bacaan pekanan.
 
-Status: executable repository with the first published Indonesian book edition, *Kasih di Tengah Kobaran Konflik*. Android/Web reader integration and `.skpack` generation remain future work.
+Status: first published bilingual catalog record: Indonesian reading text for *Kasih di Tengah Kobaran Konflik* and a provider link to the English *Love Under Fire* edition. Android/Web online readers are integrated; offline book packages remain future work.
 
 ## Commands
 
@@ -13,7 +13,7 @@ npm test
 npm run build:content
 ```
 
-Published Indonesian editions are under `content/`; examples under `examples/` never enter public output. English source text stays with its official provider and is linked from edition metadata. Canonical schemas/taxonomy are owned by `sabatku-contracts`; vendored snapshots have SHA-256 pins in `contracts/lock.json`. Deliberate contract upgrades must update snapshots and pins together.
+Published Indonesian editions are under `content/`; examples under `examples/` never enter public output. A hosted Indonesian edition may declare provider-hosted language editions with `externalEditions`. The generated catalog lists each locale separately, while external entries contain only metadata and official source links; English text stays with its provider and is never copied here. Canonical schemas/taxonomy are owned by `sabatku-contracts`; vendored snapshots have SHA-256 pins in `contracts/lock.json`. Deliberate contract upgrades must update snapshots and pins together.
 
 ## Publishing
 
