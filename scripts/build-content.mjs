@@ -54,8 +54,8 @@ export function build(base=root,{write=true}={}){
    const nodes=d.nodes.map(n=>({id:n.id,title:n.title,parentId:n.parentId,order:n.order,content:asset(source,n.file,prefix+'/nodes/'+n.id.replaceAll(':','-')+'.md')}));
    const cover=asset(source,d.cover,prefix+'/assets/cover'+path.extname(d.cover));
    const manifest={schemaVersion:'sabatku-library-v1',edition:d,work:works.get(d.workId),cover,nodes,capabilities:['markdown-chapters','online-reading'],offlineRedistributionAllowed:d.rights.offlineAllowed};
-   put(prefix+'/manifest.json',manifest);catalog.push({id:d.id,workId:d.workId,title:d.title,author:works.get(d.workId).author,locale:d.locale,revision:d.revision,contentMode:'hosted',themeIds:d.themeIds,collectionIds:d.collectionIds,manifest:prefix+'/manifest.json',cover});
-   for(const external of d.externalEditions||[]){const primary=external.sources.find(source=>source.primary)||external.sources.find(source=>source.kind==='online-text')||external.sources[0];catalog.push({id:external.id,workId:d.workId,title:external.title,author:works.get(d.workId).author,locale:external.locale,revision:d.revision,contentMode:'external-link',providerId:external.providerId,sourceUrl:primary.url,sources:external.sources,themeIds:d.themeIds,collectionIds:d.collectionIds,manifest:null,cover});}
+   put(prefix+'/manifest.json',manifest);catalog.push({id:d.id,workId:d.workId,title:d.title,author:works.get(d.workId).author,locale:d.locale,revision:d.revision,contentMode:'hosted',themeIds:d.themeIds,collectionIds:d.collectionIds,audienceIds:d.audienceIds||[],manifest:prefix+'/manifest.json',cover});
+   for(const external of d.externalEditions||[]){const primary=external.sources.find(source=>source.primary)||external.sources.find(source=>source.kind==='online-text')||external.sources[0];catalog.push({id:external.id,workId:d.workId,title:external.title,author:works.get(d.workId).author,locale:external.locale,revision:d.revision,contentMode:'external-link',providerId:external.providerId,sourceUrl:primary.url,sources:external.sources,themeIds:d.themeIds,collectionIds:d.collectionIds,audienceIds:d.audienceIds||[],manifest:null,cover});}
   }
   if(d.kind==='publication'){
    const provider=providers.get(d.providerId);if(!provider)throw Error('Missing provider');
@@ -81,6 +81,6 @@ export function build(base=root,{write=true}={}){
  put('catalog.json',{schemaVersion:config.domain==='books'?'sabatku-library-v1':'sabatku-publications-v1',domain:config.domain,revision:hash(Buffer.from(JSON.stringify(catalog))),entries:catalog,taxonomy:'taxonomy.json'});put('taxonomy.json',taxonomy);
  put('index.html','<!doctype html><meta charset="utf-8"><title>'+config.name+'</title><h1>'+config.name+'</h1><p>Public content catalog · '+catalog.length+' published entries</p><a href="catalog.json">Catalog JSON</a>');
  if(write){const out=path.join(base,'public');fs.mkdirSync(out,{recursive:true});for(const [p,b]of outputs){const f=path.join(out,p);if(fs.existsSync(f)&&/\/revisions\//.test(p)&&!fs.readFileSync(f).equals(b))throw Error('Immutable revision modified: '+p)}for(const [p,b]of [...outputs].sort(([a],[b])=>(a==='catalog.json')-(b==='catalog.json'))){const f=path.join(out,p);fs.mkdirSync(path.dirname(f),{recursive:true});fs.writeFileSync(f,b)}}
- return {documents:documents.length,published:catalog.length,files:outputs.size};
+ return {documents:documents.length,published:catalog.length,files:outputs.size,catalog:structuredClone(catalog)};
 }
-if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){try{console.log(JSON.stringify(build(root,{write:!process.argv.includes('--check')})))}catch(e){console.error(e.message);process.exitCode=1}}
+if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){try{const {catalog,...summary}=build(root,{write:!process.argv.includes('--check')});console.log(JSON.stringify(summary))}catch(e){console.error(e.message);process.exitCode=1}}

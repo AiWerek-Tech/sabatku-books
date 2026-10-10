@@ -19,6 +19,8 @@ test('the published Indonesian edition and provider-hosted English edition enter
  assert.equal(english.title,'Love Under Fire');
  assert.equal(english.sources.find(source=>source.primary).url,'https://egwwritings.org/read?panels=p12269.2&index=0');
  assert.equal(result.documents,4); // English is provider-hosted; its text is not stored in this repository.
+ assert.deepEqual(result.catalog.find(entry=>entry.locale==='id').audienceIds,['teens','young-adults']);
+ assert.deepEqual(result.catalog.find(entry=>entry.locale==='en').audienceIds,['teens','young-adults']);
 });
 test('unsafe and missing source paths are rejected',()=>{assert.throws(()=>safeFile(root,'../secret'));assert.throws(()=>safeFile(root,'C:/secret'));assert.throws(()=>safeFile(root,'missing.md'))});
 test('contract tampering is detected',()=>{const tmp=fs.mkdtempSync(path.join(os.tmpdir(),'sabatku-contract-test-'));try{fs.cpSync(path.join(root,'contracts'),path.join(tmp,'contracts'),{recursive:true});fs.copyFileSync(path.join(root,'repository.json'),path.join(tmp,'repository.json'));fs.appendFileSync(path.join(tmp,'contracts/digital-content.schema.json'),' ');assert.throws(()=>build(tmp,{write:false}),/Contract snapshot changed/)}finally{fs.rmSync(tmp,{recursive:true,force:true})}});
