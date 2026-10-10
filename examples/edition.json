@@ -1,0 +1,29 @@
+{
+  "kind": "edition",
+  "id": "edition:love-under-fire:id:sabatku-2026",
+  "key": "love-under-fire-id-sabatku-2026",
+  "workId": "work:love-under-fire",
+  "locale": "id",
+  "title": "Kasih di Tengah Kobaran Konflik",
+  "revision": "draft-1",
+  "status": "draft",
+  "rights": {
+    "status": "needs-review",
+    "attribution": "Ellen G. White; terjemahan tim SabatKu",
+    "offlineAllowed": false
+  },
+  "primaryThemeId": "prophecy-eschatology",
+  "themeIds": [
+    "prophecy-eschatology",
+    "history-biography"
+  ],
+  "collectionIds": [
+    "egw-writings",
+    "young-reader-adaptations"
+  ],
+  "audienceIds": [
+    "teens",
+    "young-adults"
+  ],
+  "nodes": []
+}

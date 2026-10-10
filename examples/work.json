@@ -1,0 +1,13 @@
+{
+  "kind": "work",
+  "id": "work:love-under-fire",
+  "key": "love-under-fire",
+  "title": "Love Under Fire",
+  "author": "Ellen G. White",
+  "externalIdentifiers": [
+    {
+      "providerId": "egw-writings",
+      "value": "12269"
+    }
+  ]
+}
