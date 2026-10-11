@@ -1,0 +1,10 @@
+{
+  "kind": "work",
+  "id": "work:mission-stories:children",
+  "key": "mission-stories-children",
+  "title": "Cerita Misi Anak",
+  "author": "Adventist Mission",
+  "seriesIds": [
+    "mission-quarterlies"
+  ]
+}

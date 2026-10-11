@@ -5,7 +5,7 @@
     "library-taxonomy.v1.json": "registries/library-taxonomy.v1.json"
   },
   "files": {
-    "digital-content.schema.json": "c90de49676ad9457a645a7e9a84a7ea23ae49fd2cc010482b5c04092720a4067",
-    "library-taxonomy.v1.json": "43a342db7746e14c564bc56a63bbf23777e50ed8ca53be60e594b7b8dec72c33"
+    "digital-content.schema.json": "339f03c6abe287aa5228f9bb6bab15d8d968748042a7e11b9d3404e88013a6ad",
+    "library-taxonomy.v1.json": "b7257e4e420f9da7e89e91ef07aadc3b835b18791dead3ef3b18ebcd86e64ae8"
   }
 }

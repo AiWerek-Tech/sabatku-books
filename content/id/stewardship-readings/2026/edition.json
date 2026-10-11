@@ -1,0 +1,463 @@
+{
+  "kind": "edition",
+  "id": "edition:stewardship-readings:2026:id",
+  "key": "stewardship-readings-2026-id",
+  "workId": "work:stewardship-readings",
+  "locale": "id",
+  "title": "Bacaan Persembahan dan Persepuluhan 2026",
+  "description": "Edisi 2026 berisi 52 bacaan mingguan untuk setiap Sabat. Tema edisi: Seni Pemberian Sistematis yang Penuh Sukacita. Isi lengkap dan cover tersedia offline.",
+  "revision": "4",
+  "status": "published",
+  "rights": {
+    "status": "verified",
+    "attribution": "Stewardship Ministries of the Seventh-day Adventist Church; edisi Bahasa Indonesia SabatKu.",
+    "offlineAllowed": true,
+    "permissionNote": "Booklet resmi 2026 mengizinkan entitas Gereja Masehi Advent Hari Ketujuh menerjemahkan, mencetak, atau menggandakannya dengan mencantumkan atribusi Stewardship Ministries."
+  },
+  "primaryThemeId": "spiritual-growth:personal-stewardship",
+  "themeIds": [
+    "spiritual-growth:personal-stewardship",
+    "prayer-worship:church-worship"
+  ],
+  "collectionIds": [
+    "tithe-offering-readings"
+  ],
+  "audienceIds": [
+    "all"
+  ],
+  "sources": [
+    {
+      "kind": "provider-page",
+      "label": "2026 Tithe & Offerings Devotional Readings — Adventist Stewardship Ministries",
+      "url": "https://stewardship.adventist.org/2026%E2%80%94for-local-churches-and-divisions-translators",
+      "primary": true,
+      "offlineAllowed": false
+    },
+    {
+      "kind": "pdf",
+      "label": "Booklet resmi 2026 — The Joyful Art of Systematic Giving (PDF)",
+      "url": "https://stewardship.adventist.org/2026-the-joyful-art-of-systematic-giving.pdf",
+      "primary": false,
+      "offlineAllowed": false
+    }
+  ],
+  "cover": "assets/cover.jpg",
+  "nodes": [
+    {
+      "id": "reading-2026-01-03",
+      "title": "Kemurahan Hati yang Sistematis",
+      "nodeType": "chapter",
+      "order": 1,
+      "readingDate": "2026-01-03",
+      "file": "nodes/reading-2026-01-03.md"
+    },
+    {
+      "id": "reading-2026-01-10",
+      "title": "Yesus Menyimpan, Saya Menghabiskan",
+      "nodeType": "chapter",
+      "order": 2,
+      "readingDate": "2026-01-10",
+      "file": "nodes/reading-2026-01-10.md"
+    },
+    {
+      "id": "reading-2026-01-17",
+      "title": "Singa-Singa Larry",
+      "nodeType": "chapter",
+      "order": 3,
+      "readingDate": "2026-01-17",
+      "file": "nodes/reading-2026-01-17.md"
+    },
+    {
+      "id": "reading-2026-01-24",
+      "title": "Aturan Sepersepuluh",
+      "nodeType": "chapter",
+      "order": 4,
+      "readingDate": "2026-01-24",
+      "file": "nodes/reading-2026-01-24.md"
+    },
+    {
+      "id": "reading-2026-01-31",
+      "title": "Gunakan Benda, Kasihi Sesama",
+      "nodeType": "chapter",
+      "order": 5,
+      "readingDate": "2026-01-31",
+      "file": "nodes/reading-2026-01-31.md"
+    },
+    {
+      "id": "reading-2026-02-07",
+      "title": "Umat Kristen yang Berfokus pada Salib",
+      "nodeType": "chapter",
+      "order": 6,
+      "readingDate": "2026-02-07",
+      "file": "nodes/reading-2026-02-07.md"
+    },
+    {
+      "id": "reading-2026-02-14",
+      "title": "Apakah Anda Tidak Memiliki Apa pun atau Memiliki Segalanya?",
+      "nodeType": "chapter",
+      "order": 7,
+      "readingDate": "2026-02-14",
+      "file": "nodes/reading-2026-02-14.md"
+    },
+    {
+      "id": "reading-2026-02-21",
+      "title": "Perisai Iman.",
+      "nodeType": "chapter",
+      "order": 8,
+      "readingDate": "2026-02-21",
+      "file": "nodes/reading-2026-02-21.md"
+    },
+    {
+      "id": "reading-2026-02-28",
+      "title": "Memberi, Tekanan Darah Turun.",
+      "nodeType": "chapter",
+      "order": 9,
+      "readingDate": "2026-02-28",
+      "file": "nodes/reading-2026-02-28.md"
+    },
+    {
+      "id": "reading-2026-03-07",
+      "title": "Cukup.",
+      "nodeType": "chapter",
+      "order": 10,
+      "readingDate": "2026-03-07",
+      "file": "nodes/reading-2026-03-07.md"
+    },
+    {
+      "id": "reading-2026-03-14",
+      "title": "Adventist World Radio.",
+      "nodeType": "chapter",
+      "order": 11,
+      "readingDate": "2026-03-14",
+      "file": "nodes/reading-2026-03-14.md"
+    },
+    {
+      "id": "reading-2026-03-21",
+      "title": "Melindungi Sidik Jari-Nya.",
+      "nodeType": "chapter",
+      "order": 12,
+      "readingDate": "2026-03-21",
+      "file": "nodes/reading-2026-03-21.md"
+    },
+    {
+      "id": "reading-2026-03-28",
+      "title": "Heinz, Kraft, Wrigley, Hershey, & Colgate.",
+      "nodeType": "chapter",
+      "order": 13,
+      "readingDate": "2026-03-28",
+      "file": "nodes/reading-2026-03-28.md"
+    },
+    {
+      "id": "reading-2026-04-04",
+      "title": "Mematikan Diri Sendiri.",
+      "nodeType": "chapter",
+      "order": 14,
+      "readingDate": "2026-04-04",
+      "file": "nodes/reading-2026-04-04.md"
+    },
+    {
+      "id": "reading-2026-04-11",
+      "title": "Saluran Pengharapan Persembahan Anggaran Sedunia-Hope Channel International.",
+      "nodeType": "chapter",
+      "order": 15,
+      "readingDate": "2026-04-11",
+      "file": "nodes/reading-2026-04-11.md"
+    },
+    {
+      "id": "reading-2026-04-18",
+      "title": "Kebutuhan Baru.",
+      "nodeType": "chapter",
+      "order": 16,
+      "readingDate": "2026-04-18",
+      "file": "nodes/reading-2026-04-18.md"
+    },
+    {
+      "id": "reading-2026-04-25",
+      "title": "Tetapi Bagaimana dengan Hari Esok?",
+      "nodeType": "chapter",
+      "order": 17,
+      "readingDate": "2026-04-25",
+      "file": "nodes/reading-2026-04-25.md"
+    },
+    {
+      "id": "reading-2026-05-02",
+      "title": "Akhir dari Kepemilikan.",
+      "nodeType": "chapter",
+      "order": 18,
+      "readingDate": "2026-05-02",
+      "file": "nodes/reading-2026-05-02.md"
+    },
+    {
+      "id": "reading-2026-05-09",
+      "title": "Persembahan Bantuan Bencana dan Kelaparan.",
+      "nodeType": "chapter",
+      "order": 19,
+      "readingDate": "2026-05-09",
+      "file": "nodes/reading-2026-05-09.md"
+    },
+    {
+      "id": "reading-2026-05-16",
+      "title": "Untuk Apa Anda Hidup?",
+      "nodeType": "chapter",
+      "order": 20,
+      "readingDate": "2026-05-16",
+      "file": "nodes/reading-2026-05-16.md"
+    },
+    {
+      "id": "reading-2026-05-23",
+      "title": "Delapan \"T\" Kehidupan Penuh Syukur.",
+      "nodeType": "chapter",
+      "order": 21,
+      "readingDate": "2026-05-23",
+      "file": "nodes/reading-2026-05-23.md"
+    },
+    {
+      "id": "reading-2026-05-30",
+      "title": "Kekayaan & Kesehatan.",
+      "nodeType": "chapter",
+      "order": 22,
+      "readingDate": "2026-05-30",
+      "file": "nodes/reading-2026-05-30.md"
+    },
+    {
+      "id": "reading-2026-06-06",
+      "title": "Sozo.",
+      "nodeType": "chapter",
+      "order": 23,
+      "readingDate": "2026-06-06",
+      "file": "nodes/reading-2026-06-06.md"
+    },
+    {
+      "id": "reading-2026-06-13",
+      "title": "Apakah Anda Ingin Ferrari Baru?",
+      "nodeType": "chapter",
+      "order": 24,
+      "readingDate": "2026-06-13",
+      "file": "nodes/reading-2026-06-13.md"
+    },
+    {
+      "id": "reading-2026-06-20",
+      "title": "Para Musafir yang Bergerak Cepat.",
+      "nodeType": "chapter",
+      "order": 25,
+      "readingDate": "2026-06-20",
+      "file": "nodes/reading-2026-06-20.md"
+    },
+    {
+      "id": "reading-2026-06-27",
+      "title": "Harta di Hati.",
+      "nodeType": "chapter",
+      "order": 26,
+      "readingDate": "2026-06-27",
+      "file": "nodes/reading-2026-06-27.md"
+    },
+    {
+      "id": "reading-2026-07-04",
+      "title": "Peliharalah Iman.",
+      "nodeType": "chapter",
+      "order": 27,
+      "readingDate": "2026-07-04",
+      "file": "nodes/reading-2026-07-04.md"
+    },
+    {
+      "id": "reading-2026-07-11",
+      "title": "Persembahan Dana Misi Dunia.",
+      "nodeType": "chapter",
+      "order": 28,
+      "readingDate": "2026-07-11",
+      "file": "nodes/reading-2026-07-11.md"
+    },
+    {
+      "id": "reading-2026-07-18",
+      "title": "Amal Adalah Kemewahan Kami.",
+      "nodeType": "chapter",
+      "order": 29,
+      "readingDate": "2026-07-18",
+      "file": "nodes/reading-2026-07-18.md"
+    },
+    {
+      "id": "reading-2026-07-25",
+      "title": "Memberi Penghargaan.",
+      "nodeType": "chapter",
+      "order": 30,
+      "readingDate": "2026-07-25",
+      "file": "nodes/reading-2026-07-25.md"
+    },
+    {
+      "id": "reading-2026-08-01",
+      "title": "Kedamaian Finansial.",
+      "nodeType": "chapter",
+      "order": 31,
+      "readingDate": "2026-08-01",
+      "file": "nodes/reading-2026-08-01.md"
+    },
+    {
+      "id": "reading-2026-08-08",
+      "title": "Kapitalisme Welas Asih.",
+      "nodeType": "chapter",
+      "order": 32,
+      "readingDate": "2026-08-08",
+      "file": "nodes/reading-2026-08-08.md"
+    },
+    {
+      "id": "reading-2026-08-15",
+      "title": "Rasa Bersalah Penyintas.",
+      "nodeType": "chapter",
+      "order": 33,
+      "readingDate": "2026-08-15",
+      "file": "nodes/reading-2026-08-15.md"
+    },
+    {
+      "id": "reading-2026-08-22",
+      "title": "Memberi Selagi Hidup.",
+      "nodeType": "chapter",
+      "order": 34,
+      "readingDate": "2026-08-22",
+      "file": "nodes/reading-2026-08-22.md"
+    },
+    {
+      "id": "reading-2026-08-29",
+      "title": "Meja yang Lebih Panjang.",
+      "nodeType": "chapter",
+      "order": 35,
+      "readingDate": "2026-08-29",
+      "file": "nodes/reading-2026-08-29.md"
+    },
+    {
+      "id": "reading-2026-09-05",
+      "title": "Seni Memberi.",
+      "nodeType": "chapter",
+      "order": 36,
+      "readingDate": "2026-09-05",
+      "file": "nodes/reading-2026-09-05.md"
+    },
+    {
+      "id": "reading-2026-09-12",
+      "title": "Dana Misi Dunia (Kesempatan-Kesempatan Luar Biasa).",
+      "nodeType": "chapter",
+      "order": 37,
+      "readingDate": "2026-09-12",
+      "file": "nodes/reading-2026-09-12.md"
+    },
+    {
+      "id": "reading-2026-09-19",
+      "title": "Kasih Memberi.",
+      "nodeType": "chapter",
+      "order": 38,
+      "readingDate": "2026-09-19",
+      "file": "nodes/reading-2026-09-19.md"
+    },
+    {
+      "id": "reading-2026-09-26",
+      "title": "Kebenaran Abadi.",
+      "nodeType": "chapter",
+      "order": 39,
+      "readingDate": "2026-09-26",
+      "file": "nodes/reading-2026-09-26.md"
+    },
+    {
+      "id": "reading-2026-10-03",
+      "title": "Berjalan seperti Domba (Sheepwalking).",
+      "nodeType": "chapter",
+      "order": 40,
+      "readingDate": "2026-10-03",
+      "file": "nodes/reading-2026-10-03.md"
+    },
+    {
+      "id": "reading-2026-10-10",
+      "title": "Peperangan Itu Nyata.",
+      "nodeType": "chapter",
+      "order": 41,
+      "readingDate": "2026-10-10",
+      "file": "nodes/reading-2026-10-10.md"
+    },
+    {
+      "id": "reading-2026-10-17",
+      "title": "Dengan Hati-Hati dan Penuh Doa, tetapi Tidak dengan Rasa Takut.",
+      "nodeType": "chapter",
+      "order": 42,
+      "readingDate": "2026-10-17",
+      "file": "nodes/reading-2026-10-17.md"
+    },
+    {
+      "id": "reading-2026-10-24",
+      "title": "Tepi Jurang.",
+      "nodeType": "chapter",
+      "order": 43,
+      "readingDate": "2026-10-24",
+      "file": "nodes/reading-2026-10-24.md"
+    },
+    {
+      "id": "reading-2026-10-31",
+      "title": "Memberi Selagi Hidup.",
+      "nodeType": "chapter",
+      "order": 44,
+      "readingDate": "2026-10-31",
+      "file": "nodes/reading-2026-10-31.md"
+    },
+    {
+      "id": "reading-2026-11-07",
+      "title": "Satu Misi.",
+      "nodeType": "chapter",
+      "order": 45,
+      "readingDate": "2026-11-07",
+      "file": "nodes/reading-2026-11-07.md"
+    },
+    {
+      "id": "reading-2026-11-14",
+      "title": "Pahlawan Tanpa Tanda Jasa.",
+      "nodeType": "chapter",
+      "order": 46,
+      "readingDate": "2026-11-14",
+      "file": "nodes/reading-2026-11-14.md"
+    },
+    {
+      "id": "reading-2026-11-21",
+      "title": "Megafon Tuhan.",
+      "nodeType": "chapter",
+      "order": 47,
+      "readingDate": "2026-11-21",
+      "file": "nodes/reading-2026-11-21.md"
+    },
+    {
+      "id": "reading-2026-11-28",
+      "title": "Tua, Miskin, dan Sendirian.",
+      "nodeType": "chapter",
+      "order": 48,
+      "readingDate": "2026-11-28",
+      "file": "nodes/reading-2026-11-28.md"
+    },
+    {
+      "id": "reading-2026-12-05",
+      "title": "Mencari Dana (Fundraising) atau Membangkitkan Iman (Faithraising)?",
+      "nodeType": "chapter",
+      "order": 49,
+      "readingDate": "2026-12-05",
+      "file": "nodes/reading-2026-12-05.md"
+    },
+    {
+      "id": "reading-2026-12-12",
+      "title": "Hati-Hati !",
+      "nodeType": "chapter",
+      "order": 50,
+      "readingDate": "2026-12-12",
+      "file": "nodes/reading-2026-12-12.md"
+    },
+    {
+      "id": "reading-2026-12-19",
+      "title": "Kekekalan di Hati Kita.",
+      "nodeType": "chapter",
+      "order": 51,
+      "readingDate": "2026-12-19",
+      "file": "nodes/reading-2026-12-19.md"
+    },
+    {
+      "id": "reading-2026-12-26",
+      "title": "Merencanakan Pemberian Kita di Tahun 2027.",
+      "nodeType": "chapter",
+      "order": 52,
+      "readingDate": "2026-12-26",
+      "file": "nodes/reading-2026-12-26.md"
+    }
+  ]
+}

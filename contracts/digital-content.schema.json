@@ -140,6 +140,19 @@
           "minLength": 1,
           "maxLength": 1200
         },
+        "publicationPeriod": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "type": { "const": "quarterly" },
+            "year": { "type": "integer", "minimum": 1900, "maximum": 2200 },
+            "quarter": { "type": "integer", "minimum": 1, "maximum": 4 },
+            "cadence": { "const": "weekly" },
+            "startDate": { "type": "string", "format": "date" },
+            "endDate": { "type": "string", "format": "date" }
+          },
+          "required": ["type", "year", "quarter", "cadence", "startDate", "endDate"]
+        },
         "revision": {
           "type": "string",
           "pattern": "^[a-z0-9][a-z0-9-]*$"
@@ -312,6 +325,15 @@
               "order": {
                 "type": "integer",
                 "minimum": 0
+              },
+              "readingDate": {
+                "type": "string",
+                "format": "date"
+              },
+              "country": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 100
               },
               "file": {
                 "type": "string",

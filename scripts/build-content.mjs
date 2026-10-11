@@ -95,7 +95,7 @@ export function build(base=root,{write=true}={}){
      const output=prefix+'/nodes/'+n.id.replaceAll(':','-')+'.md';put(output,bytes);
      content={path:output,bytes:bytes.length,sha256:hash(bytes)};
     }
-    nodes.push({id:n.id,title:n.title,parentId:n.parentId,nodeType:nodeKind,order:n.order,...(content?{content}:{})});
+    nodes.push({id:n.id,title:n.title,parentId:n.parentId,nodeType:nodeKind,order:n.order,...(n.readingDate?{readingDate:n.readingDate}:{}),...(n.country?{country:n.country}:{}),...(content?{content}:{})});
    };
    for(const n of d.nodes){
     const body=fs.readFileSync(safeFile(source,n.file),'utf8');
@@ -110,8 +110,8 @@ export function build(base=root,{write=true}={}){
    }
    const cover=asset(source,d.cover,prefix+'/assets/cover'+path.extname(d.cover));
    const manifest={schemaVersion:'sabatku-library-v1',edition:d,work:works.get(d.workId),cover,nodes,capabilities:['markdown-chapters','hierarchical-toc','footnotes','online-reading','offline-download'],offlineRedistributionAllowed:d.rights.offlineAllowed};
-   put(prefix+'/manifest.json',manifest);catalog.push({id:d.id,workId:d.workId,title:d.title,description:d.description||'',author:works.get(d.workId).author,locale:d.locale,revision:d.revision,contentMode:'hosted',offlineAllowed:d.rights.offlineAllowed,sources:(d.sources||[]).map(source=>({...source,offlineAllowed:source.offlineAllowed===true})),primaryThemeId:d.primaryThemeId,themeIds:d.themeIds,collectionIds:d.collectionIds,audienceIds:d.audienceIds||[],seriesIds:works.get(d.workId).seriesIds||[],manifest:prefix+'/manifest.json',cover});
-   for(const external of d.externalEditions||[]){const primary=external.sources.find(source=>source.primary)||external.sources.find(source=>source.kind==='online-text')||external.sources[0];catalog.push({id:external.id,workId:d.workId,title:external.title,description:external.description||d.description||'',author:works.get(d.workId).author,locale:external.locale,revision:d.revision,contentMode:'external-link',providerId:external.providerId,sourceUrl:primary.url,sources:external.sources.map(source=>({...source,offlineAllowed:source.offlineAllowed===true})),primaryThemeId:d.primaryThemeId,themeIds:d.themeIds,collectionIds:d.collectionIds,audienceIds:d.audienceIds||[],seriesIds:works.get(d.workId).seriesIds||[],manifest:null,cover});}
+   put(prefix+'/manifest.json',manifest);catalog.push({id:d.id,workId:d.workId,title:d.title,description:d.description||'',author:works.get(d.workId).author,locale:d.locale,revision:d.revision,contentMode:'hosted',offlineAllowed:d.rights.offlineAllowed,sources:(d.sources||[]).map(source=>({...source,offlineAllowed:source.offlineAllowed===true})),primaryThemeId:d.primaryThemeId,themeIds:d.themeIds,collectionIds:d.collectionIds,audienceIds:d.audienceIds||[],seriesIds:works.get(d.workId).seriesIds||[],...(d.publicationPeriod?{publicationPeriod:d.publicationPeriod}:{}),manifest:prefix+'/manifest.json',cover});
+   for(const external of d.externalEditions||[]){const primary=external.sources.find(source=>source.primary)||external.sources.find(source=>source.kind==='online-text')||external.sources[0];catalog.push({id:external.id,workId:d.workId,title:external.title,description:external.description||d.description||'',author:works.get(d.workId).author,locale:external.locale,revision:d.revision,contentMode:'external-link',providerId:external.providerId,sourceUrl:primary.url,sources:external.sources.map(source=>({...source,offlineAllowed:source.offlineAllowed===true})),primaryThemeId:d.primaryThemeId,themeIds:d.themeIds,collectionIds:d.collectionIds,audienceIds:d.audienceIds||[],seriesIds:works.get(d.workId).seriesIds||[],...(d.publicationPeriod?{publicationPeriod:d.publicationPeriod}:{}),manifest:null,cover});}
   }
   if(d.kind==='publication'){
    const provider=providers.get(d.providerId);if(!provider)throw Error('Missing provider');

@@ -1,0 +1,10 @@
+{
+  "kind": "work",
+  "id": "work:mission-stories:youth-adult",
+  "key": "mission-stories-youth-adult",
+  "title": "Cerita Misi Pemuda & Dewasa",
+  "author": "Adventist Mission",
+  "seriesIds": [
+    "mission-quarterlies"
+  ]
+}

@@ -668,6 +668,27 @@
       }
     },
     {
+      "id": "mission-stories-children",
+      "label": {
+        "id": "Cerita Misi Anak",
+        "en": "Children's Mission Stories"
+      }
+    },
+    {
+      "id": "mission-stories-youth-adult",
+      "label": {
+        "id": "Cerita Misi Pemuda & Dewasa",
+        "en": "Youth & Adult Mission Stories"
+      }
+    },
+    {
+      "id": "tithe-offering-readings",
+      "label": {
+        "id": "Bacaan Persembahan dan Persepuluhan",
+        "en": "Tithe & Offering Readings"
+      }
+    },
+    {
       "id": "conflict-of-the-ages",
       "label": {
         "id": "Conflict of the Ages",
@@ -740,5 +761,20 @@
       }
     }
   ],
-  "series": []
+  "series": [
+    {
+      "id": "joyful-art-systematic-giving",
+      "label": {
+        "id": "Seni Pemberian Sistematis yang Penuh Sukacita",
+        "en": "The Joyful Art of Systematic Giving"
+      }
+    },
+    {
+      "id": "mission-quarterlies",
+      "label": {
+        "id": "Cerita Misi Triwulanan",
+        "en": "Mission Quarterlies"
+      }
+    }
+  ]
 }
