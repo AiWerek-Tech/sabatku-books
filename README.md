@@ -2,7 +2,7 @@
 
 Pustaka digital: karya, edisi bahasa, bab, cover, dan binding bacaan pekanan.
 
-Status: the published catalog contains Indonesian reading text for *Kasih di Tengah Kobaran Konflik* and a provider link to the English *Love Under Fire* edition. The Android client can save a complete hosted edition for offline reading when its rights metadata explicitly permits it; the English provider link stays online. This client-side cache is not a portable book package or a replacement for the static catalog publication flow.
+Status (2026-10-11): the published catalog contains full hosted Indonesian *Kasih di Tengah Kobaran Konflik* and English *Love Under Fire* editions. Their approved rights metadata permits Android offline caching; the app verifies chapter sizes and hashes. Web reading remains online-only. This app-managed cache is not a portable `.skpack` package. Studio-based book publishing and package delivery are postponed, not cancelled, because hosting/server budget is unavailable; there is no restart date. The current publisher is GitHub Pages.
 
 ## Commands
 
@@ -13,7 +13,7 @@ npm test
 npm run build:content
 ```
 
-Published Indonesian editions are under `content/`; examples under `examples/` never enter public output. A hosted Indonesian edition may declare provider-hosted language editions with `externalEditions`. The generated catalog lists each locale separately, while external entries contain only metadata and official source links; English text stays with its provider and is never copied here. Canonical schemas/taxonomy are owned by `sabatku-contracts`; vendored snapshots have SHA-256 pins in `contracts/lock.json`. Deliberate contract upgrades must update snapshots and pins together.
+Published hosted editions are under `content/`; examples under `examples/` never enter public output. A work may also declare genuinely external language editions with `externalEditions`; those entries contain metadata and official source links only, without copying provider text. Both current *Love Under Fire* language editions are SabatKu-hosted and have explicit approved rights metadata. Canonical schemas/taxonomy are owned by `sabatku-contracts`; vendored snapshots have SHA-256 pins in `contracts/lock.json`. Deliberate contract upgrades must update snapshots and pins together.
 
 ## Publishing
 
