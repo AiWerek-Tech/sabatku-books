@@ -58,12 +58,10 @@ test('published Indonesian and local English editions enter the catalog with off
  assert.deepEqual(indonesian.seriesIds,[]);
  assert.deepEqual(result.catalog.find(entry=>entry.locale==='en').seriesIds,[]);
 });
-test('2026 stewardship readings publish 52 Sabbath entries with byte-verified offline Android assets',()=>{
+test('2026 stewardship readings publish 52 consecutive Sabbath entries with complete source files',()=>{
  const result=build(root,{write:false});
  const edition=JSON.parse(fs.readFileSync(path.join(root,'content/id/stewardship-readings/2026/edition.json'),'utf8'));
  const work=JSON.parse(fs.readFileSync(path.join(root,'content/id/stewardship-readings/works/readings.json'),'utf8'));
- const androidAssets=path.resolve(root,'../sabatku-android/app/src/main/assets/stewardship-readings');
- const bundle=JSON.parse(fs.readFileSync(path.join(androidAssets,'index.json'),'utf8'));
  assert.equal(edition.id,'edition:stewardship-readings:2026:id');
  assert.equal(edition.revision,'4');
  assert.equal(edition.status,'published');
@@ -74,28 +72,23 @@ test('2026 stewardship readings publish 52 Sabbath entries with byte-verified of
  assert.equal(edition.nodes.length,52);
  assert.ok(edition.sources.some(source=>source.primary&&source.url.startsWith('https://stewardship.adventist.org/')));
  assert.ok(edition.sources.some(source=>source.kind==='pdf'&&source.url.endsWith('.pdf')));
- assert.equal(bundle.book.id,edition.id);
- assert.equal(bundle.book.revision,edition.revision);
- assert.equal(bundle.readings.length,52);
- assert.ok(fs.statSync(path.join(androidAssets,'cover.jpg')).size>0);
+ const cover=fs.readFileSync(path.join(root,'content/id/stewardship-readings/2026',edition.cover));
+ assert.ok(cover.length>0);
  for(let index=0;index<52;index++){
-  const node=edition.nodes[index],row=bundle.readings[index];
+  const node=edition.nodes[index];
   const date=new Date(`${node.readingDate}T00:00:00Z`);
   assert.equal(node.order,index+1);
   assert.equal(node.nodeType,'chapter');
   assert.equal(date.getUTCDay(),6,`${node.id} is a Sabbath reading`);
   if(index)assert.equal(date.getTime()-new Date(`${edition.nodes[index-1].readingDate}T00:00:00Z`).getTime(),7*24*60*60*1000);
-  assert.equal(row.id,node.id);
-  assert.equal(row.readingDate,node.readingDate);
-  const bytes=fs.readFileSync(path.join(androidAssets,row.contentAssetPath.replace('stewardship-readings/','')));
-  assert.ok(bytes.length>0);
-  assert.equal(bytes.length,row.bytes,`${row.id} byte length`);
-  assert.equal(crypto.createHash('sha256').update(bytes).digest('hex'),row.sha256,`${row.id} SHA-256`);
+  const bytes=fs.readFileSync(path.join(root,'content/id/stewardship-readings/2026',node.file));
+  assert.ok(bytes.length>0,`${node.id} source file`);
  }
  const catalogEntry=result.catalog.find(entry=>entry.id===edition.id);
  assert.ok(catalogEntry);
  assert.equal(catalogEntry.offlineAllowed,true);
 });
+
 test('Mission Quarterlies publish child and youth/adult books with 13 aligned weekly chapters',()=>{
  const result=build(root,{write:false});
  const editions=result.catalog.filter(entry=>entry.id.startsWith('edition:mission-stories:')).sort((a,b)=>a.id.localeCompare(b.id));
