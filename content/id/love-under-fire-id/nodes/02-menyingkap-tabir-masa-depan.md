@@ -47,5 +47,3 @@ Tujuan buku ini ialah menguraikan adegan-adegan pertentangan besar antara kebena
 **E. G. W.**
 
 [^pengantar]: Pengantar oleh penulis (*Author’s Introduction*), sesuai catatan kaki pada halaman cetak xiii sumber.
-
-*Catatan penerjemahan: kutipan ayat diterjemahkan mengikuti redaksi bahasa Inggris PDF, belum diverifikasi sebagai kutipan harfiah dari Alkitab Terjemahan Baru LAI.*

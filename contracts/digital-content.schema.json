@@ -46,6 +46,14 @@
           "type": "string",
           "minLength": 1
         },
+        "seriesIds": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9:._-]*$"
+          },
+          "uniqueItems": true
+        },
         "externalIdentifiers": {
           "type": "array",
           "items": {
@@ -127,6 +135,11 @@
           "type": "string",
           "minLength": 1
         },
+        "description": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 1200
+        },
         "revision": {
           "type": "string",
           "pattern": "^[a-z0-9][a-z0-9-]*$"
@@ -200,6 +213,22 @@
           "format": "uri",
           "pattern": "^https://"
         },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "kind": { "enum": ["online-text", "pdf", "audio", "provider-page"] },
+              "label": { "type": "string", "minLength": 1 },
+              "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+              "primary": { "type": "boolean" },
+              "offlineAllowed": { "type": "boolean" }
+            },
+            "required": ["kind", "label", "url"]
+          }
+        },
         "externalEditions": {
           "type": "array",
           "items": {
@@ -243,6 +272,9 @@
                     },
                     "primary": {
                       "type": "boolean"
+                    },
+                    "offlineAllowed": {
+                      "type": "boolean"
                     }
                   },
                   "required": ["kind", "label", "url"]
@@ -269,6 +301,9 @@
               "title": {
                 "type": "string",
                 "minLength": 1
+              },
+              "nodeType": {
+                "enum": ["front-matter", "part", "chapter", "section", "appendix", "glossary"]
               },
               "parentId": {
                 "type": "string",
@@ -780,6 +815,29 @@
               "label"
             ]
           }
+        },
+        "series": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^[a-z0-9][a-z0-9:._-]*$"
+              },
+              "label": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "id": { "type": "string", "minLength": 1 },
+                  "en": { "type": "string", "minLength": 1 }
+                },
+                "required": ["id", "en"]
+              }
+            },
+            "required": ["id", "label"]
+          }
         }
       },
       "required": [
@@ -787,7 +845,8 @@
         "version",
         "themes",
         "collections",
-        "audiences"
+        "audiences",
+        "series"
       ]
     }
   }

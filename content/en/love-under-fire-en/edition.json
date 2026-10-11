@@ -1,0 +1,376 @@
+{
+  "kind": "edition",
+  "id": "edition:love-under-fire:en:sabatku",
+  "key": "love-under-fire-en",
+  "workId": "work:love-under-fire",
+  "locale": "en",
+  "title": "Love Under Fire",
+  "description": "Trace the history of the Christian church and the faith struggles of Christ’s followers, from the early church to events of the last days. This book highlights biblical prophecy and the hope of Christ’s return.",
+  "revision": "3",
+  "status": "published",
+  "rights": {
+    "status": "verified",
+    "attribution": "Love Under Fire © 2018 Ellen G. White Estate, Inc. English digital reading edition prepared for SabatKu.",
+    "offlineAllowed": true,
+    "permissionNote": "SabatKu has official authorization from the rights holder to process and publish this English edition for online and offline reading in the SabatKu application."
+  },
+  "primaryThemeId": "prophecy-eschatology",
+  "themeIds": [
+    "prophecy-eschatology",
+    "history-biography"
+  ],
+  "collectionIds": [
+    "egw-writings",
+    "conflict-of-the-ages",
+    "young-reader-adaptations"
+  ],
+  "audienceIds": [
+    "teens",
+    "young-adults"
+  ],
+  "sourceUrl": "https://m.egwwritings.org/en/book/12269.2",
+  "sources": [
+    {
+      "kind": "online-text",
+      "label": "Read online at EGW Writings",
+      "url": "https://egwwritings.org/read?panels=p12269.2&index=0",
+      "primary": true
+    },
+    {
+      "kind": "online-text",
+      "label": "Read on EGW Writings mobile",
+      "url": "https://m.egwwritings.org/en/book/12269.2"
+    },
+    {
+      "kind": "pdf",
+      "label": "English PDF from EGW Writings",
+      "url": "https://media2.egwwritings.org/pdf/en_LF.pdf",
+      "offlineAllowed": true
+    }
+  ],
+  "cover": "assets/cover.jpg",
+  "nodes": [
+    {
+      "id": "front-information",
+      "order": 0,
+      "title": "About this edition",
+      "nodeType": "front-matter",
+      "file": "nodes/00-about-this-edition.md"
+    },
+    {
+      "id": "foreword",
+      "order": 1,
+      "title": "Foreword",
+      "nodeType": "front-matter",
+      "file": "nodes/01-foreword.md"
+    },
+    {
+      "id": "introduction",
+      "order": 2,
+      "title": "Lifting the Veil on the Future",
+      "nodeType": "front-matter",
+      "file": "nodes/02-lifting-the-veil-on-the-future.md"
+    },
+    {
+      "id": "chapter-01",
+      "order": 3,
+      "title": "Chapter 1 — A Forecast of the World’s Destiny",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-01.md"
+    },
+    {
+      "id": "chapter-02",
+      "order": 4,
+      "title": "Chapter 2 — The First Christians Loyal and True",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-02.md"
+    },
+    {
+      "id": "chapter-03",
+      "order": 5,
+      "title": "Chapter 3 — Spiritual Darkness in the Early Church",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-03.md"
+    },
+    {
+      "id": "chapter-04",
+      "order": 6,
+      "title": "Chapter 4 — The Waldenses Defend the Faith",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-04.md"
+    },
+    {
+      "id": "chapter-05",
+      "order": 7,
+      "title": "Chapter 5 — The Light Breaks in England",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-05.md"
+    },
+    {
+      "id": "chapter-06",
+      "order": 8,
+      "title": "Chapter 6 — Two Heroes Face Death",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-06.md"
+    },
+    {
+      "id": "chapter-07",
+      "order": 9,
+      "title": "Chapter 7 — Luther, a Man for His Time",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-07.md"
+    },
+    {
+      "id": "chapter-08",
+      "order": 10,
+      "title": "Chapter 8 — A Champion of Truth",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-08.md"
+    },
+    {
+      "id": "chapter-09",
+      "order": 11,
+      "title": "Chapter 9 — Light Kindled in Switzerland",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-09.md"
+    },
+    {
+      "id": "chapter-10",
+      "order": 12,
+      "title": "Chapter 10 — Progress in Germany",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-10.md"
+    },
+    {
+      "id": "chapter-11",
+      "order": 13,
+      "title": "Chapter 11 — The Protest of the Princes",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-11.md"
+    },
+    {
+      "id": "chapter-12",
+      "order": 14,
+      "title": "Chapter 12 — Daybreak in France",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-12.md"
+    },
+    {
+      "id": "chapter-13",
+      "order": 15,
+      "title": "Chapter 13 — The Netherlands and Scandinavia",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-13.md"
+    },
+    {
+      "id": "chapter-14",
+      "order": 16,
+      "title": "Chapter 14 — Truth Advances in Britain",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-14.md"
+    },
+    {
+      "id": "chapter-15",
+      "order": 17,
+      "title": "Chapter 15 — France’s Reign of Terror: Its True Cause",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-15.md"
+    },
+    {
+      "id": "chapter-16",
+      "order": 18,
+      "title": "Chapter 16 — Seeking Freedom in a New World",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-16.md"
+    },
+    {
+      "id": "chapter-17",
+      "order": 19,
+      "title": "Chapter 17 — Promises of Christ’s Return",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-17.md"
+    },
+    {
+      "id": "chapter-18",
+      "order": 20,
+      "title": "Chapter 18 — New Light in the New World",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-18.md"
+    },
+    {
+      "id": "chapter-19",
+      "order": 21,
+      "title": "Chapter 19 — Why the Great Disappointment?",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-19.md"
+    },
+    {
+      "id": "chapter-20",
+      "order": 22,
+      "title": "Chapter 20 — Love for Christ’s Coming",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-20.md"
+    },
+    {
+      "id": "chapter-21",
+      "order": 23,
+      "title": "Chapter 21 — Reaping the Whirlwind",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-21.md"
+    },
+    {
+      "id": "chapter-22",
+      "order": 24,
+      "title": "Chapter 22 — Prophecies Fulfilled",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-22.md"
+    },
+    {
+      "id": "chapter-23",
+      "order": 25,
+      "title": "Chapter 23 — The Open Mystery of the Sanctuary",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-23.md"
+    },
+    {
+      "id": "chapter-24",
+      "order": 26,
+      "title": "Chapter 24 — What Is Christ Doing Now?",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-24.md"
+    },
+    {
+      "id": "chapter-25",
+      "order": 27,
+      "title": "Chapter 25 — God’s Law Unchangeable",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-25.md"
+    },
+    {
+      "id": "chapter-26",
+      "order": 28,
+      "title": "Chapter 26 — Champions for Truth",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-26.md"
+    },
+    {
+      "id": "chapter-27",
+      "order": 29,
+      "title": "Chapter 27 — How Successful Are Modern Revivals?",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-27.md"
+    },
+    {
+      "id": "chapter-28",
+      "order": 30,
+      "title": "Chapter 28 — Facing Our Life Record",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-28.md"
+    },
+    {
+      "id": "chapter-29",
+      "order": 31,
+      "title": "Chapter 29 — Why Was Sin Permitted?",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-29.md"
+    },
+    {
+      "id": "chapter-30",
+      "order": 32,
+      "title": "Chapter 30 — Satan and Humanity at War",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-30.md"
+    },
+    {
+      "id": "chapter-31",
+      "order": 33,
+      "title": "Chapter 31 — Evil Spirits",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-31.md"
+    },
+    {
+      "id": "chapter-32",
+      "order": 34,
+      "title": "Chapter 32 — How to Defeat Satan",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-32.md"
+    },
+    {
+      "id": "chapter-33",
+      "order": 35,
+      "title": "Chapter 33 — What Happens After Death?",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-33.md"
+    },
+    {
+      "id": "chapter-34",
+      "order": 36,
+      "title": "Chapter 34 — Who Are the “Spirits” in Spiritualism?",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-34.md"
+    },
+    {
+      "id": "chapter-35",
+      "order": 37,
+      "title": "Chapter 35 — Liberty of Conscience Threatened",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-35.md"
+    },
+    {
+      "id": "chapter-36",
+      "order": 38,
+      "title": "Chapter 36 — The Approaching Conflict",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-36.md"
+    },
+    {
+      "id": "chapter-37",
+      "order": 39,
+      "title": "Chapter 37 — Our Only Safeguard",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-37.md"
+    },
+    {
+      "id": "chapter-38",
+      "order": 40,
+      "title": "Chapter 38 — God’s Final Message",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-38.md"
+    },
+    {
+      "id": "chapter-39",
+      "order": 41,
+      "title": "Chapter 39 — The Time of Trouble",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-39.md"
+    },
+    {
+      "id": "chapter-40",
+      "order": 42,
+      "title": "Chapter 40 — God’s People Delivered",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-40.md"
+    },
+    {
+      "id": "chapter-41",
+      "order": 43,
+      "title": "Chapter 41 — The Earth in Ruins",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-41.md"
+    },
+    {
+      "id": "chapter-42",
+      "order": 44,
+      "title": "Chapter 42 — Eternal Peace: The Controversy Ended",
+      "nodeType": "chapter",
+      "file": "nodes/chapter-42.md"
+    },
+    {
+      "id": "appendix",
+      "order": 45,
+      "title": "Appendix",
+      "nodeType": "appendix",
+      "file": "nodes/appendix.md"
+    }
+  ]
+}

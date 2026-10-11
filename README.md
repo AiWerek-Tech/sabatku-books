@@ -2,7 +2,7 @@
 
 Pustaka digital: karya, edisi bahasa, bab, cover, dan binding bacaan pekanan.
 
-Status: first published bilingual catalog record: Indonesian reading text for *Kasih di Tengah Kobaran Konflik* and a provider link to the English *Love Under Fire* edition. Android/Web online readers are integrated; offline book packages remain future work.
+Status: the published catalog contains Indonesian reading text for *Kasih di Tengah Kobaran Konflik* and a provider link to the English *Love Under Fire* edition. The Android client can save a complete hosted edition for offline reading when its rights metadata explicitly permits it; the English provider link stays online. This client-side cache is not a portable book package or a replacement for the static catalog publication flow.
 
 ## Commands
 
@@ -19,7 +19,7 @@ Published Indonesian editions are under `content/`; examples under `examples/` n
 
 GitHub Actions validates content/tests then builds an artifact. Push to main deploys only `public/` to GitHub Pages using GitHub Actions. Enable Pages → Source: GitHub Actions. Draft files are never served by Pages, but this public Git repository exposes committed source files; private editorial files must stay elsewhere.
 
-Published revision files are immutable. Reuse of a revision ID for changed content is rejected when existing output is present; retain previous publication artifacts when releasing revisions. Catalog is generated last. Online chapters use Markdown; hashes and byte counts accompany files. A content-level offline permission does not mean Android has installed/offline reader support; no complete offline book claim is made until client packaging exists.
+Published revision files are immutable. Reuse of a revision ID for changed content is rejected when existing output is present; retain previous publication artifacts when releasing revisions. Catalog is generated last. Online chapters use Markdown; hashes and byte counts accompany files. Android verifies chapter hashes and byte counts before storing an offline copy. An edition is downloadable only when its rights status and `offlineAllowed` metadata approve it; external PDFs require their own explicit permission. Portable book packages and server-side package delivery remain future work.
 
 ## Architecture
 

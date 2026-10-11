@@ -8,19 +8,16 @@ Ellen G. White (1827–1915) dianggap sebagai penulis Amerika yang karyanya pali
 
 ## Tautan Lebih Lanjut
 
-- *A Brief Biography of Ellen G. White* (Biografi Singkat Ellen G. White)
-- *About the Ellen G. White Estate* (Tentang Ellen G. White Estate)
+Informasi lebih lanjut tentang Ellen G. White dan Ellen G. White Estate tersedia melalui [situs resmi Ellen G. White Estate](https://whiteestate.org/).
 
-*Catatan penyunting: pada PDF sumber, kedua judul di atas dicantumkan tanpa alamat URL yang terlihat dalam teks hasil ekstraksi. Tautan tidak dibuat-buat dalam terjemahan ini.*
+## Edisi SabatKu
 
-## Perjanjian Lisensi Pengguna Akhir
-
-Dengan melihat, mencetak, atau mengunduh buku ini, Anda hanya memperoleh lisensi terbatas, non-eksklusif, dan tidak dapat dialihkan, untuk penggunaan pribadi Anda sendiri. Lisensi ini tidak mengizinkan penerbitan ulang, distribusi, pengalihan, pemberian sublisensi, penjualan, pembuatan karya turunan, atau penggunaan lainnya. Setiap penggunaan buku ini tanpa izin mengakhiri lisensi yang dengan ini diberikan. [LF i.3]
+Edisi Bahasa Indonesia ini diterjemahkan dan disiapkan untuk SabatKu dengan izin resmi pemegang hak. Edisi ini diterbitkan untuk dibaca melalui aplikasi SabatKu, termasuk ketika salinan offline tersedia. Atribusi hak cipta dan kredit penerjemahan tercantum di bawah.
 
 ## Informasi Lebih Lanjut
 
-Untuk informasi lebih lanjut mengenai penulis, penerbit, atau cara mendukung layanan ini, silakan menghubungi Ellen G. White Estate melalui **mail@whiteestate.org**. Kami berterima kasih atas minat dan tanggapan Anda, serta mendoakan agar Allah memberkati Anda saat membaca. [LF i.4]
+Untuk informasi tentang edisi SabatKu, hubungi tim SabatKu. Semoga bacaan ini menolong Anda semakin mengenal kasih Allah.
 
 ---
 
-**Informasi penerbitan sumber:** *Love Under Fire*, Ellen G. White; pada halaman judul tercantum tahun **2011**, sedangkan pernyataan hak cipta berbunyi **Copyright © 2018 Ellen G. White Estate, Inc.** Keduanya dipertahankan apa adanya. Penerjemah harus meninjau cakupan izin tersendiri sebelum menyebarkan versi turunan ini.
+**Informasi penerbitan sumber:** *Love Under Fire*, Ellen G. White, diterbitkan pada 2011. Edisi sumber mencantumkan Copyright © 2018 Ellen G. White Estate, Inc.

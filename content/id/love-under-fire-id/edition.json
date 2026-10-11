@@ -6,14 +6,15 @@
     "young-reader-adaptations"
   ],
   "rights": {
-    "permissionNote": "Izin penerbitan dan distribusi digital edisi Bahasa Indonesia di SabatKu telah diatur oleh tim penerbit.",
+    "permissionNote": "Edisi Bahasa Indonesia ini diterjemahkan dan disiapkan untuk SabatKu dengan izin resmi pemegang hak. Penggunaan digital dan salinan offline di aplikasi SabatKu termasuk dalam izin edisi ini.",
     "attribution": "Copyright © 2018 Ellen G. White Estate, Inc. Edisi Bahasa Indonesia oleh tim penerjemah resmi SabatKu.",
     "status": "verified",
     "offlineAllowed": true
   },
   "cover": "assets/cover.png",
-  "revision": "2",
+  "revision": "7",
   "title": "Kasih di Tengah Kobaran Konflik",
+  "description": "Telusuri sejarah gereja Kristen dan pergumulan iman para pengikut Kristus, dari gereja mula-mula hingga peristiwa akhir zaman. Buku ini menyoroti penggenapan nubuat Alkitab dan pengharapan akan kedatangan Kristus kembali.",
   "primaryThemeId": "prophecy-eschatology",
   "key": "love-under-fire-id",
   "status": "published",
@@ -299,43 +300,11 @@
       "order": 45,
       "title": "Lampiran",
       "file": "nodes/lampiran.md"
-    },
-    {
-      "id": "glossary",
-      "order": 46,
-      "title": "Glosarium Istilah Teologi",
-      "file": "nodes/glosarium.md"
     }
   ],
   "themeIds": [
     "prophecy-eschatology",
     "history-biography"
-  ],
-  "externalEditions": [
-    {
-      "id": "edition:love-under-fire:en:egw-writings",
-      "locale": "en",
-      "title": "Love Under Fire",
-      "providerId": "egw-writings",
-      "sources": [
-        {
-          "kind": "online-text",
-          "label": "Read online at EGW Writings",
-          "url": "https://egwwritings.org/read?panels=p12269.2&index=0",
-          "primary": true
-        },
-        {
-          "kind": "online-text",
-          "label": "Read on EGW Writings mobile",
-          "url": "https://m.egwwritings.org/en/book/12269.2"
-        },
-        {
-          "kind": "pdf",
-          "label": "English PDF from EGW Writings",
-          "url": "https://media2.egwwritings.org/pdf/en_LF.pdf"
-        }
-      ]
-    }
   ],
   "locale": "id"
 }

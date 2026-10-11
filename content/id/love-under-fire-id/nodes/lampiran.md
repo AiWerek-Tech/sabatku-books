@@ -1,4 +1,4 @@
-> **Catatan editorial:** Rujukan seperti **“Halaman 24”**, **“Halaman 113”**, atau **“Halaman 234”** pada awal setiap pokok di bawah ini merupakan **rujukan yang dicetak dalam lampiran sumber bahasa Inggris**, bukan kode `[LF halaman.paragraf]` dan **tidak otomatis mengacu pada halaman edisi ringkas *Love Under Fire*** yang dipakai proyek ini. Rujukan tersebut dipertahankan tanpa mengubahnya secara spekulatif. Nama karya bibliografis umumnya dipertahankan dalam bahasa aslinya.
+> **Tentang rujukan halaman:** Nomor halaman pada lampiran mengikuti edisi sumber yang dirujuk dan dapat berbeda dari posisi bacaan dalam edisi digital SabatKu. Nama karya bibliografis dipertahankan dalam bahasa aslinya agar mudah ditelusuri.
 
 ### Halaman 24 — Gelar-Gelar
 
@@ -179,5 +179,3 @@ Lihat catatan untuk halaman 32. [LF 376.2]
 Sampai pada masa yang belum terlalu lama berlalu, Gereja Koptik di Etiopia memelihara Sabat hari ketujuh. Orang Etiopia juga memelihara hari Minggu. Namun, pemeliharaan Sabat hari ketujuh hampir sepenuhnya berhenti di Etiopia modern. Untuk catatan saksi mata mengenai hari-hari keagamaan di Etiopia, lihat Pero Gomes de Teixeira, *The Discovery of Abyssinia by the Portuguese in 1520* (diterjemahkan ke dalam bahasa Inggris di London: British Museum, 1938), hlm. 79; Pastor Francisco Alvarez, *Narrative of the Portuguese Embassy to Abyssinia During the Years 1520–1527*, dalam *Records of the Hakluyt Society* (London, 1881), jilid 64, hlm. 22–49. [LF 376.3]
 
 ---
-
-**Catatan pemeriksaan:** Bahan ini merupakan terjemahan lampiran sebagaimana adanya dalam PDF, termasuk pernyataan historis, angka, dan rujukan bibliografisnya. Pencantuman pernyataan dari sumber **tidak** berarti semua klaim tersebut sudah diverifikasi secara historis melalui sumber luar. Referensi silang dan beberapa tahun/angka cetak perlu audit editorial tersendiri sebelum publikasi.

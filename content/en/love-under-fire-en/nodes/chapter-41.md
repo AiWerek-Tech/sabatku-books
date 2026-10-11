@@ -1,0 +1,51 @@
+# Chapter 41 — The Earth in Ruins
+
+When the voice of God brings the captivity of His people to an end, a terrible awakening takes place among those who have lost everything in the great conflict of life. Blinded by Satan’s deceptions, the rich prided themselves that they were better than those less favored. But they had neglected to feed the hungry, clothe the naked, deal justly, and love mercy. Now they have lost everything that made them great, and they are left with nothing. They watch in terror as their idols are destroyed. They have sold their souls for earthly enjoyments and have not become rich toward God. Their lives are a failure, their pleasures turned bitter. The gain of a lifetime is swept away in a moment. The rich mourn the destruction of their grand houses, the scattering of their gold and silver, and the fear that they themselves will perish with their idols. The wicked are sorry that the result is what it is, but they do not repent of their wickedness.
+
+The minister who has sacrificed truth to gain people’s approval now recognizes the influence of his teachings. Every line written, every word uttered that led others to rest secure in falsehood has been sowing seed, and now he sees the harvest of lost people around him. Says the Lord: “Woe to the shepherds who destroy and scatter the sheep of My pasture! ... Behold, I will attend to you for the evil of your doings.” “With lies you have made the heart of the righteous sad, whom I have not made sad; and you have strengthened the hands of the wicked, so that he does not turn from his wicked way to save his life.” (Jeremiah 23:1, 2; Ezekiel 13:22.)
+
+Ministers and people see that they have rebelled against the Author of all righteous law. Setting aside God’s laws opened the way to thousands of springs of evil, until the earth became one vast pit of corruption. No language can express the longing the disloyal feel for what they have lost forever—eternal life.
+
+The people accuse one another of having led them to destruction, but they all unite in heaping their bitterest condemnation on the unfaithful pastors who prophesied “smooth things” (Isaiah 30:10), who led their hearers to make void the law of God and persecute those who wanted to keep it holy. “We are lost,” they cry, “and you are the cause.” The same people who once heaped honor and praise on them will turn against them to destroy them. Everywhere there is conflict and bloodshed.
+
+The Son of God and heavenly messengers have been in conflict with the evil one to warn, enlighten, and save the lost. Now all have made their decisions; the wicked have fully united with Satan in his warfare against God. The controversy is not just with Satan, but with human beings. “The LORD has a controversy with the nations” (Jeremiah 25:31).
+
+## The Angel of Death
+
+Now the angel of death goes out, represented in Ezekiel’s vision by the men with the slaughtering weapons, to whom the command is given: “Utterly slay old and young men, maidens and little children and women; but do not come near anyone on whom is the mark; and begin at My sanctuary.” “They began with the elders who were before the temple,” those who professed to be the spiritual guardians of the people. (Ezekiel 9:6.)
+
+False watchmen are the first to fall. “The LORD comes out of His place to punish the inhabitants of the earth for their iniquity; the earth will also disclose her blood, and will no more cover her slain.” “A great panic from the LORD will be among them. Everyone will seize the hand of his neighbor, and raise his hand against his neighbor’s hand.” (Isaiah 26:21; Zechariah 14:13.)
+
+In the wild strife of their own fierce passions and by the pouring out of God’s unmingled wrath, wicked priests, rulers, and people fall. “At that day the slain of the LORD shall be from one end of the earth even to the other” (Jeremiah 25:33).
+
+At the coming of Christ the wicked are destroyed by the brightness of His glory. Christ takes His people to the city of God, and the earth has no more inhabitants. “Behold, the LORD makes the earth empty and makes it waste, distorts its surface and scatters abroad its inhabitants.... The land shall be entirely emptied and utterly plundered, for the LORD has spoken this word.... Because they have transgressed the laws, changed the ordinance, broken the everlasting covenant. Therefore the curse has devoured the earth, and those who dwell in it are desolate. Therefore the inhabitants of the earth are burned” (Isaiah 24:1, 3, 5, 6).
+
+The earth looks like a desolate wilderness. Cities destroyed by the earthquake, uprooted trees, ragged rocks torn out of the earth, are scattered over its surface. Vast caverns mark the spot where the mountains have been torn from their foundations.
+
+## The Banishment of Satan
+
+Now the event takes place that was foreshadowed in the last solemn service of the Day of Atonement. When the sins of Israel had been removed from the sanctuary through the blood of the sin offering, the scapegoat was presented alive before the Lord. The high priest confessed over him “all the iniquities of the children of Israel, ... putting them on the head of the goat” (Leviticus 16:21). Similarly, when Jesus has completed the work of atonement in the heavenly sanctuary, then, in the presence of God and heavenly angels and the legions of the redeemed, the sins of God’s people will be placed on Satan. He will be declared guilty of all the evil that he has caused them to commit. As the scapegoat was sent away into an uninhabited land, so Satan will be banished to the desolate earth.
+
+After presenting scenes of the Lord’s coming, John continues: “I saw an angel coming down from heaven, having the key to the bottomless pit and a great chain in his hand. He laid hold of the dragon, that serpent of old, who is the Devil and Satan, and bound him for a thousand years; and he cast him into the bottomless pit, and shut him up, and set a seal on him, so that he should deceive the nations no more till the thousand years were finished. But after these things he must be released for a little while” (Revelation 20:1-3).
+
+The “bottomless pit” represents the earth in confusion and darkness. Looking forward to the great day of God, Jeremiah declares: “I beheld the earth, and indeed it was without form, and void;[^1] and the heavens, they had no light. I beheld the mountains, and indeed they trembled, and all the hills moved back and forth. I beheld, and indeed there was no man, and all the birds of the heavens had fled. I beheld, and indeed the fruitful land was a wilderness, and all its cities were broken down” (Jeremiah 4:23-26).
+
+This earth is to be the home of Satan with his evil angels for a thousand years. Limited to the earth, he will not have access to other worlds to tempt and annoy those who have never fallen. In this sense he is “bound.” No one is left on whom he can exercise his power. He is cut off from the work of deception and ruin that has been his one delight.
+
+Looking forward to Satan’s overthrow, Isaiah exclaimed: “How you are fallen from heaven, O Lucifer, son of the morning! How you are cut down to the ground, you who weakened the nations! For you have said in your heart: ‘I will ascend into heaven, I will exalt my throne above the stars of God; ... I will be like the Most High.’ Yet you shall be brought down to Sheol, to the lowest depths of the Pit. Those who see you will gaze at you, and consider you, saying: ‘Is this the man who made the earth tremble, who shook kingdoms, who made the world as a wilderness and destroyed its cities, who did not open the house of his prisoners?’” (Isaiah 14:12-17).
+
+For six thousand years, Satan’s prison house has received God’s people, but Christ has broken his chains and set the prisoners free. Alone with his evil angels Satan realizes the effect of sin: “The kings of the nations, all of them, sleep in glory, everyone in his own house [the grave]; but you are cast out of your grave like an abominable branch.... You will not be joined with them in burial, because you have destroyed your land and slain your people” (Isaiah 14:18-20).
+
+For a thousand years, Satan will gaze on the results of his rebellion against the law of God. He suffers
+
+intensely. He is now left to think about the part he has acted since he rebelled and to look forward with terror to the dreadful future when he must be punished.
+
+During the thousand years between the first and second resurrections, the judgment of the wicked takes place. Paul points to this as an event that follows the Second Advent (1 Corinthians 4:5). The righteous reign as kings and priests. John says: “I saw thrones, and they sat on them, and judgment was committed to them.... They shall be priests of God and of Christ, and shall reign with Him a thousand years” (Revelation 20:4, 6).
+
+At this time “the saints will judge the world” (1 Corinthians 6:2). In union with Christ they judge the wicked, deciding every case according to the deeds done in the body. Then the punishment the wicked must suffer is set, according to their works, and it is recorded against their names in the book of death.
+
+Christ and His people judge Satan and the evil angels. Paul says, “Do you not know that we shall judge angels?” (1 Corinthians 6:3). Jude declares, “The angels who did not keep their proper domain, but left their own abode, He has reserved in everlasting chains under darkness for the judgment of the great day” (Jude 6).
+
+At the close of the thousand years, the second resurrection will take place. Then the wicked will be raised from the dead and appear before God for the execution of “the written judgment” (Psalm 149:9). So John says: “The rest of the dead did not live again until the thousand years were finished” (Revelation 20:5). And Isaiah declares concerning the wicked, “They will be gathered together, as prisoners are gathered in the pit, and will be shut up in the prison; after many days they will be punished” (Isaiah 24:22).
+
+[^1]: The word for “deep” in Genesis 1:2 in the Greek translation of the Old Testament is abyssos, which also appears here in Jeremiah. This same word is found in the Greek text of Revelation 20:1, rendered in the New King James Version as “bottomless pit.”

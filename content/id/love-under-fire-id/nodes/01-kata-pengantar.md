@@ -11,5 +11,3 @@ Buku ini menyajikan pemahaman tentang nubuat Alkitab, menyoroti nubuat-nubuat pe
 Ellen G. White menulis lima jilid yang bersama-sama membentuk seri *Conflict of the Ages* (*Pertentangan Segala Zaman*), yang menelusuri pertentangan antara Kristus dan Setan sejak awalnya di surga, melalui berbagai peristiwa besar pada zaman Alkitab, hingga masa setelah penulisan Alkitab dan berakhirnya pertentangan itu. *Love Under Fire* diringkas dan diadaptasi dari jilid kelima seri tersebut. Harapan dan doa agar semakin banyak pembaca ditarik mendekat kepada Allah melalui buku-buku ini dan penyajiannya tentang tema-tema Alkitab datang dari [LF xii.2]
 
 **Para Pengurus Ellen G. White Estate**
-
-*Catatan penerjemahan: kutipan Alkitab di sini diterjemahkan dari redaksi bahasa Inggris dalam sumber; tidak diklaim sebagai kutipan harfiah dari edisi LAI tertentu.*

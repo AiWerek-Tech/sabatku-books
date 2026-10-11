@@ -8,6 +8,41 @@ export const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..'
 const hash=b=>crypto.createHash('sha256').update(b).digest('hex');
 const MAX_CHAPTER_BYTES=2*1024*1024;
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
+const notePattern=/^\[\^([^\]]+)\]:\s*(.*)$/;
+function splitChapter(markdown,id){
+ const lines=markdown.replace(/\r\n/g,'\n').split('\n'),notes=new Map(),body=[];let active=null;
+ for(const line of lines){
+  const match=notePattern.exec(line);
+  if(match){active=match[1];if(notes.has(active))throw Error(`${id}: duplicate footnote ${active}`);notes.set(active,[match[2]]);continue;}
+  if(active&&/^\s{2,}\S/.test(line)){notes.get(active).push(line.trim());continue;}
+  active=null;body.push(line);
+ }
+ const sections=[];let current={title:null,lines:[]};
+ for(const line of body){const heading=/^##\s+(.+?)\s*$/.exec(line.trim());if(heading){sections.push(current);current={title:heading[1],lines:[]};}else current.lines.push(line);}
+ sections.push(current);
+ const used=new Set();
+ for(const section of sections){const text=section.lines.join('\n').trim();for(const match of text.matchAll(/\[\^([^\]]+)\]/g))used.add(match[1]);}
+ for(const id of used)if(!notes.has(id))throw Error(`${id}: footnote ${id} is referenced but has no definition`);
+ const render=section=>{
+  const text=section.lines.join('\n').trim();if(!text)return '';
+  const ids=[...new Set([...text.matchAll(/\[\^([^\]]+)\]/g)].map(match=>match[1]))];
+  const definitions=ids.map(noteId=>`[^${noteId}]: ${notes.get(noteId).join(' ')}`);
+  return [text,...definitions].join('\n\n');
+ };
+ const intro=render(sections[0]);
+ const children=sections.slice(1).map((section,index)=>({title:section.title,body:render(section),index}));
+ return {intro,children};
+}
+function nodeType(node){
+ if(node.nodeType)return node.nodeType;
+ if(/^chapter-[0-9]+/.test(node.id))return 'chapter';
+ if(node.id==='appendix')return 'appendix';
+ if(node.id==='glossary')return 'glossary';
+ return 'front-matter';
+}
+function sectionSlug(value){
+ return value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,48)||'section';
+}
 export function safeFile(base,rel){
  if(typeof rel!=='string'||rel.includes('\\')||rel.includes(':')||path.isAbsolute(rel)||rel.split('/').includes('..')) throw Error('Unsafe path: '+rel);
  const full=path.resolve(base,rel), boundary=fs.realpathSync(base);
@@ -26,7 +61,7 @@ export function build(base=root,{write=true}={}){
  const ajv=new Ajv({allErrors:true,strict:false});formats(ajv);const validate=ajv.compile(schema);
  const taxonomy=read(path.join(base,'contracts/library-taxonomy.v1.json'));
  if(!validate(taxonomy))throw Error('Invalid taxonomy '+ajv.errorsText(validate.errors));
- const themes=new Set(taxonomy.themes.map(x=>x.id)),collections=new Set(taxonomy.collections.map(x=>x.id)),audiences=new Set(taxonomy.audiences.map(x=>x.id));
+ const themes=new Set(taxonomy.themes.map(x=>x.id)),collections=new Set(taxonomy.collections.map(x=>x.id)),audiences=new Set(taxonomy.audiences.map(x=>x.id)),series=new Set(taxonomy.series.map(x=>x.id));
  const documents=files(path.join(base,'content')).filter(p=>p.endsWith('.json')).map(p=>{const data=read(p);if(!validate(data))throw Error(p+': '+ajv.errorsText(validate.errors));return {data,base:path.dirname(p)}});
  const ids=new Set();for(const {data:d}of documents){if(ids.has(d.id))throw Error('Duplicate identity '+d.id);ids.add(d.id)}
  const works=new Map(documents.filter(x=>x.data.kind==='work').map(x=>[x.data.id,x.data]));
@@ -35,7 +70,7 @@ export function build(base=root,{write=true}={}){
  const outputs=new Map(),catalog=[];const destinations=new Set();
  const externalEditionIds=new Set();for(const {data:d}of documents.filter(x=>x.data.kind==='edition')){const locales=new Set([d.locale]);for(const external of d.externalEditions||[]){if(ids.has(external.id)||externalEditionIds.has(external.id))throw Error('Duplicate external edition identity '+external.id);externalEditionIds.add(external.id);if(locales.has(external.locale))throw Error(`${d.id}: duplicate edition locale ${external.locale}`);locales.add(external.locale);const sourceUrls=new Set();for(const source of external.sources){let url;try{url=new URL(source.url)}catch{throw Error(`${external.id}: invalid source URL`)}if(url.protocol!=='https:'||!url.hostname||url.username||url.password)throw Error(`${external.id}: external source must use HTTPS without credentials`);if(sourceUrls.has(url.href))throw Error(`${external.id}: duplicate external source URL`);sourceUrls.add(url.href)}if(!external.sources.some(source=>source.kind==='online-text'))throw Error(`${external.id}: an external text edition needs an online-text source`);if(external.sources.filter(source=>source.primary).length>1)throw Error(`${external.id}: only one source may be primary`);}}
  const put=(p,v)=>{if(outputs.has(p))throw Error('Duplicate output '+p);outputs.set(p,Buffer.isBuffer(v)?v:Buffer.from(typeof v==='string'?v:JSON.stringify(v,null,2)+'\n'))};
- const refCheck=(d)=>{for(const t of d.themeIds||[])if(!themes.has(t))throw Error('Unknown theme '+t);if(d.primaryThemeId&&!d.themeIds.includes(d.primaryThemeId))throw Error('Primary theme missing from themeIds');for(const t of d.collectionIds||[])if(!collections.has(t))throw Error('Unknown collection '+t);for(const t of d.audienceIds||[])if(!audiences.has(t))throw Error('Unknown audience '+t)};
+ const refCheck=(d)=>{for(const t of d.themeIds||[])if(!themes.has(t))throw Error('Unknown theme '+t);if(d.primaryThemeId&&!d.themeIds.includes(d.primaryThemeId))throw Error('Primary theme missing from themeIds');for(const t of d.collectionIds||[])if(!collections.has(t))throw Error('Unknown collection '+t);for(const t of d.audienceIds||[])if(!audiences.has(t))throw Error('Unknown audience '+t);for(const t of d.seriesIds||[])if(!series.has(t))throw Error('Unknown series '+t)};
  const asset=(source,rel,dest)=>{const bytes=fs.readFileSync(safeFile(source,rel));put(dest,bytes);return {path:dest,bytes:bytes.length,sha256:hash(bytes)}};
  for(const {data:d,base:source}of documents){
   if(config.domain==='books'&&!['work','edition','reading-plan'].includes(d.kind))throw Error('Wrong domain document '+d.kind);
@@ -43,6 +78,7 @@ export function build(base=root,{write=true}={}){
   refCheck(d);
   if(d.kind==='edition'){
    if(!works.has(d.workId))throw Error('Missing work '+d.workId);
+   const sourceUrls=new Set();for(const source of d.sources||[]){let url;try{url=new URL(source.url)}catch{throw Error(`${d.id}: invalid source URL`)}if(url.protocol!=='https:'||!url.hostname||url.username||url.password)throw Error(`${d.id}: source must use HTTPS without credentials`);if(sourceUrls.has(url.href))throw Error(`${d.id}: duplicate source URL`);sourceUrls.add(url.href)}if(d.sources?.filter(source=>source.primary).length>1)throw Error(`${d.id}: only one source may be primary`);
    const nodeIds=new Set(d.nodes.map(n=>n.id));if(nodeIds.size!==d.nodes.length)throw Error('Duplicate node');
    for(const n of d.nodes)if(n.parentId&&!nodeIds.has(n.parentId))throw Error('Missing parent node');
    for(const n of d.nodes){const seen=new Set([n.id]);let p=n.parentId;while(p){if(seen.has(p))throw Error('TOC cycle');seen.add(p);p=d.nodes.find(x=>x.id===p).parentId}}
@@ -51,11 +87,31 @@ export function build(base=root,{write=true}={}){
    if(d.status!=='published')continue;
    if(!['verified','public-domain'].includes(d.rights.status)||!d.nodes.length||!d.cover)throw Error('Published edition needs approved rights, cover and content');
    const prefix='editions/'+d.key+'/revisions/'+d.revision;if(destinations.has(prefix))throw Error('Output collision');destinations.add(prefix);
-   const nodes=d.nodes.map(n=>({id:n.id,title:n.title,parentId:n.parentId,order:n.order,content:asset(source,n.file,prefix+'/nodes/'+n.id.replaceAll(':','-')+'.md')}));
+   const nodes=[];
+   const addNode=(n,body,nodeKind)=>{
+    let content;
+    if(body.trim()){
+     const bytes=Buffer.from(body+'\n');if(bytes.length>MAX_CHAPTER_BYTES)throw Error(`${d.id}/${n.id}: chapter section exceeds the 2 MiB reader limit`);
+     const output=prefix+'/nodes/'+n.id.replaceAll(':','-')+'.md';put(output,bytes);
+     content={path:output,bytes:bytes.length,sha256:hash(bytes)};
+    }
+    nodes.push({id:n.id,title:n.title,parentId:n.parentId,nodeType:nodeKind,order:n.order,...(content?{content}:{})});
+   };
+   for(const n of d.nodes){
+    const body=fs.readFileSync(safeFile(source,n.file),'utf8');
+    if(nodeType(n)==='chapter'){
+     const split=splitChapter(body,n.id);addNode(n,split.intro,'chapter');
+     split.children.forEach((section,index)=>{
+      if(!section.title)throw Error(`${d.id}/${n.id}: a chapter contains an empty section heading`);
+      const id=`${n.id}:section-${sectionSlug(section.title)}-${index+1}`;
+      addNode({id,title:section.title,parentId:n.id,order:index+1},section.body,'section');
+     });
+    }else addNode(n,body,nodeType(n));
+   }
    const cover=asset(source,d.cover,prefix+'/assets/cover'+path.extname(d.cover));
-   const manifest={schemaVersion:'sabatku-library-v1',edition:d,work:works.get(d.workId),cover,nodes,capabilities:['markdown-chapters','online-reading'],offlineRedistributionAllowed:d.rights.offlineAllowed};
-   put(prefix+'/manifest.json',manifest);catalog.push({id:d.id,workId:d.workId,title:d.title,author:works.get(d.workId).author,locale:d.locale,revision:d.revision,contentMode:'hosted',themeIds:d.themeIds,collectionIds:d.collectionIds,audienceIds:d.audienceIds||[],manifest:prefix+'/manifest.json',cover});
-   for(const external of d.externalEditions||[]){const primary=external.sources.find(source=>source.primary)||external.sources.find(source=>source.kind==='online-text')||external.sources[0];catalog.push({id:external.id,workId:d.workId,title:external.title,author:works.get(d.workId).author,locale:external.locale,revision:d.revision,contentMode:'external-link',providerId:external.providerId,sourceUrl:primary.url,sources:external.sources,themeIds:d.themeIds,collectionIds:d.collectionIds,audienceIds:d.audienceIds||[],manifest:null,cover});}
+   const manifest={schemaVersion:'sabatku-library-v1',edition:d,work:works.get(d.workId),cover,nodes,capabilities:['markdown-chapters','hierarchical-toc','footnotes','online-reading','offline-download'],offlineRedistributionAllowed:d.rights.offlineAllowed};
+   put(prefix+'/manifest.json',manifest);catalog.push({id:d.id,workId:d.workId,title:d.title,description:d.description||'',author:works.get(d.workId).author,locale:d.locale,revision:d.revision,contentMode:'hosted',offlineAllowed:d.rights.offlineAllowed,sources:(d.sources||[]).map(source=>({...source,offlineAllowed:source.offlineAllowed===true})),primaryThemeId:d.primaryThemeId,themeIds:d.themeIds,collectionIds:d.collectionIds,audienceIds:d.audienceIds||[],seriesIds:works.get(d.workId).seriesIds||[],manifest:prefix+'/manifest.json',cover});
+   for(const external of d.externalEditions||[]){const primary=external.sources.find(source=>source.primary)||external.sources.find(source=>source.kind==='online-text')||external.sources[0];catalog.push({id:external.id,workId:d.workId,title:external.title,description:external.description||d.description||'',author:works.get(d.workId).author,locale:external.locale,revision:d.revision,contentMode:'external-link',providerId:external.providerId,sourceUrl:primary.url,sources:external.sources.map(source=>({...source,offlineAllowed:source.offlineAllowed===true})),primaryThemeId:d.primaryThemeId,themeIds:d.themeIds,collectionIds:d.collectionIds,audienceIds:d.audienceIds||[],seriesIds:works.get(d.workId).seriesIds||[],manifest:null,cover});}
   }
   if(d.kind==='publication'){
    const provider=providers.get(d.providerId);if(!provider)throw Error('Missing provider');
