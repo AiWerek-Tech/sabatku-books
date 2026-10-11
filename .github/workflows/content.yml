@@ -12,19 +12,32 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: sabatku-books
     steps:
       - uses: actions/checkout@v4
+        with:
+          path: sabatku-books
+      - name: Checkout Android assets for cross-repository content validation
+        uses: actions/checkout@v4
+        with:
+          repository: AiWerek-Tech/sabatku-android
+          ref: 231da04419a3066566a5ea843dd9a86175f37704
+          path: sabatku-android
+          sparse-checkout: app/src/main/assets/stewardship-readings
       - uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
+          cache-dependency-path: sabatku-books/package-lock.json
       - run: npm ci
       - run: npm run validate
       - run: npm test
       - run: npm run build:content
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: sabatku-books/public
   deploy:
     if: github.event_name != 'pull_request'
     needs: build
