@@ -11,9 +11,14 @@ npm ci
 npm run validate
 npm test
 npm run build:content
+npm run manage:books
 ```
 
 Published hosted editions are under `content/`; examples under `examples/` never enter public output. A work may also declare genuinely external language editions with `externalEditions`; those entries contain metadata and official source links only, without copying provider text. Both current *Love Under Fire* language editions are SabatKu-hosted and have explicit approved rights metadata. Canonical schemas/taxonomy are owned by `sabatku-contracts`; vendored snapshots have SHA-256 pins in `contracts/lock.json`. Deliberate contract upgrades must update snapshots and pins together.
+
+`npm run manage:books` opens a local review service at `http://127.0.0.1:4317`. It lists source editions with search, language/status filters, metadata, and chapter previews. Validation reports incomplete Sabbath schedules, duplicate reading dates, conflicting TOC order, offline size limits, and immutable revision changes. This read-only tool does not publish or modify editorial files. Edit the source files, choose a new revision for changes to published content, then validate and review before release. It is not the postponed server Studio publishing module.
+
+When the sibling `sabatku-android` checkout is present, the same inventory includes bundled Church Manual editions and annual devotionals. Bundled chapter checksums and devotional date coverage are checked during review. Android's book download manager also lists bundled devotionals and opens their dedicated reader.
 
 ## Publishing
 

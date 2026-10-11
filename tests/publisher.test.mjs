@@ -27,6 +27,7 @@ test('draft content is excluded; a published edition includes hashed cover and c
  assert.equal(m.nodes[0].content.bytes,body.length);assert.equal(m.nodes[0].content.sha256,crypto.createHash('sha256').update(body).digest('hex'));
  assert.ok(fs.existsSync(path.join(f.dir,'public',m.cover.path)));
  assert.throws(()=>{fs.writeFileSync(path.join(f.dir,'content/book/chapter.md'),'changed');build(f.dir)},/Immutable revision/);
+ assert.throws(()=>build(f.dir,{write:false}),/Immutable revision/);
 });
 test('unreviewed rights cannot enter the catalog',t=>{const f=fixture(t);f.edition.status='published';f.save();assert.throws(()=>build(f.dir),/approved rights/)});
 test('chapters larger than the online reader limit are rejected',t=>{const f=fixture(t);fs.writeFileSync(path.join(f.dir,'content/book/chapter.md'),Buffer.alloc(2*1024*1024+1,97));assert.throws(()=>build(f.dir),/2 MiB reader limit/)});

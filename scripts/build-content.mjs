@@ -4,6 +4,7 @@ import crypto from 'node:crypto';
 import {fileURLToPath} from 'node:url';
 import Ajv from 'ajv/dist/2020.js';
 import formats from 'ajv-formats';
+import {validateEditionQuality,validateBookCover} from './edition-quality.mjs';
 export const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const hash=b=>crypto.createHash('sha256').update(b).digest('hex');
 const MAX_CHAPTER_BYTES=2*1024*1024;
@@ -82,7 +83,8 @@ export function build(base=root,{write=true}={}){
    const nodeIds=new Set(d.nodes.map(n=>n.id));if(nodeIds.size!==d.nodes.length)throw Error('Duplicate node');
    for(const n of d.nodes)if(n.parentId&&!nodeIds.has(n.parentId))throw Error('Missing parent node');
    for(const n of d.nodes){const seen=new Set([n.id]);let p=n.parentId;while(p){if(seen.has(p))throw Error('TOC cycle');seen.add(p);p=d.nodes.find(x=>x.id===p).parentId}}
-   if(d.cover)safeFile(source,d.cover);
+   if(d.cover)validateBookCover(fs.readFileSync(safeFile(source,d.cover)));
+   validateEditionQuality(d,new Map(d.nodes.map(n=>[n.id,fs.readFileSync(safeFile(source,n.file))])),d.cover?fs.statSync(safeFile(source,d.cover)).size:0);
    for(const n of d.nodes){const body=fs.readFileSync(safeFile(source,n.file));if(!body.length||body.length>MAX_CHAPTER_BYTES)throw Error('Chapter is empty or exceeds the 2 MiB reader limit');textSafe(body.toString('utf8'))}
    if(d.status!=='published')continue;
    if(!['verified','public-domain'].includes(d.rights.status)||!d.nodes.length||!d.cover)throw Error('Published edition needs approved rights, cover and content');
@@ -110,7 +112,7 @@ export function build(base=root,{write=true}={}){
    }
    const cover=asset(source,d.cover,prefix+'/assets/cover'+path.extname(d.cover));
    const manifest={schemaVersion:'sabatku-library-v1',edition:d,work:works.get(d.workId),cover,nodes,capabilities:['markdown-chapters','hierarchical-toc','footnotes','online-reading','offline-download'],offlineRedistributionAllowed:d.rights.offlineAllowed};
-   put(prefix+'/manifest.json',manifest);catalog.push({id:d.id,workId:d.workId,title:d.title,description:d.description||'',author:works.get(d.workId).author,locale:d.locale,revision:d.revision,contentMode:'hosted',offlineAllowed:d.rights.offlineAllowed,sources:(d.sources||[]).map(source=>({...source,offlineAllowed:source.offlineAllowed===true})),primaryThemeId:d.primaryThemeId,themeIds:d.themeIds,collectionIds:d.collectionIds,audienceIds:d.audienceIds||[],seriesIds:works.get(d.workId).seriesIds||[],...(d.publicationPeriod?{publicationPeriod:d.publicationPeriod}:{}),manifest:prefix+'/manifest.json',cover});
+   put(prefix+'/manifest.json',manifest);catalog.push({id:d.id,workId:d.workId,title:d.title,description:d.description||'',author:works.get(d.workId).author,locale:d.locale,revision:d.revision,contentMode:'hosted',rightsStatus:d.rights.status,offlineAllowed:d.rights.offlineAllowed,sources:(d.sources||[]).map(source=>({...source,offlineAllowed:source.offlineAllowed===true})),primaryThemeId:d.primaryThemeId,themeIds:d.themeIds,collectionIds:d.collectionIds,audienceIds:d.audienceIds||[],seriesIds:works.get(d.workId).seriesIds||[],...(d.publicationPeriod?{publicationPeriod:d.publicationPeriod}:{}),manifest:prefix+'/manifest.json',cover});
    for(const external of d.externalEditions||[]){const primary=external.sources.find(source=>source.primary)||external.sources.find(source=>source.kind==='online-text')||external.sources[0];catalog.push({id:external.id,workId:d.workId,title:external.title,description:external.description||d.description||'',author:works.get(d.workId).author,locale:external.locale,revision:d.revision,contentMode:'external-link',providerId:external.providerId,sourceUrl:primary.url,sources:external.sources.map(source=>({...source,offlineAllowed:source.offlineAllowed===true})),primaryThemeId:d.primaryThemeId,themeIds:d.themeIds,collectionIds:d.collectionIds,audienceIds:d.audienceIds||[],seriesIds:works.get(d.workId).seriesIds||[],...(d.publicationPeriod?{publicationPeriod:d.publicationPeriod}:{}),manifest:null,cover});}
   }
   if(d.kind==='publication'){
@@ -136,7 +138,8 @@ export function build(base=root,{write=true}={}){
  catalog.sort((a,b)=>a.id.localeCompare(b.id));
  put('catalog.json',{schemaVersion:config.domain==='books'?'sabatku-library-v1':'sabatku-publications-v1',domain:config.domain,revision:hash(Buffer.from(JSON.stringify(catalog))),entries:catalog,taxonomy:'taxonomy.json'});put('taxonomy.json',taxonomy);
  put('index.html','<!doctype html><meta charset="utf-8"><title>'+config.name+'</title><h1>'+config.name+'</h1><p>Public content catalog · '+catalog.length+' published entries</p><a href="catalog.json">Catalog JSON</a>');
- if(write){const out=path.join(base,'public');fs.mkdirSync(out,{recursive:true});for(const [p,b]of outputs){const f=path.join(out,p);if(fs.existsSync(f)&&/\/revisions\//.test(p)&&!fs.readFileSync(f).equals(b))throw Error('Immutable revision modified: '+p)}for(const [p,b]of [...outputs].sort(([a],[b])=>(a==='catalog.json')-(b==='catalog.json'))){const f=path.join(out,p);fs.mkdirSync(path.dirname(f),{recursive:true});fs.writeFileSync(f,b)}}
+ {const out=path.join(base,'public');for(const [p,b]of outputs){const f=path.join(out,p);if(fs.existsSync(f)&&/\/revisions\//.test(p)&&!fs.readFileSync(f).equals(b))throw Error('Immutable revision modified: '+p)}}
+ if(write){const out=path.join(base,'public');fs.mkdirSync(out,{recursive:true});for(const [p,b]of [...outputs].sort(([a],[b])=>(a==='catalog.json')-(b==='catalog.json'))){const f=path.join(out,p);fs.mkdirSync(path.dirname(f),{recursive:true});fs.writeFileSync(f,b)}}
  return {documents:documents.length,published:catalog.length,files:outputs.size,catalog:structuredClone(catalog)};
 }
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){try{const {catalog,...summary}=build(root,{write:!process.argv.includes('--check')});console.log(JSON.stringify(summary))}catch(e){console.error(e.message);process.exitCode=1}}
