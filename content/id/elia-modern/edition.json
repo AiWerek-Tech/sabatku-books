@@ -5,8 +5,8 @@
   "workId": "work:elia-modern",
   "locale": "id",
   "title": "Elia Modern",
-  "description": "Ekstraksi tersedia untuk halaman cetak 5–17 dan 19–107. Halaman 3–4 dan 18 adalah lembar kosong. Halaman 107 berakhir di tengah kalimat; konten halaman 108 sampai halaman terakhir buku masih dalam proses. Daftar isi lengkap ditampilkan hingga subjudul terakhir pada halaman 332, dengan penanda untuk bagian yang belum tersedia.",
-  "revision": "3",
+  "description": "Elia Modern mengulas panggilan Nabi Elia dan Yohanes Pembaptis serta penerapannya bagi jemaat Laodikia menjelang kedatangan Kristus. Buku ini membahas pertobatan, pembaruan rohani, dan kesiapan umat.",
+  "revision": "4",
   "status": "published",
   "rights": {
     "status": "verified",
@@ -37,43 +37,71 @@
   "nodes": [
     {
       "id": "book-information",
-      "title": "Informasi Buku",
+      "title": "Halaman Judul",
       "order": 0,
       "nodeType": "front-matter",
       "file": "nodes/00-informasi-buku.md"
     },
     {
-      "id": "front-matter",
-      "title": "Prakata, Singkatan, dan Daftar Isi",
+      "id": "front-preface",
+      "title": "Prakata",
       "order": 1,
       "nodeType": "front-matter",
-      "file": "nodes/01-front-matter.md"
+      "file": "nodes/01-prakata.md"
+    },
+    {
+      "id": "front-acknowledgements",
+      "title": "Ucapan Terima Kasih",
+      "order": 2,
+      "nodeType": "front-matter",
+      "file": "nodes/02-ucapan-terima-kasih.md"
+    },
+    {
+      "id": "front-abbreviations",
+      "title": "Singkatan Buku",
+      "order": 3,
+      "nodeType": "front-matter",
+      "file": "nodes/03-singkatan-buku.md"
+    },
+    {
+      "id": "front-quotation",
+      "title": "Kutipan",
+      "order": 4,
+      "nodeType": "front-matter",
+      "file": "nodes/04-kutipan.md"
+    },
+    {
+      "id": "front-introduction",
+      "title": "Pendahuluan",
+      "order": 5,
+      "nodeType": "front-matter",
+      "file": "nodes/05-pendahuluan.md"
     },
     {
       "id": "chapter-01",
       "title": "Bab I · Pekabaran Nabi Elia",
-      "order": 2,
+      "order": 6,
       "nodeType": "chapter",
       "file": "nodes/02-bab-i-pekabaran-nabi-elia.md"
     },
     {
       "id": "chapter-02",
       "title": "Bab II · Keadaan Jemaat Menjelang Hari Kiamat",
-      "order": 3,
+      "order": 7,
       "nodeType": "chapter",
       "file": "nodes/03-bab-ii-keadaan-jemaat-laodikia.md"
     },
     {
       "id": "chapter-03",
       "title": "Bab III · Pekabaran kepada Malaikat Jemaat Laodikia",
-      "order": 4,
+      "order": 8,
       "nodeType": "chapter",
       "file": "nodes/04-bab-iii-pekabaran-laodikia.md"
     },
     {
       "id": "chapter-04",
       "title": "Bab IV · Pekabaran Elia Modern tentang 12 Jenis Berhala",
-      "order": 5,
+      "order": 9,
       "nodeType": "chapter",
       "file": "nodes/08-konten-dalam-proses.md"
     },
@@ -192,7 +220,7 @@
     {
       "id": "chapter-05",
       "title": "Bab V · Pekabaran Elia Modern tentang Berbagai Hal",
-      "order": 6,
+      "order": 10,
       "nodeType": "chapter",
       "file": "nodes/08-konten-dalam-proses.md"
     },
@@ -583,7 +611,7 @@
     {
       "id": "chapter-06",
       "title": "Bab VI · Pengguncangan yang Dahsyat",
-      "order": 7,
+      "order": 11,
       "nodeType": "chapter",
       "file": "nodes/08-konten-dalam-proses.md"
     },
@@ -614,7 +642,7 @@
     {
       "id": "chapter-07",
       "title": "Bab VII · Tabiat dan Hujan Akhir",
-      "order": 8,
+      "order": 12,
       "nodeType": "chapter",
       "file": "nodes/08-konten-dalam-proses.md"
     },

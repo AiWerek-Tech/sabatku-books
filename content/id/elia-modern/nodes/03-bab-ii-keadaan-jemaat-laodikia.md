@@ -1,12 +1,14 @@
-## BAB II
+### BAB II
 
-## KEADAAN JEMAAT MENJELANG
+### KEADAAN JEMAAT MENJELANG
 
-## . HARI KIAMAT
+### . HARI KIAMAT
 
-## 1. LAODIKIA PERIODE JEMAAT TUHAN YANG TERAKHIR
+## 1. Laodikia Periode Jemaat Tuhan yang Terakhir
 
 Dalam buku Wahyu pasal 2, 3 dan 7 kita dapati ada tujuh jemaat. Dan kepada masing-masing jemaat itu ada pekabaran tersendiri dari Saksi yang Setia dan Benar. Ada pun jemaat itu masing-masing adalah: Efesus, Smirna, Pergamus, Tiatira, Sardis, Filadelpia dan Laodikia. Ini menggambarkan periode jemaat Tuhan di atas dunia ini sejak Kristus mendirikan jemaat yang pertama dengan keduabelas murid-Nya hingga yang terakhir. sekarang ini menjelang hari kiamat, kedatangan Yesus Kristus yang kedua kali ke dunia ini. Sehingga kita dapati periode jemaat sbb Jemaat Efesus tahun 31-100. j Jemaat Smirna tahun 100-313. Jemaat Pergamus tahun 313-538. Jemaat Tiatira tahun 538-1517. | Jemaat Sardis tahun 1517-1798. Jemaat Filadelphia tahun 1798-1844. Jemaat Laodikia tahun 1844-dunia kiamat. [[EM 35.1]]
+
+## Nama Laodikia
 
 Oleh karena kita hidup sekarang ini pada periode Jemaat Laodikia maka adalah sangat penting kita mempelajari nubuatan tentang Laodikia yang menggambarkan dengan jelas keadaan kerohanian jemaat terakhir ini di hadapan Tuhan dan bagaimana teguran dari Yesus Kristus terhadap jemaat-Nya supaya benarbenar bertobat dan siap sedia menerima kuasa kepenuhan RON Kudus dari surga, dalam menyelesaikan pekerjaan Tuhan di atas dunia ini, yaitu pekabaran Injil ke seluruh bangsa, bahasa dan kaum. Setelah itu barulah tiba kesudahan dunia ini. Nama Laodikia Maa [[EM 36.1]]
 
@@ -18,7 +20,7 @@ Kira-kira 18 km dari Laodikia ada mata air panas yang airnya: . mengalir ke kota
 
 Di kota itu ada sekitar 15.000 orang Yahudi dan kota itu te-. lah membunuh dua orang missionaris yang bernama: Polycar-. pusdan Sagaris. Menurut sejarah, anak Pilemon bernama Archi- [[EM 36.5]]
 
-## .—— KEADAAN JEMAAT MENJELANG HARI KIAMAT 37
+### .—— KEADAAN JEMAAT MENJELANG HARI KIAMAT 37
 
 pus menjadi orang saleh pertama menjadi pemimpin agama Kristendikotaitu. Penduduk Laodikia sangat bangga dengan kekayaan dan kemakmuran yang mereka miliki. Di sana ada stadion, kantor dantoko perdagangan kain bulu domba hitam yang besar, gedung sandiwara, pabrik obat mata dan sekolah-sekolah tinggi. [[EM 37.1]]
 
@@ -32,13 +34,13 @@ Rasul Paulus menuliskan bagaimana sulitnya untuk mengabarkan Injil ke kota itu. 
 
 Hal yang sama juga akan terjadi sekarang ini. Pekabaran keras dan tegas harus disampaikan kepada Israel rohani di Jemaat Laodikia dan ini bukan satu pekerjaan yang mudah dan gampang. Akan tetapi satu hal yang mustahil dapat dilakukan tanpa suruhan resmi dari Saksi yang Setia, yang sudah lebih dulu memperlengkapi dengan kuasa Roh Kudus seperti Yohanes dan Elia atau Paulus. [[EM 38.1]]
 
-## 2. NUBUATAN TENTANG JEMAAT LAODIKIA .
+## 2. Nubuatan tentang Jemaat Laodikia
 
 Salah satu keistimewaan Alkitab melebihi semua kitab yang ada di dunia ini adalah karena di dalamnya ada “Nubuatan.” Ratusan nubuatan yang diberikan Tuhan kepada kita agar kita dapat pengetahuan tentang kebesaran dan kemahatauan Allah melebihi semua makhluk yang ada. Nubuatan artinya “TUHAN ALLAH tidak berbuat sesuatu tanpa menyatakan keputusan-Nya kepada hamba-hamba-Nya, para nabi." Amos 3:7. die [[EM 38.2]]
 
 Sangat penting mengetahui nubuatan tentang keberadaan . N Jemaat Laodikia yang sebenarnya adalah periode jemaat kita se- [[EM 38.3]]
 
-## karang ini di mana kita hidup. Tuhan yang adalah Hakim dan Juru-
+### karang ini di mana kita hidup. Tuhan yang adalah Hakim dan Juru-
 
 selamat kita, memberitahukan keadaan kerohanian umat-Nya yangsesungguhnya agar dengan demikian kita dapat berubah dan bertobatsedemikian rupa sehingga kita siap sedia bertemu dengan “Yesus pada.kedatangan-Nya yang sudah sangat dekat itu. [[EM 38.4]]
 
@@ -50,7 +52,7 @@ Nubuatan adalah satu pernyataan dari Tuhan tentang satu hal yang akan terjadi. (
 
 Hal yang sama dapatkah kiranya terjadi juga kepada Jemaat Laodikia, yang disebut suam dalam kerohaniannya juga dapat berubah karena sudah mendengar panggilan pertobatan, yang diserukan oleh para utusan Tuhan? Sehingga dengan demikianlah mereka layak menerima Hujan Akhir yaitu kecurahan Roh Kudus seluruh dunia ini dengan cepat sekali, dan kesudahan alam ini pun tibalah. [[EM 39.3]]
 
-## 3. LAODIKIA KAYA KARENA DIBERKATI TUHAN
+## Laodikia Kaya karena Diberkati Tuhan
 
 Adalah benar bahwa umat Laodikia itu sangat diberkati Tuhan baik dalam pengetahuan akan kebenaran-Nya maupun dalarn harta kekayaan dunia. Tuhan sudah menganugerahi segalza fasilitas bagi jemaat-Nya agar dapat memberitahukan kabar keselamatan itu ke seluruh dunia pada zaman ini. Tuhan berikan prioritas yang sangat tinggi dengan segala macam tanda mukjizat kepada Kapernaum dan Betsaida. [[EM 40.1]]
 
@@ -78,7 +80,7 @@ Saksi yang Setia dan yang dapat dipercaya (Yesus Kristus) yang sebenarnya. Menje
 
 Karena tak dapat tidak Tuhan menghendaki umat-Nya memiliki iman yang sejati dan penyerahan yang sesungguhnya kepada kehendak Allah. Karena waktunya akan datang ujian iman yang berat menimpa setiap orang umat-Nya dan ternyata banyak yang terguncang, bahkan dikatakan mayoritas akan terguncang keluar karena ternyata mereka hanya bagaikan lalang di tengah gandum saja. Ini yang kita tidak ingin terjadi, dan kita berusaha Supaya mempelajari dengan saksama sehingga terhindar dari kebodohan dan kebutaan tersebut. Karena Tuhan tidak menghendakiseorangpun binasa melainkan semua kita beroleh hidup kekal. (2Petrus 3:9). Men Il Agar kita dapat mengetahui akan pekabaran kepada Laodikia dan hal apa yang harus dilakukan supaya dapat layak dan siap bertemu Yesus pada hari kiamat yang sudah dekat itu, maka Tuhan telah mengirim hamba-Nya Ellen Gould Harmon dalam . kuasa Roh Kudus dengan pekabaran yang diilhamkan darisurga dengan khayal yang tidak kurang dari 2000 kali banyaknya. Semuanya diberikan untuk diperhatikan umat Laodikia supaya mereka berubah dari sifat kesuaman rohaninya dan bertobat. [[EM 43.1]]
 
-## 4. ELLEN G. WHITE, UNTUK LAODIKIA
+## Ellen G. White untuk Laodikia
 
 Laodikia disebut juga “umat yang sisa”. Oleh karena jemaat inilah yang menggenapi nubuatan dalam Wahyu 12:17. [[EM 43.2]]
 
@@ -92,17 +94,17 @@ Naga yang melambangkan Setan (Wahyu 12:9) dan perempuan melambangkan umat. Tuhan
 
 Sejarah gereja menjelaskan bahwa orang yang tetap setia kepada ajaran Alkitab telah mengalami aniaya sejak tahun 538- [[EM 44.4]]
 
-## 1798. Dan aniaya itu berhenti saat kematian Paus Pius VI, 28
+### 1798. Dan aniaya itu berhenti saat kematian Paus Pius VI, 28
 
 Agustus 1799, setelah setahun dipenjara Valence karena ditang kap oleh Jenderal Bertier dari Perancis, maka aniaya itu pun ber hentilah. Sesudah aniaya itu maka muncullah umat yang sisa, yaiti $ umat yang masih tinggal. Dan umat ini mempunyai ciri khas menurut Wahyu 12:17, yaitu [[EM 44.5]]
 
 1.Menuruti-Hukum Allah (termasuk hari Sabat). , 2.Memiliki Kesaksian Yesus. Dan dalam Wahyu 19:10 dijelaskan bahwa, Kesaksian Yesus » Roh Nubuat. Jadi ada tiga ciri khas dari umat yang sisa, benih perempuan ituyang terus dimusuhi oleh Naga itu yaitu [[EM 44.6]]
 
-## 1. Menuruti Hukum (10 Hukum) dalam Keluaran 20.
+### 1. Menuruti Hukum (10 Hukum) dalam Keluaran 20.
 
-## 2. Memiliki Kesaksian Yesus.
+### 2. Memiliki Kesaksian Yesus.
 
-## 3. Memiliki Roh Nubuat. (The Remnant and the Adventist Church
+### 3. Memiliki Roh Nubuat. (The Remnant and the Adventist Church
 
 pp. 4). [[EM 45.1]]
 
@@ -110,15 +112,15 @@ Kalau kita mempelajari peranan dari roh Elia yang diutus Tuhan kepada umat-Nya s
 
 Tugas dariroh Elia: . ) [[EM 45.3]]
 
-## 1. Mengembalikan hati bapa terhadap anak dan hati anak
+### 1. Mengembalikan hati bapa terhadap anak dan hati anak
 
 terhadap bapa. Dan orang yang tidak menurut kepada kebijaksanaan orang benar. Tugas roh Elia itu mengadakan pembaruan dalam rumah tangga umat. Mempraktikkan kasih Allah dalam rumah tangga yang mengatur dan mengubah seluruh sifat dan “kebiasaan yang bertentangan dengan kehendak Tuhan di dalam rumah tangga. 3 . 2. Panggilan kepada pertobatan dan menghidupkan kehidupan yang suci dan memantulkan tabiat Kristus dengan sempurna. Tidak satu pun kebiasaan salah yang masih dipraktikkan. i [[EM 45.4]]
 
-## 3. Menghidupkan satu kehidupan yang penuh dengan pe.
+### 3. Menghidupkan satu kehidupan yang penuh dengan pe.
 
 nyangkalan diri, kesederhanaan berpakaian maupun makanan serta pertarakan yang sempurna. [[EM 46.1]]
 
-## 4. Mengumandangkan pekabaran tentang datangnya Mesias
+### 4. Mengumandangkan pekabaran tentang datangnya Mesias
 
 yang di tunggu-tunggu itu serta mengarahkan mata semua Or. ang kepada Yesus yang adalah Anak Domba Allah. [[EM 46.2]]
 
@@ -130,27 +132,27 @@ Kapankah datangnya hari Tuhan itu? Khotbah tentang datangnya hari Tuhan itu. mul
 
 Jelaslah bahwa permulaan zaman akhir itu adalah tahun [[EM 46.6]]
 
-## | 1798. Dan sejak waktu itulah orang mengkhotbahkan tentang hari
+### | 1798. Dan sejak waktu itulah orang mengkhotbahkan tentang hari
 
 kedatangan Yesus yang kedua kali itulah “kiamat.” Kemudian ditambahkan penjelasan dari tulisan yang diilhamkan itu: [[EM 46.7]]
 
 Tetapi pada waktu akhir zaman kata nabi, banyak orang Pergidan datang serta pengetahuan orang akan bertambah. Dan sejak 1798 buku Daniel akan dibukakan dan pengetahuan akan. nubuatan akan bertambah dan banyak orang akan mengumar. [[EM 46.8]]
 
-## KEADAAN JEMAAT MENJELANG HARI KIAMAT 47
+### KEADAAN JEMAAT MENJELANG HARI KIAMAT 47
 
 Sesuai dengan kalender nubuatan 1260 tahun, itu berakhir pada tahun 1798. Dan kegenapan dari waktu datangnya Elia itu tidak salah lagi harus sesudah tahun 1798." [[EM 47.1]]
 
 Siapakah yang datang sesudah tahun: 1798 dan menamakan dirinya pesuruh Allah dan diberikan Tuhan kepadanya pekabaran yang keras dan mendatangkan kebangunan dan perto- 'batan kepada umat-Nya dan ajakan untuk bersedia bertemu dengan Kristus menyambut kedatangan-Nya yang kedua kali? Siapakah dia yang sudah menerima khayal lebih dari 2000 kali dari Tuhan dalam menjelaskan isi Alkitab dan mengembalikan.pengertian kepada yang sebenarnya akan isi Alkitab serta mengamarkan akan penghakiman yang sudah dimulai dalam kerajaan surga sebagai kegenapan nubuatan Daniel 8:14 tentang pembersihan kaabah yang di surga? Tidak ada yang lain kecuali Ellen G. White. “Kitadapat melihat isi dan tugas dari pekabaran Elia dalam pelayanan Ellen G.White sebagai berikut i 1. E.G. White telah menuliskan amaran-yang tegas tentang kehidupan rumah tangga agar kesalehan yang benar itu dimulai dalam kehidupan di rumah tangga. Tugas dan peranan ibu dan . bapak, serta pendidikan anak merupakan ilham yang sudah diberikan Tuhan melalui hamba-Nya kepada kita sekarang ini. 2. Standar kehidupan yang suci, pernyataan tentang tabiat yang sempurna yang merupakan karcis masuk pintu gerbang surga ditandaskan melalui tulisan Ny.White yang mana hal ini menggenapi tugas dan peranan pekabaran Elia kepada umat- [[EM 47.2]]
 
-## 3. Juga tentang pertarakan, reformasi kesehatan adalah .
+### 3. Juga tentang pertarakan, reformasi kesehatan adalah .
 
 3. Juga tentang pertarakan, reformasi kesehatan adalah “jelas dalam tulisan E.G. White yang merupakan bukti pertobatan yang sejati harus mengikutinya. [[EM 47.3]]
 
-## 4. Amaran dan panggilan untuk memperhatikan waktu nu-
+### 4. Amaran dan panggilan untuk memperhatikan waktu nu-
 
 buatan, kedatangan Yesus kedua kali harus jelas dimengerti dan merupakan pelajaran yang harus diketahui semua umat Tuhan. Tanda kedatangan Kristus dalam buku Daniel.dan Wahyu harus menjadi perhatian utama bagi umat-Nya. [[EM 47.4]]
 
-## 48 . ELIAMODERN
+### 48 . ELIAMODERN
 
 Dengan demikian apakah kita sekarang tidak dapat meng. ambil kesimpulan bahwa, Ellen Gould Harmon telah datang mem. bawa pekabaran dari Tuhan dalam kuasa dan roh Elia? [[EM 48.1]]
 
@@ -164,7 +166,7 @@ LA Yohanes Pembaptis adalah: Utusan Tuhan (the Messerger)untuk mempersiapkan uma
 
 “Tetapi Roh Allah turun ke atas mereka sebagaimana turun ke atas Elia, menggerakkannya menegur dosa dosa dosa-dosa seorang raja yang jahat dan satu umat yang murtad. Mereka tidal bisa menahan diri dan mengkhotbahkan kata-kata Alkitab dan. doktrin yang tadinya mereka enggan untuk menyampaikannya. ' Mereka didorong dengan semangat menyatakan kebenaran, da!. menyatakan bahaya yang mengancam jiwa-jiwa. Perkataan yani" [[EM 48.6]]
 
-## | KEADAAN JEMAAT MENJELANG HARI KIAMAT 49
+### | KEADAAN JEMAAT MENJELANG HARI KIAMAT 49
 
 pun akibatnya, dan orang-orang terdorong untuk mendengar amaranitu. , [[EM 49.1]]
 
@@ -178,29 +180,29 @@ sehatan.” Pelayanan Kesehatan oleh para missionari, hamba [[EM 49.5]]
 
 Tuhan. (1SM 33). Aa K [[EM 49.6]]
 
-## 2. Mengobati orang yang sakit dan memeliharanya di rumahnya.
+### 2. Mengobati orang yang sakit dan memeliharanya di rumahnya.
 
 sendiri. (1SM 33). - [[EM 49.7]]
 
-## 3. Mengajarkan tentang “Pertarakan Kristen." .
+### 3. Mengajarkan tentang “Pertarakan Kristen." .
 
-## 4. Menegur orang yang sudah melakukan kesalahan.
+### 4. Menegur orang yang sudah melakukan kesalahan.
 
-## 5. Membela nasib para pendeta pensiunan.
+### 5. Membela nasib para pendeta pensiunan.
 
-## 6. Memberikan arahan dan nasihat kepada lembaga Tuhan.
+### 6. Memberikan arahan dan nasihat kepada lembaga Tuhan.
 
-## 7. Memberikan amaran kepada Konferens.
+### 7. Memberikan amaran kepada Konferens.
 
-## 8. Memberikan amaran agar umat bersedia menyambut keda-
+### 8. Memberikan amaran agar umat bersedia menyambut keda-
 
 tangan Yesus kedua kali. [[EM 49.8]]
 
-## 9. Pernyataan penipuan kuasa Setan dan ajaran yang menye..
+### 9. Pernyataan penipuan kuasa Setan dan ajaran yang menye..
 
 satkan.!3 an [[EM 50.1]]
 
-## 10. Yang menolak akan nasihat dan amaran yang saya sudah
+### 10. Yang menolak akan nasihat dan amaran yang saya sudah
 
 sampaikan bukan menolak saya, tetapi menolak Tuhan yang [[EM 50.2]]
 
@@ -226,7 +228,7 @@ f. Jumlah penulisnya. [[EM 50.12]]
 
 Alkitab, terang lebih besar adalah standar kebenaran dan Ilham yang tidak bisa salah tentang kehendak Allah. Itulah pengukur dan penguji dari seluruh ajaran dan pengalaman (GC 9). Sehingga dinasihatkan: “Janganlah kesaksian-kesaksian itu (E.G White) ditempatkan di depan Alkitab.”—Ev 256. [[EM 50.13]]
 
-## KEADAAN JEMAAT MENJELANG HARI KIAMAT
+### KEADAAN JEMAAT MENJELANG HARI KIAMAT
 
 a “Demikianlah kamu tidak kekurangan dalam satu karunia pun sementara kamu menantikan penyataan Tuhan kita Yesus Kristus” (1 Korintus 1:7). [[EM 51.1]]
 
@@ -238,35 +240,35 @@ La Jadi jelaslah bahwa tulisan Roh Nubuat untuk Laodikia itu adalah memang untuk
 
 Kalau Alkitab sebagai penguji segala ajaran maka jelaslah bahwa Alkitab lebih besar dari semua ajaran atau pengalaman yang diuji itu. Dan memang kita dapati tidak ada ajaran dari Roh Nubuat itu yang bertentangan dengan Alkitab. Mengapa? Karena sumbernyasatu saja yaitu Roh Tuhan. Roh Suci yang mengilhami penulis Alkitab maka Roh Suci jugalah yang mengilhamkan terang kebenaranitu kepada Ellen G. White. Dengan demikian guna dan kebenarannya adalah sama. Tulisan Roh Nubuat yang dikirim khusus kepada umat yang sisa adalah harus diperhatikan, jika tidak mereka berdosa kepada Dia yang sudah mengirimkan pekabaran . itu: Aa w Kemudian kita dapati dalam tulisan Ny.White alasan kenapa Tuhan memberikan pekabaran itu kepadanya. 410 Alasan Mengapa Tulisan E.G. White Diberikan [[EM 51.5]]
 
-## 1. Untuk membawa pikiran umat Tuhan kepada Firman Tuhan.
+### 1. Untuk membawa pikiran umat Tuhan kepada Firman Tuhan.
 
 1 (5T 663). [[EM 51.6]]
 
-## 2. Menyederhanakan kebenaran yang sudah diberikan. (57 665).
+### 2. Menyederhanakan kebenaran yang sudah diberikan. (57 665).
 
-## 3. Menarik perhatian orang kepada Alkitab (57 664).
+### 3. Menarik perhatian orang kepada Alkitab (57 664).
 
-## 4. Mengoreksi mereka yang sudah menyimpang dari kebenaran
+### 4. Mengoreksi mereka yang sudah menyimpang dari kebenaran
 
 Alkitab. (EW 78). [[EM 52.1]]
 
-## 5. Untuk menjelaskan lebih detail apa itu kebenaran. (Letter |
+### 5. Untuk menjelaskan lebih detail apa itu kebenaran. (Letter |
 
 127, 1910). [[EM 52.2]]
 
-## 6. Untuk mengajarkan tentang kehendak Allah. (57 661).
+### 6. Untuk mengajarkan tentang kehendak Allah. (57 661).
 
-## 7. Untuk penjelasan yang detail akan tugas manusia kepada!
+### 7. Untuk penjelasan yang detail akan tugas manusia kepada!
 
 Allah dan kepada sesama manusia. (57 665). : [[EM 52.3]]
 
-## 8. Untuk menghibur umat Tuhan. (EW 78).
+### 8. Untuk menghibur umat Tuhan. (EW 78).
 
-## 9. Memberikan kekuatan kepada mereka yang tawar hati. (RA.
+### 9. Memberikan kekuatan kepada mereka yang tawar hati. (RA.
 
 Jan. 10,1856). [[EM 52.4]]
 
-## 10. Memberikan tuntunan pada perjalanan umat, dan perjalanan
+### 10. Memberikan tuntunan pada perjalanan umat, dan perjalanan
 
 yang mereka harus lewati menyongsong kedatangan Yesus [[EM 52.5]]
 
@@ -286,11 +288,11 @@ Kesaksian-kesaksian yang tertulis diberikan bukanlah untuk terang yang baru, mel
 
 Karunia Roh Nubuat inilah yang membedakan gereja Advent daripada gereja-gereja yang ada di dunia ini. Karena dipulihkan semua kebenaran Tuhan, diangkat ke permukaan sehingga jelas perbedaan Gereja Masehi Advent Hari Ketujuh (GMAHK) daripada gereja Kristen yang ada di atas dunia ini. “Ba 1. Oleh karunia Roh Nubuat yang diberikan kepada E.G. White oleh Tuhan, maka dijelaskan akan kemurtadan gereja dunia " yangsudah melupakan hari Sabat sebagai hukum yang keempat dari sepuluh hukum yang diberikan Tuhan kepada Musa di atas [[EM 53.3]]
 
-## 54 ELIA MODERN.
+### 54 ELIA MODERN.
 
 bukit itu. Hukum yang kekal yang ditulisi oleh jari-jari Allah sendiri di atas dua loh batu. (Keluaran 31:18). [[EM 54.1]]
 
-## 2. Kemudian dijelaskan akan keadaan orang yang sudah"
+### 2. Kemudian dijelaskan akan keadaan orang yang sudah"
 
 mati, yang tidak tahu apa pun, baik kasih, benci dan cemburunya sudah lenyap. Tidak ada bagian orang mati lagi. di dunia ini, (Pengkhotbah 9:5, 6, 10). [[EM 54.2]]
 
@@ -304,11 +306,11 @@ Prinsip-prinsip Alkitab itu dijelaskan lebih mendetail yani harus dituruti oleh 
 
 Ada empat maksud utama dari tulisan Ellen G.White: 1. Menuntun perhatian kepada Alkitab. [[EM 55.1]]
 
-## 2. Membantu mengerti akan Alkitab (2 Petrus 3:16).
+### 2. Membantu mengerti akan Alkitab (2 Petrus 3:16).
 
-## 3. Membantu penerapan Alkitab dalam kehidupan sehari-hari.
+### 3. Membantu penerapan Alkitab dalam kehidupan sehari-hari.
 
-## 4. Mempersiapkan umat bagi kedatangan Yesus yang kedua
+### 4. Mempersiapkan umat bagi kedatangan Yesus yang kedua
 
 kali. Tentang dua hal yang paling besar yang menyimpang dari ajaran Alkitab sebagai hasil temuan Roh Nubuat yang dianut oleh gereja dunia ini adalah tentang: hari Sabat dan keadaan orang mati. Melalui dua hal ini maka Setan akan masuk dan berhasil menipu manusia sehingga membawa kebinasaan kepada mereka “— melaluitipu dayanya yang luar biasa. Sejak semula adalah maksud dan tujuan Setan untuk membinasakan manusia, dan ini dapat terjadi bila manusia itu dapat dibawa jauh dari Tuhan dengan melanggar aturan dan petunjuk Tuhansaja. Dengan menolak penyucian hari Sabat Tuhan.maka Setan telah berhasil menipu manusia sehingga menggantinya dengan sabat yang palsu. Dan akan tiba waktunya, ia berhasil memaksakan pemeliharaan hari sabat palsu ini dengan undangundang negara, dan siapa yang melawan akan dihukum mati. [[EM 55.2]]
 
@@ -324,13 +326,13 @@ Karena memang seperti dituliskan dalam 2 Petrus 3:16. “Dalam surat-suratnya it
 
 3 "Buku Ny. E.G. White itu dapat kita sejajarkan sebagai teleskop yang dapat menggandakan besarnya wahyu, rencana Allah yang telah dinyatakan dalam firman-Nya. Teleskop tidaklah dapat menambah jumlah bintang-bintang di langit, tetapi hanya sebagai alat penolong supaya kita dapat melihat dengan jelas bintangbintang yang ada di langit.” "Saya telah diperintahkan untuk mengatakan kepada gerejagereja kita, pelajarilah kesaksian-kesaksian roh nubuat. Itu sudah dituliskan sebagai nasihat dan menguatkan mereka yang hidup . pada akhir dunia ini. Bila umat Allah tidak mempelajari akan pekabaran itu yang sudah dikirimkan dari waktu ke waktu, mereka berdosa oleh menolaknya.”9 Mata rohani kita yang sudah dirusak oleh dosa, tidak sanggup melihat dengan jelas akan jumlah bintang-bintang kebenaran yang dituliskan dalam Alkitab itu. Maka kita sangat memerlukan teleskop Roh Kudus supaya dengan jelas kita dapat melihat bintang kebenaran yang bercahaya dalam kegelapan malam. Dengan ' demikian kita tidak sesat dan terhindar dari ajaran sesat yang datangnya dari manusia. Untuk itu Laodikia diharuskan menerima terang kebenaran yang diberikan melalui Ellen G: White. [[EM 57.1]]
 
-## Orang yang Dibutuhkan Laodikia
+## 3. Orang yang Dibutuhkan Laodikia
 
 Saat yang genting seperti sekarang ini menjelang datangnya Tuhan membutuhkan orang yang berani dan setia kepada tugas panggilannya. Tidak takut mengatakan dan mengkhotbahkan akan seluruh kebenaran Tuhan, tidak sebagian-sebagian tetapi seluruh kebenaran itu. 3 “Yang dibutuhkan sekarang ini adalah orang yang teguh dan tidak takut menyatakan seluruh nasihat yang datangnya dari Ali lah.” (57 160). [[EM 57.2]]
 
 Kitaharus mengikuti petunjuk yang diberikan oleh roh nubuat. Kita harus mencintai dan menuruti semua kebenaran saat ini. Hal inilah yang menyelamatkan kita dari penipuan yang hebat itu. Peringatan sudah diberikan, aturan demi aturan, dan petunjuk demi petunjuk, itu harus diperhatikan. [[EM 57.3]]
 
-## SA — ELIAMODERN
+### SA — ELIAMODERN
 
 “Kepada saya telah ditunjukkan bahwa ketidakpercayaan akan kesaksian yang mengamarkan, menguatkan dan menegur telah menutup terang bagi umat Allah—ketidakpercayaan telah menutup mata mereka sehingga mereka tidak menyadari akan kondisi mereka yang sebenarnya.” (37 255). [[EM 58.1]]
 
@@ -350,7 +352,7 @@ Kebutuhan kita sekarang ini yang paling besar dan yang terutamaserta paling mend
 
 "Bila kita sebagai umat mengerti apa artinya buku "Wahyu” maka akan kelihatan satu kebangunan besar yang terjadi di antara Kita.” Maka untuk segera terjadi 'kebangunan dan pembaruan' rohani itu, dibutuhkan guru-guru yang .tahu dan mengerti akan buku Daniel dan Wahyu supaya diajarkan kepada umat dengan penuh Roh Kudus maka umat pun tergerak dan bangkit dari tidur rohaninya.. : : Rea [[EM 59.3]]
 
-## 6. SATU KEHARUSAN BAGI LAODIKIA
+## Satu Keharusan bagi Laodikia
 
 "Masa kesukaran ada di depan kita, maka kita harus mengikuti petunjuk-petunjuk yang diberikan melalui Roh Nubuat.?5 [[EM 59.4]]
 
@@ -380,29 +382,29 @@ Memang benar banyak pekabaran yang menasihatkan kebe naran agar kita menjadi ora
 
 “Saya telah diperintahkan untuk mengatakan kepada gereja-gereja kita, pelajarilah kesaksian-kesaksian Roh Nubuat. Itu sudah dituliskan sebagai nasihat dan menguatkan mereka yang hidup pada zaman akhir dunia ini. Bila tidak maka mereka berdosa oleh menolaknya.32 Telah dibuat penyelidikan atas gereja-gereja kita, yang banyak belajar tulisan Roh Nubuat dan yang kurang membacanya, oleh “Riset Institute of Church Ministry Andrews University” maka didapati bahwa: Gereja yang banyak mempelajari kesaksian Roh Nubuat [[EM 63.1]]
 
-## 1. Mempunyai hubungan semakin erat dengan Kristus.
+### 1. Mempunyai hubungan semakin erat dengan Kristus.
 
-## 2. Posisi mereka semakin pasti dengan Tuhan.
+### 2. Posisi mereka semakin pasti dengan Tuhan.
 
-## 3. Semakin mengenal karunia rohani.
+### 3. Semakin mengenal karunia rohani.
 
-## 4. Semakin aktif dalam misionari lokal.
+### 4. Semakin aktif dalam misionari lokal.
 
-## 5. Lebih giat.dalam bersaksi keluar.
+### 5. Lebih giat.dalam bersaksi keluar.
 
-## 6. Lebih giat belajar Alkitab.
+### 6. Lebih giat belajar Alkitab.
 
-## 7. Lebih giat berdoa bagi orang tertentu. -—
+### 7. Lebih giat berdoa bagi orang tertentu. -—
 
-## 8. Aktif dalam kelompok.
+### 8. Aktif dalam kelompok.
 
-## 9. Aktif dalam kebaktian keluarga.
+### 9. Aktif dalam kebaktian keluarga.
 
 “Tuhan tidak menutup surga bagi kita, tetapi perjalanan kita terus menuju kemurtadan yang menceraikan kita dari Allah... akan tetapi pendapat umum adalah: bahwa jemaat kita mengalami kemajuan dan damai serta kerohanian yang memuaskan di segala 'bidang. Jemaat ini telah berbalik dari pemimpinnya Kristus dan berjalan menuju balik ke Mesir. Karena... keraguan dan ketidakpercayaan terhadap kesaksian Roh Nubuat telah meracuni jemaat di mana-mana,” 3 [[EM 63.2]]
 
 Maka sekarang sudah saatnya agar semua gereja kita dirangsang untuk membaca dan mempelajari tulisan yang diilhamkan dan dikhususkan bagi umat yang sisa. Maka untuk itu tulisan yang datangnya dari surga itu menganjurkan agar B. Yemaat menyediakan buku, majalah dan risalah yang disimpan dalam rak buku jemaat dan semua anggota berusaha un- [[EM 63.3]]
 
-## 64 ELIAMODERN.
+### 64 ELIAMODERN.
 
 tuk mengetahui dan meminjamkannya kepada sahabat, keluarga atau orang yang berminat dalam kontak persahabatan. '8? . [[EM 64.1]]
 
@@ -416,13 +418,13 @@ Sejak zaman dulu nabi Tuhan sudah mengatakan dalam 2 Tawarikh 20:20. “Percayal
 
 Kita mau berhasil dalam segala perjuangan hidup, mencap3 [[EM 64.6]]
 
-## KEADAAN JEMAAT MENJELANG HARI KIAMAT 65
+### KEADAAN JEMAAT MENJELANG HARI KIAMAT 65
 
 layanan kita terhadap Tuhan. Berhasil dalam perjuangan iman, berhasil dalam melakukan semua program gereja dan organisasi gereja dan berhasil tiba dalam kerajaan surga maka tidak dapat tidak harus memiliki keyakinan kepada nabi-nabi yang diutus Tuhan untuk memberi petunjuk mengatasi beragam permasalahan dan menang. [[EM 65.1]]
 
 Menuntun kehidupan kepada pertobatan yang sejati harmonis. dengan semua petunjuk dan nasihat Tuhan akhir zaman ini.Umat harus percaya dan mengikuti semua petunjuk nabi atau orang yang diutus Tuhan di setiap zaman jika mereka ingin berhasil. Bagi kita yang hidup pada periode Laodikia ini maka semua nasihat dan amaran dari tulisan yang diilhamkan kepada Ellen G. White harus dituruti dengan cermat barulah kita sukses. Kesuksesan yang kita rindukan itu hanya terdapat dalam kepercayaan dan penurutan yang saksama akan petunjuk Tuhan yang telah diberikan melalui nabi atau utusan-Nya. Kita pasti sukses, baik secara jemaat, baik secara keluarga maupun secara individu. Ikutilah petunjuk dari nabi-nabi-Nya. : [[EM 65.2]]
 
-## — 7. TUJUAN PEKABARAN ITU
+## Tujuan Pekabaran Itu
 
 Pekabaran Elia modern itu terutama dimaksudkan adalah untuk membangunkan umat Laodikia dari keadaan suam menjadi panas. Pekabaran itu membangunkan umat supaya siap bertemu dengan Kristus. Pekabaran itu memanggil kepada pertobatan dan penyerahan sepenuhnya kepada kehendak Roh Suci dan menang darisetiap dosa dan kebiasaan yang salah serta pencobaan dan kesombongan serta mementingkan diri itu. Sehingga umat sudah layakuntuk dimeteraikan Allah dan menerima janji kecurahan Roh Kudus, hujan akhir itu. Pekabaran harus disesuaikan dengan kebutuhan yang mendesak dan terpenting pada waktu yang sama. Apakah kebutuhan kita sebagai umat Laodikia saat sekarang ini? Untuk membuka mata rohani Laodikia yang buta, maka tulisan yangdiilhamkan itu berkata [[EM 65.3]]
 

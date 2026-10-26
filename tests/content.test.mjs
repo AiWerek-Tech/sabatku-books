@@ -65,6 +65,38 @@ test('published editions, including Elia Modern, enter the catalog with official
  assert.deepEqual(indonesian.seriesIds,[]);
  assert.deepEqual(result.catalog.find(entry=>entry.locale==='en').seriesIds,[]);
 });
+test('Elia Modern separates front matter and keeps the printed contents in navigation',()=>{
+ const tmp=rootCopy();
+ try{
+  build(tmp,{write:true});
+  const source=path.join(tmp,'content/id/elia-modern');
+  const edition=JSON.parse(fs.readFileSync(path.join(source,'edition.json'),'utf8'));
+  assert.equal(edition.revision,'4');
+  assert.deepEqual(edition.nodes.slice(0,6).map(node=>node.title),[
+   'Halaman Judul','Prakata','Ucapan Terima Kasih','Singkatan Buku','Kutipan','Pendahuluan'
+  ]);
+  assert.ok(!edition.nodes.some(node=>node.id==='front-matter'));
+  assert.doesNotMatch(fs.readFileSync(path.join(source,'nodes/03-singkatan-buku.md'),'utf8'),/^## Daftar Isi$/m);
+  assert.doesNotMatch(fs.readFileSync(path.join(source,'nodes/05-pendahuluan.md'),'utf8'),/Ekstraksi tersedia|Konten buku ini masih dalam proses/);
+  assert.doesNotMatch(fs.readFileSync(path.join(source,'nodes/00-informasi-buku.md'),'utf8'),/bukuadvent\.com|Cakupan Sumber|Ekstraksi tersedia/);
+  assert.doesNotMatch(edition.description,/Ekstraksi|halaman 108|dalam proses/i);
+  const manifest=JSON.parse(fs.readFileSync(path.join(tmp,'public/editions/elia-modern-id/revisions/4/manifest.json'),'utf8'));
+  const children=id=>manifest.nodes.filter(node=>node.parentId===id).map(node=>node.title);
+  assert.deepEqual(children('chapter-01'),[
+   '1. Nabi Elia dan Berhala Baal','Pukulan Terhadap Dewa Baal','Demonstrasi Kuasa di Karmel',
+   'Israel Dipulihkan kepada Penyembahan Allah Saja','Kerohanian yang Timpang',
+   '2. Pekabaran Elia dan Yohanes Pembaptis','Pola Hidup Yohanes Pembaptis','Tiga Hal Penting'
+  ]);
+  assert.deepEqual(children('chapter-02'),[
+   '1. Laodikia Periode Jemaat Tuhan yang Terakhir','Nama Laodikia','2. Nubuatan tentang Jemaat Laodikia',
+   'Laodikia Kaya karena Diberkati Tuhan','Ellen G. White untuk Laodikia',
+   'Dua Perbedaan Besar dengan Ajaran Gereja Lain','3. Orang yang Dibutuhkan Laodikia',
+   'Satu Keharusan bagi Laodikia','Tujuan Pekabaran Itu'
+  ]);
+  assert.equal(children('chapter-03').length,18);
+  assert.ok(!manifest.nodes.some(node=>/^BAB II$|^\. HARI KIAMAT$|^37$/.test(node.title)));
+ }finally{fs.rmSync(tmp,{recursive:true,force:true});}
+});
 test('2026 stewardship readings publish 52 consecutive Sabbath entries with complete source files',()=>{
  const result=build(root,{write:false});
  const edition=JSON.parse(fs.readFileSync(path.join(root,'content/id/stewardship-readings/2026/edition.json'),'utf8'));

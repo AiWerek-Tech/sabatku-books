@@ -1,10 +1,10 @@
-## BAB III
+### BAB III
 
-## PEKABARAN KEPADA MALAIKAT
+### PEKABARAN KEPADA MALAIKAT
 
-## JEMAAT LAODIKIA
+### JEMAAT LAODIKIA
 
-## 1. SIAPAKAH MALAIKAT ITU?
+## 1. Siapakah Malaikat Itu?
 
 “Dan tuliskan kepada malaikat jemaat di Laodikia...” (Wahyu 3:14). [[EM 67.1]]
 
@@ -30,7 +30,7 @@ ia Wahyu 1:16 "Dan di tangan kanan-Nya la memegang tujuh bintang dan dari mulut-
 
 Bintang atau para pendeta/pemimpin dan pesuruh Tuhan ada dalam tangan kanan-Nya, menggambarkan bahwa mereka ada dalam pemeliharaan dan pengendalian Tuhan. Bintang itu sudah ditentukan garis lintasan peredarannya. Jika tidak maka bintang itu disebut bintang yang jatuh dan segera akan bertabrakan di sana sini. Dan ternyata ada bintang yang sudah keluar dari lintasan atau garis peredaran yang ditentukan Khalik pencipta semesta alam. Roh Nubuat berkata: Bintang di langit adalah di bawah pe- [[EM 68.7]]
 
-## PEKABARAN KEPADA MALAIKAT JEMAAT LAODIKIA
+### PEKABARAN KEPADA MALAIKAT JEMAAT LAODIKIA
 
 mereka akan.menjadi bintang yang jatuh. Demikian dengan para pendeta/hamba-hamba-Nya. Mereka adalah alat di tangan-Nya dan segala perbuatan baik yang mereka lakukan hanyalah karena Kuasa-Nya bekerja di dalam diri mereka itu.”5 . [[EM 69.1]]
 
@@ -38,7 +38,7 @@ mereka akan.menjadi bintang yang jatuh. Demikian dengan para pendeta/hamba-hamba
 
 Pekabaran jenis apa yang harus disampaikan oleh para pe- SuruhAllah kepada Laodikia yang suam kuku itu. Tidak lain adalah pekabaran yang akan membangunkan umat-Nya dari rasa aman “ namun suam, itulah keadaan keadaan kerohanian yang — sebenarnya di hadapan Allah. Pekabaran seperti itu, bila diterima, akan mengubah tindakan serta menuju kepada penyangkalan diri dan pengakuan dosa-dosa. Lam. kog looveka Sai [[EM 69.3]]
 
-## 2 KESALAHAN DALAM MENILAI DIRI SENDIRI
+## Kesalahan dalam Menilai Diri Sendiri
 
 l d I- Uahyu 3:17. “Karena engkau berkata: Aku kaya dan aku telah memperkaya diriku dan aku tidak kekurangan apa-apa, dan Karena engkau tidak tahu, bahwa. engkau melarat, dan malang, j ie Aa dan telanjang." Aa atu hal yang sangat aneh terjadi kepada umat-Nya di Laodikia. Mereka merasa sudah cukup kaya dan baik serta tidak merasa keperluan ada yang lain lagi. Mereka suka kalimat itu berkata [[EM 69.4]]
 
@@ -80,7 +80,7 @@ Orang Farisi dan ahli Taurat tidak menerima pekabaran £ Yesus Kristus karena su
 
 “Mereka datang ke gereja... tetapi tidak dengan Kristus. Tidak rindu akan kebenaran, tidak mencintai akan kehendak Allah yang telah dinyatakan dalam Firman-Nya. Itulah roh membenarkan diri. Hal seperti itu akan menuntun engkau kepada sifat meninggikan diri di atas Yesus sehingga menganggap per: dapatmu dan idemu itu lebih penting daripada persatuan dengan Kristus dan persatuan dengan orang lain. Banyak di antara kamu mencari kehormatan dari sesamanya. Tetapi apakah arti kehormatan atau persetujuan yang diberikan manusia kepada seorang yang menganggap dirinya sebagai anak Allah?”"' Sangat perlu menjadi aktif dalam kegiatan gereja pada har [[EM 74.3]]
 
-## . PEKABARAN KEPADA MALAIKAT JEMAAT LAODIKIA 75
+### . PEKABARAN KEPADA MALAIKAT JEMAAT LAODIKIA 75
 
 sangat diperlukan pada setiap kebaktian dan memerlukan tenaga dan keterampilan. Akan tetapi perlu dicermati bahwa ada kecenderungan untuk tidak terlibat dan rindu berdiskusi mempelajari akan Firman Tuhan dan tidak ada pertumbuhan akan pengetahuan kebenaran Allah yang.merupakan roti dari surga, akhirnya mengalami kelaparan rohani. Inilah yang menghalang pertumbuhan bahkan akan mengakibatkan kemerosotan rohani. [[EM 75.1]]
 
@@ -92,7 +92,7 @@ L “Tidak ada dosa yang lebih besar di hadapan Allah dan yang sangat berbahaya 
 
 Rohmembenarkan diri adalah satu sifat yang akhirnya akan menolak semua nasihat dan perbaikan dari Firman Tuhan. Karena ide dan pendapat mereka itu dianggap lebih baik daripada apa yang dijelaskan dalam Alkitab dan Roh Nubuat. Dalam hal ini perlu saling bernasihat dengan sesama.saudara, membuat keputusan bersama dan melakukan apa yang sudah diputuskan bersama. Bukan melakukan apa yang dianggap benar oleh pemikiran sendiri. [[EM 75.5]]
 
-## G kurang PENYANGKALAN DIRI DAN KERENDAHAN HAT, i
+## Kurang Penyangkalan Diri dan Kerendahan Hati
 
 Siapakah yang dapat membaca isi hati? Bahwa segala isi hati, rencana dalam pikiran, motif dalam melakukan pekerjaan Tuhan dapat dibaca jelas oleh Saksi yang Setia, Yesus Kristus yangidak dapat salah. [[EM 76.1]]
 
@@ -168,7 +168,7 @@ Dalam Lukas 11:15 bahwa Roh Kudus itu hanya diberikan kepada mereka yang sungguh
 
 “Kepada saya telah ditunjukkan bahwa penyebab terbesar mengapa umat Allah sekarang ini mengalami kebutaan rohani adalah karena tidak mau menerima nasihat. Banyak orang meremehkan teguran dan amaran yang disampaikan kepada mereka. Saksi yang Setia mencela keadan suam dari umat Allah Setantelah berhasil membuat keraguan terhadap kesaksian Roh Nubuat yang telah dikirim dari Allah sendiri... Kepada saya telah ditunjukkan bahwa ketidakpercayaan nutup terang kepada umat Allah. Ketidakpercayaan telah menutup mata mereka sehingga tidak tahu kondisi mereka yang sebenar. nya. Saksi yang Setia menjelaskan kebutaan mereka....28 [[EM 81.5]]
 
-## 5. TUHAN MENGUTUS ELIA MODERN
+## 2. Tuhan Mengutus Elia Modern
 
 “DD [[EM 82.1]]
 
@@ -218,7 +218,7 @@ Terang. itu mencakup terang reformasi kesehatan, terang penatalayanan (merencana
 
 Semua nasihat yang sudah diberikan Tuhan satu pun tidak ada yang dilalaikan. “Elia adalah contoh orang-orang saleh yang akan hidup terus di atas bumi pada waktu kedatangan Kristus yang kedua . kali dan yang akan diubah, “dalam sekejap mata, pada waktu |. bunyi nafiri yang terakhir,” tanpa merasai kematian. 1 Korintus 15:51, 52. Itulah lambang bagi orang-orang yang akan diubah. |. kan, sehingga Elia pada waktu Kristus tidak lama lagi mengakhiri pekerjaan-Nya di bumi, telah diizinkan berdiri dengan Musa di 1 samping Juruselamat di atas bukit kemuliaan" (Alfa dan Omega, jid 3, him. 187. 1 [[EM 85.6]]
 
-## 6. KEBANGUNAN ROHANI, DI MANA DIMULAI?
+## Kebangunan Rohani di Mana Dimulai
 
 Tuhan menghendaki agar kerohanian Laodikia yang suam itu berubah menjadi panas. Dan itu dapat terjadi melalui proses pertobatan yang sungguh pada diri para pemimpin di Laodikia. Barulah menjalar ke seluruh jemaat-Nya. Para pengkhotbah akan ' membawa pekabaran panggilan kepada satu kebangunan dan pembaruan rohani besar-besaran, panggilan yang tegas dan menggentarkan disampaikan oleh Elia modern yang diutus oleh “Kristus. Dan kemudian semua umat akan mendengar panggilan ituadayang menerima dan ada yang melawan akan teguran serta amaran yang menakutkan itu. Roh Nubuat berkata: [[EM 86.1]]
 
@@ -236,7 +236,7 @@ Roh Nubuat itu berkata: 3 [[EM 86.4]]
 
 Tulisan yang diilhamkan ini merupakan satu hal yang perlu kita renungkan dan doakan. Kita berterima kasih kepada Tuhan yang sudah memberikan amaran dan pernyataan akan keberadaan umat-Nya pada saat menjelang kedatangan Yesus ke dunia ini. Keadaan kerohanian yang suam dijelaskan, dan diberi solusi bagaimana mengatasinya, dan sedia menerima kuasa surga, kecurahan Hujan Akhir. Para pendeta, pemimpin umat, guru-guru, akan mengalami pembaruan lebih dulu di rumah tangga mereka, maka seluruh umat akan terpengaruh. . [[EM 87.3]]
 
-## 7. TEGURAN KARENA KASIH SAYANG
+## Teguran Karena Kasih Sayang
 
 Alasan dari pekabaran yang disampaikan oleh Saksi yang Setia itu kepada malaikat Jemaat Laodikia dan Laodikia adalah karena kasih sayang-Nya. [[EM 87.4]]
 
@@ -260,7 +260,7 @@ Apakah akibatnya? “Maka mereka membuat negerinya menjadi kengerian menjadi sas
 
 Inilah yang sudah terjadi dan menimpa orang Israel dulu. Me-reka terus menyembah berhala dan meninggalkan Tuhan Aldah. Akhirnya Tuhan mendatangkan bangsa Asyur dan orang “Kasdim (Babylonia) menyerbu dan memusnahkan negeri mereka, serta menawan bangsa itu ke negerinya. Saya yakin hal yang sama dapat terjadi kepada kita sebagai umat ataupun perseorangan “(pribadi) bila kita mengeraskan hati. Akhirnya suara Roh Kudus “tidak dapat kita dengar lagi karena kita sudah tuli dan tidak akan ada lagi kesempatan untuk bertobat dan akhirnya kebinasaan yang mengerikan itu pun tibalah, [[EM 89.4]]
 
-## 3. PANGGILAN KEPADA PERTOBATAN
+## Panggilan kepada Pertobatan
 
 Saksi yang Setia, Yesus Kristus yang Mahatahu itu melihat keadaan kerohanian yang sebenarnya dari para malaikat dan je. maat di Laodikia itu, memberikan panggilan agar kita ini bertobat [[EM 90.1]]
 
@@ -278,13 +278,15 @@ Pertobatan yang kita sangat butuhkan itu dijelaskan oleh RohNubuat sebagai berik
 
 Bilamana seseorang itu sudah dijamah Roh Kudus ia akan menemukan dosanya kemudian membenci dosanya dan ia akan berbalik dari padanya serta meninggalkannya. Maka satu jaminan Para nabi dan pesuruh Allah mengumandangkan suara panggilan pertobatan karena Allah Mahapengasih dan Mahapengampun. Dijelaskan “Nabi menyampaikan pekabaran kepastian akan pengampunan kepada semua yang berbalik dari perbuatan jahatnya."1? [[EM 90.8]]
 
+## Kerinduan Besar Menyelamatkan Jiwa-Jiwa
+
 Yeremia 50:20 "Pada waktu itu dan pada masa itu, demikianlah firman TUHAN, orang akan mencari kesalahan Israel, tetapi tidak didapatnya, dan dosa Yehuda, tetapi tidak ada ditemukannya, sebab Aku akan mengampuni orang-orang yang Kubiarkan tinggal hidup." [[EM 91.1]]
 
 Bila seseorang sudah mengalami pertobatan yang sungguh- Sungguh maka tak dapat tidak ia akan menerima pengampunan dan kemudian ia mengalami kepenuhan Roh Kudus dari Tuhan. Karena adalah kerinduan Tuhan untuk memberikan pemberian yang paling besar dan paling mulia dan yang paling penting dan mendesak sekarang ini itulah: Roh Kudus. [[EM 91.2]]
 
 Para pemimpin umat akan menerima lebih dulu kepenuhan Roh Kudus setelah mengalami kebangunan dan pembaruan “rohani yang kita tunggu-tunggu itu maka seluruh jemaat akan dipersiapkan untuk menerima kuasa surga yang dijanjikan itu untuk mengabarkan Injil keselamatan dengan penuh kuasa, dengan pelbagai tanda mukjizat serta mengamarkan seisi dunia ini agar bersedia menyambut kedatangan Yesus. pada hari kiamat yang sudah di ambang pintu. [[EM 91.3]]
 
-## 9. BUKTI PERTOBATAN SEJATI (YANG SESUNGGUHNYA)
+## 3. Bukti Pertobatan Sejati
 
 A. Kerinduan Besar Untuk Menyelamatkan. Wawa “Banyak orang tidak merasa beban bagi keselamatan jiwa hingga mereka itu sudah bertobat dengan sebenarnya dan meniru p Kerinduan dan semangat untuk melakukan usaha demi kese- 1 contoh dan teladan Yesus Kristus.”” N lamatan satu jiwa adalah merupakan bukti pertobatan yang / sesungguhnya. Namun ada orang merasa dirinya sudah bertobat” tetapi tidak mempunyai beban bagi keselamatan jiwa orang lain. [[EM 91.4]]
 
@@ -334,11 +336,11 @@ Kehormatan Terbesar Rena Ba “Kehormatan terbesar yang Allah pernah anugerahkan
 
 "Bilamana kita sudah dengan sepenuh hati menyerahkan €” [[EM 96.5]]
 
-## .— PEKABARAN KEPADA MALAIKAT JEMAAT LAODIKIA 97
+### .— PEKABARAN KEPADA MALAIKAT JEMAAT LAODIKIA 97
 
 Mencurahkan Roh Kudus tanpa batas. Tetapi ini belum terjadi karena sebagian besar dari jemaat belum bekerja bersama Allah.”! [[EM 97.1]]
 
-## B. MENGIKUTI REFORMASI KESEHATAN
+## Mengikuti Reformasi Kesehatan
 
 “Pertobatan kepada pekabaran masa kini, mencakup periol batan kepada prinsip-prinsip reformasi kesehatan."72 1 [[EM 97.2]]
 
@@ -356,23 +358,25 @@ Orang yang menang terhadap selera, ia akan makan untuk kesehatan saja, dan gizi 
 
 Mereka yang sudah menghidupkan terang itu sajalah yang sanggup dan berkuasa mengadakan panggilan pertobatan dan panggilan untuk mengubah pola hidup agar penuh dengan pertarakan dan kesederhanaan seperti Yohanes Pembaptis dan Ellen G. White. Hanya dalam pola kehidupan Yohanes Pembaptis ' maka kuasa yang sama kuasa roh Elia, akan menjadi milik umat:- Nya dalam penyampaian pekabaran pertobatan yang dimaksud. Ad “Mereka yang mempersiapkan jalan menyambut kedatangan Yesus kedua kali adalah orang yang mewakili Elia, sebagaimana Yohanes Pembaptis telah datang dalam roh Elia memper- Siapkan jalan bagi kedatangan Kristus yang pertama. Pembaruan adalah merupakan topik utama dan pikiran publik pun tergeraklah. 4 Pertarakan dalam segala hal dihubungkan dengan isi pekabaran yang membuat umat berbalik dari berhalanya, kegelojohannya dan cara berpakaiannya yang berlebihan dan dari yang lainnya.” [[EM 98.3]]
 
-## C. MENGHANCURKAN SEMUA BENTUK BERHALA MODERN
+## Menghancurkan Semua Bentuk Berhala Modern
 
 Sebagaimana sudah dinubuatkan oleh Firman Tuhan bahwa dunia ini akan dilanda oleh kuasa penipuan dari Setan, maka umat manusia akan tertipu dan sesat, kecuali mereka yang sudah membentengi diri oleh pengetahuan akan Kitab Suci. Dunia menjelang hari kiamat mengalami.satu peristiwa yang dahsyat oleh kuasa kegelapan di mana akan terjadi puncak peperangan antara gelap dan terang, antara Setan dan seluruh bala tentaranya melawan [[EM 98.4]]
 
-## .- PEKABARAN KEPADA MALAIKAT JEMAAT LAODIKIA 99
+### .- PEKABARAN KEPADA MALAIKAT JEMAAT LAODIKIA 99
 
 mempelajari tulisan yang diilhamkan itu agar kita tidak tertipu dan sesat. “Masa kesukaran ada di depan kita, maka kita harus mengikuti semua petunjuk yang diberikan melalaui Roh Nubuat.”! [[EM 99.1]]
 
 Setan penguasa dunia ini akan menawarkan dunia dan seisinya bagi manusia agar hatinya terikat kepada kemewahan dan kesenangan: dunia ini. Dengan demikian manusia terpikat dan memberi hatinya, hidupnya mengejar kepelesiran dunia. Dunia dan segala apa yang ada di dalamnya: menjadi idaman dan hal yang dikejar dan dicintai lebih daripada Tuhan. Dengan demikian manusia menyembah. kepada berbagai hal yang menarik hati mereka daripada Tuhan. Sa j Oleh karena mengasihi akan berhala modern maka tidak lagi dapat mengasihi Tuhan dengan segenap hati dan tenaga. Apakah sebenarnya yang disebut “berhala” itu? Roh Nubuat berkata: SI aa “Apa pun yang membuat hati tidak lagi mencintai Allah dengan segenap hati, itu dianggap berhala.” 8 Ae Terimakasih kepada organisasi Gereja Masehi Advent Hari Ketujuh yang sudah mencetak semua tulisan Ellen G. White dan mengedarkannya di seluruh dunia orang Advent sehingga para pendeta dan pemimpin dapat mempelajari dan mengetahui isi pekabaran itu. Sebab pekabaran Elia adalah pekabaran panggilan untuk meninggalkan semua berhala kesayangan umat yang sisa (ada 12 jenis berhala modern yang akan dibahas kemudian). Kata malaikat itu: "Dan mereka yang berpaut kepada berhalanya, tinggalkan saja!” dan malaikat itu pun meninggalkan mereka dalam sifat dosa ketidakmenurutan dan dikendalikan oleh malaikat jahat. Akartetapi mereka yang sudah menang dalam setiap ujian dan telah mengindahkan nasihat dari Saksi yang Setia itu '. akan menerima kecurahan Hujan Akhir dan dilayakkan untuk diubahkan hidup-hidup." "? [[EM 99.2]]
 
-## 10. BERTENTANGAN DENGAN PENDAPAT UMUM
+## 4. Bertentangan dengan Pendapat Umum
 
 me sdendanmansnai ian yaraikanesai adain aa aa na panjang zaman selalu bertentangan dengan pendapat umum yang dianut dan dipercayai umat pada saat yang sama. Itulah sebabnya para pemimpin agama menolak pekabaran, teguran dan nasihat yang diberikan Allah kepada umat melalui seorang utusan, nabi atau pesuruh Allah. [[EM 100.1]]
 
 Pada zaman Nabi Yeremia, Tuhan menyuruh Nabi Yeremia untuk menyampaikan pekabaran datangnya bangsa besar Babilon yang akan menaklukkan bangsa Israel yang sudah murtad dari Tuhan. Dan oleh sebab itu, nabi menyerukan agar tidak usah melawan tetapi menyerah saja, karena itu lebih baik bagi segenap bangsa. Akan tetapi pendapat umum mengatakan bahwa itu suatu pengkhianatan kepada bangsa, harus berdiri sebagai pahlawan dan melawan Babilon. Nabi Yeremia ditangkap dan dipenjarakan di bawah tanah karena dianggap seorang pengkhianat bangsa. [[EM 100.2]]
 
 Adalah juga sama bagi Jemaat Laodikia ini. Roh Nubuat berkata « “Tuhan tidak menutup surga bagi kita, tetapi perjalanan kita terus menuju kemurtadan yang menceraikan kita dari Allah... akan tetapi pendapat umum adalah: bahwa jemaat kita mengalami kemajuan dan damai serta kerohanian yang memuaskan di segala bidang. Jemaat ini telah berbalik dari pemimpinnya Kristus dan - "berjalan menuju balik ke Mesir. Karena... keraguan dan ketidakper- 1 cayaan terhadap kesaksian Roh Nubuat telah meracuni jemaat dimana-mana,"”8 .' “Keadaan yang sebenarnya dari mereka yang mengaku umat Allah adalah sangat berbeda jauh dengan apa yang mereka | akui melalui bibirnya sendiri. Dapat jelas dilihat bahwa satu kuasa yang kuat telah memutuskan tali pengikat terhadap batu zaman, 1. maka mereka Dianjadi.kanyul Ko Iaulan Gnpa Kompas dan petun- “Ju 81 ad [[EM 100.3]]
+
+## Reaksi Terhadap Pekabaran Elia Modern
 
 Tetap merasa aman, walaupun tidak mengikuti petunjuk Tuhan dalam Alkitab dan Roh Nubuat? [[EM 101.1]]
 
@@ -392,7 +396,7 @@ Siapakah mereka yang dianggap orang biasa itu? Mereka adalah orang yang tidak me
 
 Ribuan orang akan ditobatkan melalui kesaksian mereka. Mengapa orang yang tuna aksara tersebut memiliki kuasa ini. [[EM 102.6]]
 
-## . PEKABARAN KEPADA MALAIKAT JEMAAT LAODIKIA 103.
+### . PEKABARAN KEPADA MALAIKAT JEMAAT LAODIKIA 103.
 
 yang murni dan jelas, sedangkan orang yang terpelajar menyimpang dari kebenaran. “Bilamana makhluk-makhluk surga yang cerdas itu melihat bahwa manusia tidak mau lagi menyampaikan kebenaran dalam kesederhanaan sebagaimana yang Yesus lakukan, maka anakanak kecil akan digerakkan oleh Roh Tuhan dan akan pergi mengumandangkan kebenaran untuk masa kini.” 8 Pekabaran ditujukan kepada dosa "merasa sudah cukup baik, cukup layak" di kalangan umat di Laodikia perlu ditinggalkan agar dapat menerima kepenuhan Roh Kudus dengan demikian sedia bertemu Kristus dan melayani sebelum pintu kasihan tertutup bagi semua orang. “Kristus berkata, bahwa dengan melepaskan sifat merasa ' cukup baikmu, dan menyerahkan semua yang sangat digemari dan mahal bagimu, barulah engkau dapat:membeli emas, dan pakaian dan salep mata agar engkau dapat melihat....9! [[EM 103.1]]
 
@@ -408,19 +412,19 @@ Akan tetapi bangsa Israel kuno dulu, dicatat bahwa para pemimpin bangsa dan agam
 
 Demikianlah Yohanes Pembaptis oleh pekabaran yang sudah ditaruh Tuhan di bibirnya untuk disampaikan akhirnya dipenggal lehernya oleh raja Herodes karena kemarahan dan dendam Herodias kepadanya karena ia ditegur oleh Yohanes dalam perkawinannya dengan raja Herodes. Memang besarlah risiko dari amaran dan teguran yang diberikan Tuhan kepada orang berdosa | ' melalui para hamba-Nya. Akan tetapi maut bukanlah satu hal yang perlu ditakuti oleh mereka yang sudah diutus Tuhan seperti Rasul [[EM 104.3]]
 
-## — 12. DENGAN CARA TIGA “M” (Messenger, Message, Method)
+## Dengan Cara 3 M
 
 r. Kita mengenal pelajaran 3 M yaitu: Messanger, Message dan Method. [[EM 105.1]]
 
 1, Messenger atau Pesuruh. Siapa yang Tuhan suruh atau diutus untuk menyampaikan pekabaran yang sudah disiapkan Tuhan untuk disampaikan kepada jemaat yang sisa (Laodikia) saat sekarang ini menjelang Yesus muncul di awan untuk menjemput kita? Adalah mereka yang sudah benar-benar bertobat dan menghidupkan ajaran Alkitab dari Roh Nubuat dan sudah mengadakan penyerahan diri yang sepenuhnya untuk dipakai oleh Roh Tuhan. [[EM 105.2]]
 
-## 2. Message (Pekabarannya) Tentang Apa? Pekabaran
+### 2. Message (Pekabarannya) Tentang Apa? Pekabaran
 
 yang disampaikan oleh Elia modern, adalah pekabaran dari E.G. White, pekabaran Elia yang memanggil kepada pertobatan yang sungguh-sungguh, pekabaran yang mempersiapkan umat untuk masa krisis terhebat sepanjang masa, pekabaran menyediakan umat bagi hari kedatangan Juruselamat, Kristus. 3..Method (Metode) Penyampaian. Tuhan memberikan kuasa Roh Kudus kepada orang yang sudah dipilih Tuhan untuk menyampaikan pekabaran tersebut. Maleaki 4:5 berkata: “Sesungguhnya Aku akan mengutus nabi Elia kepadamu menjelang datangnya hari Tuhan yang besar dan dahsyat itu." Didorong oleh kasih Kristus sajalah maka hamba Tuhan dengan air mata akan menyampaikan pekabaran yang tegas dan menyentakkan orang dari dosa dan kelalaiannya. | . Kapan? Bila Roh Kudus sudah memenuhi kehidupan seseorang yang sudah dipanggil oleh Tuhan untuk menyampaikan pekabaran itu dengan penuh kuasa dan kasih Allah. “Kecurahan Roh Suci atas sidang dilihat seolah-olah untuk masa yang akan datang, tetapi adalah hak istimewa bagi Sidang untuk memperolehnya sekarang ini juga." [[EM 105.3]]
 
 “Tetapi Roh Allah turun ke atas mereka sebagaimana turun ke atas Elia, menggerakkannya menegur dosa-dosa seorang raja nahan diri dan mengkhotbahkan kata-kata Alkitab dan doktrin yang tadinya mereka enggan untuk menyampaikannya. Mereka didorong dengan semangat menyatakan kebenaran, dan menya:takan bahaya yang mengancam jiwa-jiwa. Perkataan yang Tuhan berikan kepada mereka, mereka ucapkan, tidak takut apa pun akibatnya, dan orang-orang terdorong untuk mendengar amar. an itu.”92 [[EM 105.4]]
 
-## 13. BERANI MENGESAMPINGKAN ROH NUBUAT?
+## Berani Mengesampingkan Roh Nubuat?
 
 Percaya diri dari malaikat Laodikia itu merasa kaya dan cukup pintar dalam mengartikan firman dalam Alkitab sehingga tidak merasa perlu bantuan dari tulisan yang diilhamkan khusus untuk Laodikia yang berada pada saat kedatangan Kristus ini? [[EM 106.1]]
 

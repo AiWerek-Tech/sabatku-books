@@ -1,8 +1,8 @@
-## BAB I
+### BAB I
 
-## PEKABARAN NABI ELIA
+### PEKABARAN NABI ELIA
 
-## 1. NABI ELIADAN BERHALA BAAL
+## 1. Nabi Elia dan Berhala Baal
 
 Raja Ahab, telah membawa Israel kepada kemerosotan kerohanian lebih buruk dari semua raja yang pernah ada sebelumnya. Ahab telah menikahi Izebel putri Raja Ethbal dari Sidon seorang imam besar dari dewa Baal. Raja Ahab sudah menyembah Baal dan mendirikan mezbah bagi Baal di Samaria (1 Raja 16:31, 32). Dengan demikian ia membangkitkan amarah Tuhan lebih daripada semua raja Israel. Bukan itu saja, Izebel juga istrinya telah mendirikan banyak sekali mezbah bagi penyembahan berhala di seluruh Israel sehingga mempengaruhi bangsa itu agar menyembah kepada Baal. Tidak ada kejahatan yang dilakukan oleh raja-raja Israel seperti yang dibuat oleh Ahab yang didorong oleh istrinya Izebel. Dengan demikian bangsa itu telah melakukan dosa penyembahan berhala sama seperti apa yang dibuat oleh orang Amori yang sudah dimusnahkan Tuhan di hadapan Israel. (1 Raja 21:25). [[EM 19.1]]
 
@@ -36,7 +36,7 @@ Akan tetapi sampai mereka habis tenaga berteriak Sambi melukai tubuh mereka hing
 
 Kemudian mereka memberikan waktu bagi Elia untuk berdo kepada Allah agar menurunkan api dari langit membakar korbar yang telah Elia sediakan di hadapan seluruh rakyat itu. Setelar Elia berdoa maka turunlah api Tuhan dari langit. [[EM 22.3]]
 
-## Israel Dipulihkan Kepada Penyembahan Allah Saja
+## Israel Dipulihkan kepada Penyembahan Allah Saja
 
 “Lalu turunlah api TUHAN menyambar habis korban bakar. ' an, kayu api, batu dan tanah itu, bahkan air yang dalam parit it habis dijilatnya. Ketika seluruh rakyat melihat kejadian itu, sujudlat merekadanberkata: TUHAN, Dialah Allah! TUHAN Dialah Allah!" d (1 Raja 18:38, 39). ae [[EM 22.4]]
 
@@ -62,11 +62,11 @@ Bagaimanakah gambaran yang sebenarnya dari kerohanian manusia itu sekarang ini? 
 
 Bila Tuhan sudah mengutus Nabi Elia dengan penuh keberanian dan kuasa surga menegur dosa Raja Ahab dan Izebel serta menyatakan kuasa Allah di Bukit Karmel, di hadapan semua nabi palsu yang menarik hati bangsa itu kepada penyembahan berhala Baal dan Astoreth, maka hal yang sama pula sudah terjadi pada zaman Yohanes Pembaptis di mana dia telah diutus datang dalam kuasadanroh Elia kepada bangsa Yahudi dan bahkan akan mengutus juga Elia modern untuk zaman kita ini. [[EM 24.2]]
 
-## — 2. PEKABARAN ELIA DAN YOHANES PEMBAPTIS
+## 2. Pekabaran Elia dan Yohanes Pembaptis
 
 Padazaman Yesus Kristus hidup di atas dunia ini, keroha- . nian bangsa Israel itu pun sangat merosot hingga titik dasar yang paling rendah. Pemimpin agama Yahudi, para imam, ahli Taurat, [[EM 24.3]]
 
-## PEKABARAN NABI ELIA
+### PEKABARAN NABI ELIA
 
 diri sendiri. Sebelum kehadiran Yesus di dunia Ini, sudah dinubuatkan akan ada seorang diutus Tuhan mendahului-Nya untuk mempersiapkan jalan bagi-Nya. Itulah Yohanes Pembaptis. [[EM 25.1]]
 
@@ -78,7 +78,7 @@ Keadaan kerohanian bangsa pilihan itu pada waktu itu sangat merosot dan hampir t
 
 Ellen White menuliskan: “Pada zaman Yohanes Pembaptis keserakahan terhadap kekayaan, dan cinta akan kemewahan dan pertunjukan, sangat merajalela. Kepelesiran yang cabul, pestapesta dan minum-minuman yang.menimbulkan penyakit-penyakit jasmani dan kemerosotan, menumpulkan pengertian tentang hal yang rohani dan mematikan rasa terhadap dosa. Yohanes muncul sebagai seorang reformator. Dengan kehidupannya yang bertarak dan dengan pakaian yang sederhana, Ia menempelak segala yang keterlaluan pada zamannya." Keadaan peribadatan orang pada waktu Yohanes sama se- “perti pada waktu zaman Nabi Elia. Manusia rakus akan harta, [[EM 25.5]]
 
-## 26 | ELIAMODERN,
+### 26 | ELIAMODERN,
 
 cinta kemewahan, suka memamerkan keberadaannya, kepe. lesiran, pesta pora, percabulan dan kemerosotan moral. Kuasa agama itu sudah hilang di dalam kehidupan mereka sementara mereka kelihatan secara luar adalah orang yang beragama. [[EM 26.1]]
 
@@ -88,13 +88,13 @@ la telah diutus untuk mendahului kedatangan Mesias. Mem- 8 persiapkan suatu umat
 
 Yohanes telah berseru dengan suara nyaring mengkhotbahkan firman Tuhan, dengan tegas menempelak dosa dan kejahatan umat pada saat itu. Di padang belantara Yudea-lah Yohanes menyampaikan khotbah panggilan kepada pertobatan, dan apabila tidak menerima panggilannya akan menerima kebinasaan yang dahsyat, tegasnya. Yohanes bagaikan Nabi Elia dan datang dalam kuasa dan roh Elia. Pemikiran orang kembali kepada zaman Elia karena Yohanes juga mempunyai cara dan perilaku seperti Elia dan juga berpakaian seperti Elia. Yohanes Pembaptis datang dalam roh dan kuasa Elia, dipe” nuhi kuasa Roh Kudus yang menyampaikan [[EM 26.4]]
 
-## 1. Khotbah yang tegas dan berani menegur dosa umat dan
+### 1. Khotbah yang tegas dan berani menegur dosa umat dan
 
 panggilan supaya merendahkan hati dan penyangkalan diri [[EM 27.1]]
 
 dan bertobat! [[EM 27.2]]
 
-## 2. Pekabaran tentang kedatangan Mesias, agar bangsa itu se-
+### 2. Pekabaran tentang kedatangan Mesias, agar bangsa itu se-
 
 dia menerima-Nya sebagai raja dan yang sudah dinubuatkan [[EM 27.3]]
 
@@ -118,6 +118,8 @@ Yohanes telah menegur Raja Herodes oleh karena ia MeNngambil istri saudaranya Fi
 
 1 “Tidak ada manusia yang lebih besar di hadapan Tuhan seperti Yohanes Pembaptis. la lebih dihormati daripada Elia dan Henokh.” "Dalam pemandangan surga kebesaran itu bukan seperti an raja, atau kepintaran yang tinggi bukan. Itu adalah soal moral dan tabiat. Cinta dan kesucian hati adalah lencana yang sangat berharga. Yohanes di hadapan siapa pun ia tidak pernah mencari hormat bagi dirinya sendiri tetapi semuanya dilakukan hanya untuk Kristus yang dijanjikan itu.” [[EM 28.2]]
 
+## Pola Hidup Yohanes Pembaptis
+
 la datang dalam “Kuasa dan roh Elia” untuk menyampaikan satu pekabaran yang tegas dan penuh keberanian dari Tuhan kepada seluruh jajaran masyarakat, tinggi rendah, kaya miskin dan para penguasa sekali pun agar: a. Umat Tuhan bertobat dengan sungguh-sungguh, mening- [[EM 29.1]]
 
 galkan semua jenis berhala kepelesiran, kemewahan, keta- . [[EM 29.2]]
@@ -132,11 +134,11 @@ tobatan nabi itu dinyatakan oleh kesediaan mereka menerima [[EM 29.6]]
 
 baptisan di dalam air. : [[EM 29.7]]
 
-## Markus 1:4-8 “Demikianlah Yohanes Pembaptis tampil di
+### Markus 1:4-8 “Demikianlah Yohanes Pembaptis tampil di
 
 2 Markus 1:4-8 “Demikianlah Yohanes Pembaptis tampil di padang gurun dan menyerukan: 'Bertobatlah dan berilah dirimu dibaptis dan Allah akan mengampuni dosamu.' ... Yohanes memakai jubah bulu unta dan ikat pinggang kulit, dan makanannya belalang dan madu hutan. Inilah yang diberitakannya “Sesudah aku akan datang la yang lebih berkuasa dari padaku, membungkuk dan membuka tali kasut-Nya pun aku tidak layak. Aku membaptis kamu dengan air, tetapi la akan membaptis kamu dengan Roh Kudus.” S Yohanes sejak kecil telah diajar oleh orangtuanya Zakharia untuk hidup sederhana, penuh pertarakan dan pengendalian diri. “Tatidak dididik oleh para doktor teologi di Yerusalem tetapi ia diajar oleh Roh Kudus di padang belantara. Yohanes banyak mengguna- . kan waktunya di padang gurun Yudea, daerah antara Yerikho dan Laut Mati tidak asing baginya. la dekat dengan alam:dan seperti [[EM 29.8]]
 
-## 30 ELIA MODER,
+### 30 ELIA MODER,
 
 Musa dulu ia mendengar suara Tuhan di alam dan di bukit batu g, Midian. la telah belajar nubuatan tentang datangnya Mesias. [[EM 30.1]]
 
@@ -154,17 +156,17 @@ Dalam keadaan seperti itulah, “Yohanes muncul sebagai seorang Reformator. Oleh
 
 Roh Nubuat berkata: “Selera dan segala nafsu wajib ditundukkan ke bawah kuasa pikiran yang lebih tinggi. Pengendalian diri ini sangat penting bagi tenaga pikiran dan pengertian rohani yang akan menyanggupkan kita untuk mengerti dan untuk mempraktikkan kebenaran Firman Allah yang suci. Oleh sebab itu pertarakan mendapat tempatnya dalam pekerjaan persiapan bagi kita sekarang ini untuk kedatangan Kristus yang kedua kali.” i [[EM 31.2]]
 
-## — TIGA HAL PENTING
+## Tiga Hal Penting
 
 Ada tiga hal penting yang kita dapat lihat dalam pekabaran Yohanes Pembaptis yang datang dalam “kuasa dan roh Elia” itu: [[EM 31.3]]
 
-## Si IP Perkataan dan Teguran yang Tegas
+### Si IP Perkataan dan Teguran yang Tegas
 
 ! Sama halnya keadaan kerohanian orang Yahudi pada zaman Yohanes Pembaptis sama seperti Israel pada zaman Nabi Elia di mana bangsa itu menyembah Baal yang dianggap sumber kemakmuran dan perlindungan, sesungguhnya pemimpin agama Yahudi Farisi, imam dan ahli Taurat, mereka juga menyembah berhala: kekayaan, kepelesiran dan kehormatan serta kedudukan. Makan dan minum serta pesta pora membuat hal yang rohani. “tidak dihargai lagi dengan semestinya. [[EM 31.4]]
 
 Dalam keadaan seperti itulah Tuhan mengutus hamba-Nya vohanes Pembaptis berseru dan berteriak dari padang belantara menegur akan dosa dan kejahatan umat dengan beraninya. "Dan, oleh kuasa Roh Kudus perkataannya tegas, tajam dan me. yakinkan. Seluruh bangsa itu tergerak hatinya. Berduyun-duyun orang pergi ke padang belantara. Banyak dari antara ahli-ahli Tau. rat dan orang Farisi datang mengakui dosa mereka dan Minta dibaptiskan. Mereka ini yang telah meninggikan diri Sendiri seba. gai orang yang lebih baik daripada orang lain banyak yang datan. serta bertobat dan menerima baptisan. ) Hal yang sama juga akan terjadi melalui pekabaran Elia Yang muncul pada akhir zaman ini. Sehingga akan terjadi kebangunNnan dan pembaruan rohani besar-besaran dan menyeluruh bagi pemimpin dan umat yang sisa di Jemaat Laodikia yaitu Jemaat yang terakhir di atas dunia ini. Sea [[EM 32.1]]
 
-## 2. Pelajaran Tentang Nubuatan Peristiwa yang Akan Terjadi
+### 2. Pelajaran Tentang Nubuatan Peristiwa yang Akan Terjadi
 
 (Eskatologi) yaitu Kedatangan Mesias [[EM 32.2]]
 
@@ -172,7 +174,7 @@ Pekabaran Yohanes juga untuk mempersiapkan umat ".— menerima kedatangan Mesias
 
 Mereka yang akan datang dalam roh dan kuasa Elia, pada akhir zaman ini akan membawakan pekabaran yang menggemparkan umat dengan pekabaran kedatangan Yesus yang kedua. . kali. Umat harus dipersiapkan menyambut kedatangan Kristus. dengan kehidupan yang sungguh-sungguh bertobat. Pelajaran tentang nubuatan peristiwa yang akan menimpa dunia dan gereja Tuhan (dalam buku Wahyu dan Daniel) harus benar-benar dikumandangkan dengan jelas dan tegas sehingga membangunkan umat dari tidur rohaninya. [[EM 32.4]]
 
-## 3. Hidup dengan Makanan dan Pakaian yang Sederhana
+### 3. Hidup dengan Makanan dan Pakaian yang Sederhana
 
 Kehidupan yang amat sederhana. Baik berpakaian, makanan dan kesederhanaan merupakan satu kuasa yang menegur kemewahan, kesombongan, kepelesiran dan keinginan hormat dan pujian bagi diri sendiri bagi para pemimpin agama dan bangsa. [[EM 33.1]]
 
