@@ -71,7 +71,7 @@ test('Elia Modern separates front matter and keeps the printed contents in navig
   build(tmp,{write:true});
   const source=path.join(tmp,'content/id/elia-modern');
   const edition=JSON.parse(fs.readFileSync(path.join(source,'edition.json'),'utf8'));
-  assert.equal(edition.revision,'4');
+  assert.equal(edition.revision,'5');
   assert.deepEqual(edition.nodes.slice(0,6).map(node=>node.title),[
    'Halaman Judul','Prakata','Ucapan Terima Kasih','Singkatan Buku','Kutipan','Pendahuluan'
   ]);
@@ -80,7 +80,12 @@ test('Elia Modern separates front matter and keeps the printed contents in navig
   assert.doesNotMatch(fs.readFileSync(path.join(source,'nodes/05-pendahuluan.md'),'utf8'),/Ekstraksi tersedia|Konten buku ini masih dalam proses/);
   assert.doesNotMatch(fs.readFileSync(path.join(source,'nodes/00-informasi-buku.md'),'utf8'),/bukuadvent\.com|Cakupan Sumber|Ekstraksi tersedia/);
   assert.doesNotMatch(edition.description,/Ekstraksi|halaman 108|dalam proses/i);
-  const manifest=JSON.parse(fs.readFileSync(path.join(tmp,'public/editions/elia-modern-id/revisions/4/manifest.json'),'utf8'));
+  const manifest=JSON.parse(fs.readFileSync(path.join(tmp,'public/editions/elia-modern-id/revisions/5/manifest.json'),'utf8'));
+  for(const id of ['chapter-01','chapter-02','chapter-03']){
+   const group=manifest.nodes.find(node=>node.id===id);
+   assert.equal(group.content,undefined,'title-only chapter openings must be navigation groups');
+   assert.ok(manifest.nodes.some(node=>node.parentId===id&&node.content),'a navigation group must retain readable sections');
+  }
   const children=id=>manifest.nodes.filter(node=>node.parentId===id).map(node=>node.title);
   assert.deepEqual(children('chapter-01'),[
    '1. Nabi Elia dan Berhala Baal','Pukulan Terhadap Dewa Baal','Demonstrasi Kuasa di Karmel',

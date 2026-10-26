@@ -102,7 +102,9 @@ export function build(base=root,{write=true}={}){
    for(const n of d.nodes){
     const body=fs.readFileSync(safeFile(source,n.file),'utf8');
     if(nodeType(n)==='chapter'){
-     const split=splitChapter(body,n.id);addNode(n,split.intro,'chapter');
+     const split=splitChapter(body,n.id);
+     const hasIntroText=split.intro.split('\n').some(line=>line.trim()&&!/^#{1,6}\s/.test(line.trim())&&!/^(?:[-*_]\s*){3,}$/.test(line.trim()));
+     addNode(n,split.children.length&&!hasIntroText?'':split.intro,'chapter');
      split.children.forEach((section,index)=>{
       if(!section.title)throw Error(`${d.id}/${n.id}: a chapter contains an empty section heading`);
       const id=`${n.id}:section-${sectionSlug(section.title)}-${index+1}`;
