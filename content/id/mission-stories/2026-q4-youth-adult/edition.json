@@ -5,7 +5,7 @@
   "workId": "work:mission-stories:youth-adult",
   "locale": "id",
   "title": "Cerita Misi Pemuda & Dewasa — Triwulan 4 2026",
-  "description": "Kumpulan cerita misi mingguan untuk pemuda dan dewasa dari fokus wilayah triwulan ini. Edisi ini memuat 13 cerita bertanggal Sabat dan dapat dibaca tanpa koneksi internet.",
+  "description": "Kumpulan 13 cerita misi untuk pemuda dan dewasa, dengan bacaan untuk setiap Sabat pada triwulan keempat 2026. Kisah-kisah ini mengangkat pengalaman iman, persahabatan, dan pelayanan dari berbagai negara.",
   "publicationPeriod": {
     "type": "quarterly",
     "year": 2026,
@@ -14,7 +14,7 @@
     "startDate": "2026-10-03",
     "endDate": "2026-12-26"
   },
-  "revision": "3",
+  "revision": "4",
   "status": "published",
   "rights": {
     "status": "verified",

@@ -47,7 +47,7 @@ test('published editions, including Elia Modern, enter the catalog with official
  assert.equal(edition.locale,'id');
  assert.equal(edition.status,'published');
  assert.equal(edition.nodes.filter(node=>node.id.startsWith('chapter-')).length,42);
- assert.equal(edition.revision,'7');
+ assert.equal(edition.revision,'8');
  assert.equal(edition.externalEditions,undefined);
  const english=JSON.parse(fs.readFileSync(path.join(root,'content/en/love-under-fire-en/edition.json'),'utf8'));
  assert.equal(english.locale,'en');
@@ -102,7 +102,7 @@ test('2026 stewardship readings publish 52 consecutive Sabbath entries with comp
  const edition=JSON.parse(fs.readFileSync(path.join(root,'content/id/stewardship-readings/2026/edition.json'),'utf8'));
  const work=JSON.parse(fs.readFileSync(path.join(root,'content/id/stewardship-readings/works/readings.json'),'utf8'));
  assert.equal(edition.id,'edition:stewardship-readings:2026:id');
- assert.equal(edition.revision,'4');
+ assert.equal(edition.revision,'5');
  assert.equal(edition.status,'published');
  assert.equal(edition.rights.status,'verified');
  assert.equal(edition.rights.offlineAllowed,true);
@@ -154,7 +154,7 @@ test('chapter headings become navigable sections and public copy keeps only read
  const tmp=rootCopy();
  try{
   build(tmp,{write:true});
-  const editionRoot=path.join(tmp,'public/editions/love-under-fire-id/revisions/7');
+  const editionRoot=path.join(tmp,'public/editions/love-under-fire-id/revisions/8');
   const manifest=JSON.parse(fs.readFileSync(path.join(editionRoot,'manifest.json'),'utf8'));
   const chapter=manifest.nodes.find(node=>node.id==='chapter-01');
   const sections=manifest.nodes.filter(node=>node.parentId==='chapter-01');
@@ -177,7 +177,7 @@ test('chapter headings become navigable sections and public copy keeps only read
   const appendix=fs.readFileSync(path.join(tmp,'public',manifest.nodes.find(node=>node.id==='appendix').content.path),'utf8');
   assert.doesNotMatch(appendix,/Catatan pemeriksaan|audit editorial tersendiri/i);
   assert.equal(manifest.offlineRedistributionAllowed,true);
-  const englishManifest=JSON.parse(fs.readFileSync(path.join(tmp,'public/editions/love-under-fire-en/revisions/3/manifest.json'),'utf8'));
+  const englishManifest=JSON.parse(fs.readFileSync(path.join(tmp,'public/editions/love-under-fire-en/revisions/4/manifest.json'),'utf8'));
   const englishChapter=englishManifest.nodes.find(node=>node.id==='chapter-01');
   const englishSections=englishManifest.nodes.filter(node=>node.parentId==='chapter-01');
   assert.ok(englishSections.length>0);

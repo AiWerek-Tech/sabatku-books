@@ -1,5 +1,5 @@
 ## About this edition
 
-*Love Under Fire* is an English-language book by Ellen G. White, published by the Ellen G. White Estate. This reading edition was prepared for SabatKu from the publisher-provided English MOBI source and is available for online and offline reading under SabatKu's official authorization.
+*Love Under Fire* by Ellen G. White explores the history of the Christian church, biblical prophecy, and the hope of Christ’s return.
 
-Copyright © 2018 Ellen G. White Estate, Inc. Visit the [official Ellen G. White Estate](https://whiteestate.org/) or [read the book online](https://egwwritings.org/read?panels=p12269.2&index=0).
+Copyright © 2018 Ellen G. White Estate, Inc.
