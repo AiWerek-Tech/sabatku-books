@@ -1,0 +1,702 @@
+{
+  "kind": "edition",
+  "id": "edition:elia-modern:id:sabatku",
+  "key": "elia-modern-id",
+  "workId": "work:elia-modern",
+  "locale": "id",
+  "title": "Elia Modern",
+  "description": "Ekstraksi tersedia untuk halaman cetak 5–17 dan 19–107. Halaman 3–4 dan 18 adalah lembar kosong. Halaman 107 berakhir di tengah kalimat; konten halaman 108 sampai halaman terakhir buku masih dalam proses. Daftar isi lengkap ditampilkan hingga subjudul terakhir pada halaman 332, dengan penanda untuk bagian yang belum tersedia.",
+  "revision": "3",
+  "status": "published",
+  "rights": {
+    "status": "verified",
+    "attribution": "Pdt. Elisha Gultom, penyusun; Ellen G. White, sumber kutipan. Hak cipta © 2009 Indonesia Publishing House.",
+    "offlineAllowed": true,
+    "permissionNote": "Pemilik konten menyatakan memiliki izin resmi untuk ekstraksi, publikasi digital, dan distribusi konten buku ini melalui SabatKu."
+  },
+  "primaryThemeId": "prophecy-eschatology",
+  "themeIds": [
+    "prophecy-eschatology"
+  ],
+  "collectionIds": [
+    "egw-writings"
+  ],
+  "audienceIds": [
+    "all"
+  ],
+  "sources": [
+    {
+      "kind": "provider-page",
+      "label": "Deskripsi penerbit Balai Buku Advent",
+      "url": "https://bukuadvent.com/portfolio/elia-modern/",
+      "primary": false,
+      "offlineAllowed": false
+    }
+  ],
+  "cover": "assets/cover.png",
+  "nodes": [
+    {
+      "id": "book-information",
+      "title": "Informasi Buku",
+      "order": 0,
+      "nodeType": "front-matter",
+      "file": "nodes/00-informasi-buku.md"
+    },
+    {
+      "id": "front-matter",
+      "title": "Prakata, Singkatan, dan Daftar Isi",
+      "order": 1,
+      "nodeType": "front-matter",
+      "file": "nodes/01-front-matter.md"
+    },
+    {
+      "id": "chapter-01",
+      "title": "Bab I · Pekabaran Nabi Elia",
+      "order": 2,
+      "nodeType": "chapter",
+      "file": "nodes/02-bab-i-pekabaran-nabi-elia.md"
+    },
+    {
+      "id": "chapter-02",
+      "title": "Bab II · Keadaan Jemaat Menjelang Hari Kiamat",
+      "order": 3,
+      "nodeType": "chapter",
+      "file": "nodes/03-bab-ii-keadaan-jemaat-laodikia.md"
+    },
+    {
+      "id": "chapter-03",
+      "title": "Bab III · Pekabaran kepada Malaikat Jemaat Laodikia",
+      "order": 4,
+      "nodeType": "chapter",
+      "file": "nodes/04-bab-iii-pekabaran-laodikia.md"
+    },
+    {
+      "id": "chapter-04",
+      "title": "Bab IV · Pekabaran Elia Modern tentang 12 Jenis Berhala",
+      "order": 5,
+      "nodeType": "chapter",
+      "file": "nodes/08-konten-dalam-proses.md"
+    },
+    {
+      "id": "chapter-04-a",
+      "title": "A. Berhala Merusak Cinta Kasih yang Utuh terhadap Tuhan",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04"
+    },
+    {
+      "id": "chapter-04-b",
+      "title": "B. Dua Belas Jenis Berhala Modern",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04"
+    },
+    {
+      "id": "chapter-04-b-01",
+      "title": "1. Berhala Uang atau Harta",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04-b"
+    },
+    {
+      "id": "chapter-04-b-02",
+      "title": "2. Berhala Selera",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04-b"
+    },
+    {
+      "id": "chapter-04-b-03",
+      "title": "3. Berhala Bebas dari Tanggung Jawab",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04-b"
+    },
+    {
+      "id": "chapter-04-b-04",
+      "title": "4. Berhala Menghias Diri",
+      "order": 3,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04-b"
+    },
+    {
+      "id": "chapter-04-b-05",
+      "title": "5. Pakaian Sudah Menjadi Berhala",
+      "order": 4,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04-b"
+    },
+    {
+      "id": "chapter-04-b-06",
+      "title": "6. Musik Merupakan Berhala",
+      "order": 5,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04-b"
+    },
+    {
+      "id": "chapter-04-b-07",
+      "title": "7. Berhala Kepelesiran, Hiburan (Amusement)",
+      "order": 6,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04-b"
+    },
+    {
+      "id": "chapter-04-b-08",
+      "title": "8. Berhala Posisi/Jabatan",
+      "order": 7,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04-b"
+    },
+    {
+      "id": "chapter-04-b-09",
+      "title": "9. Berhala Kekuasaan",
+      "order": 8,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04-b"
+    },
+    {
+      "id": "chapter-04-b-10",
+      "title": "10. Berhala Prestise",
+      "order": 9,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04-b"
+    },
+    {
+      "id": "chapter-04-b-11",
+      "title": "11. Berhala Popularitas",
+      "order": 10,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04-b"
+    },
+    {
+      "id": "chapter-04-b-12",
+      "title": "12. Berhala Opini/Pendapat",
+      "order": 11,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-04-b"
+    },
+    {
+      "id": "chapter-05",
+      "title": "Bab V · Pekabaran Elia Modern tentang Berbagai Hal",
+      "order": 6,
+      "nodeType": "chapter",
+      "file": "nodes/08-konten-dalam-proses.md"
+    },
+    {
+      "id": "chapter-05-01",
+      "title": "1. Pekabaran Elia Modern terhadap Rumah Tangga",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05"
+    },
+    {
+      "id": "chapter-05-01-pengaruh",
+      "title": "Pengaruh Seorang Istri Pendeta/Istri Pemimpin",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-01"
+    },
+    {
+      "id": "chapter-05-02",
+      "title": "2. Pekabaran Elia Modern mengenai Singkatnya Waktu",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05"
+    },
+    {
+      "id": "chapter-05-02-daniel-wahyu",
+      "title": "Buku Daniel dan Wahyu",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-02"
+    },
+    {
+      "id": "chapter-05-02-wahyu-13",
+      "title": "Wahyu 13",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-02"
+    },
+    {
+      "id": "chapter-05-03",
+      "title": "3. Pekabaran Elia Modern tentang Kesehatan",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05"
+    },
+    {
+      "id": "chapter-05-03-dokter",
+      "title": "Tugas para Dokter",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-03"
+    },
+    {
+      "id": "chapter-05-03-obat-alami",
+      "title": "Sebelas Obat Alami",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-03"
+    },
+    {
+      "id": "chapter-05-04",
+      "title": "4. Pekabaran Elia Modern tentang Penatalayanan",
+      "order": 3,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05"
+    },
+    {
+      "id": "chapter-05-04-kunci",
+      "title": "Kunci Rahasia Kemakmuran dan Kesejahteraan Bangsa Israel dahulu",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-04"
+    },
+    {
+      "id": "chapter-05-04-uang-cukup",
+      "title": "Uang akan Selalu Cukup",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-04"
+    },
+    {
+      "id": "chapter-05-04-persembahan-cacat",
+      "title": "Ada 7 Jenis Persembahan yang Cacat",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-04"
+    },
+    {
+      "id": "chapter-05-04-api-asing",
+      "title": "Persembahan Bagaikan Api yang Asing",
+      "order": 3,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-04"
+    },
+    {
+      "id": "chapter-05-04-contoh-persembahan",
+      "title": "Contoh Persembahan Khusus",
+      "order": 4,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-04"
+    },
+    {
+      "id": "chapter-05-04-pengorbanan-diri",
+      "title": "Roh Pengorbanan Diri dan Penatalayanan",
+      "order": 5,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-04"
+    },
+    {
+      "id": "chapter-05-04-gerakan-aneh",
+      "title": "Timbul Gerakan yang Aneh",
+      "order": 6,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-04"
+    },
+    {
+      "id": "chapter-05-04-terang-baru",
+      "title": "Terang Baru Terus Diperlukan",
+      "order": 7,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-04"
+    },
+    {
+      "id": "chapter-05-04-rampasan",
+      "title": "Kembalikan Barang Rampasan",
+      "order": 8,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-04"
+    },
+    {
+      "id": "chapter-05-04-membungakan-uang",
+      "title": "Membungakan Uang",
+      "order": 9,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-04"
+    },
+    {
+      "id": "chapter-05-04-persepuluhan",
+      "title": "Petunjuk Penggunaan Persepuluhan",
+      "order": 10,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-04"
+    },
+    {
+      "id": "chapter-05-04-tinggalkan",
+      "title": "Tuhan akan Tinggalkan Umat-Nya",
+      "order": 11,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-04"
+    },
+    {
+      "id": "chapter-05-04-pendeta",
+      "title": "Pendeta Tanpa Hati yang Terbagi",
+      "order": 12,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-04"
+    },
+    {
+      "id": "chapter-05-05",
+      "title": "5. Pekabaran Elia Modern tentang Hari Sabat dan Ibadah",
+      "order": 4,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05"
+    },
+    {
+      "id": "chapter-05-06",
+      "title": "6. Pekabaran Elia Modern melalui Percetakan Kita",
+      "order": 5,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05"
+    },
+    {
+      "id": "chapter-05-06-mencetak",
+      "title": "Mencetak Buku Berisi Pekabaran Yohanes Pembaptis",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-06"
+    },
+    {
+      "id": "chapter-05-06-uang-cetak",
+      "title": "Masalah Uang untuk Mencetak",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-06"
+    },
+    {
+      "id": "chapter-05-06-belum-terjadi",
+      "title": "Melakukan yang Belum Pernah Terjadi",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-06"
+    },
+    {
+      "id": "chapter-05-07",
+      "title": "7. Pekabaran Elia Modern tentang Penginjilan",
+      "order": 6,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05"
+    },
+    {
+      "id": "chapter-05-07-metode",
+      "title": "Metode Yesus Kristus",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-07"
+    },
+    {
+      "id": "chapter-05-07-kelompok-kecil",
+      "title": "Kelompok Kecil",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-07"
+    },
+    {
+      "id": "chapter-05-07-jenis-kelompok",
+      "title": "Jenis-Jenis Kelompok",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-07"
+    },
+    {
+      "id": "chapter-05-07-pertemuan",
+      "title": "Pertemuan Ibadah yang Mendorong Semangat Menginjil",
+      "order": 3,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-07"
+    },
+    {
+      "id": "chapter-05-07-waktu",
+      "title": "Waktu dan Pengorbanan",
+      "order": 4,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-07"
+    },
+    {
+      "id": "chapter-05-07-ukuran-roh",
+      "title": "Ukuran Roh Suci",
+      "order": 5,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-07"
+    },
+    {
+      "id": "chapter-05-07-mahkota",
+      "title": "Mahkota dan Bintang",
+      "order": 6,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-07"
+    },
+    {
+      "id": "chapter-05-08",
+      "title": "8. Pekabaran Elia Modern tentang Pemeteraian",
+      "order": 7,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05"
+    },
+    {
+      "id": "chapter-05-08-meterai",
+      "title": "Meterai Allah",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-08"
+    },
+    {
+      "id": "chapter-05-08-pikiran",
+      "title": "Menjaga Pikiran",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-08"
+    },
+    {
+      "id": "chapter-05-08-henokh",
+      "title": "Seperti Henokh",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-08"
+    },
+    {
+      "id": "chapter-05-08-satu-dosa",
+      "title": "Hanya Satu Dosa yang Dipelihara?",
+      "order": 3,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-08"
+    },
+    {
+      "id": "chapter-05-08-144000",
+      "title": "Dimeteraikan 144.000",
+      "order": 4,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-08"
+    },
+    {
+      "id": "chapter-05-08-siapa-144000",
+      "title": "Siapakah 144.000 Itu?",
+      "order": 5,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-08"
+    },
+    {
+      "id": "chapter-05-08-masa-pemeteraian",
+      "title": "Kapankah Masa Pemeteraian Itu?",
+      "order": 6,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-08"
+    },
+    {
+      "id": "chapter-05-08-syarat",
+      "title": "Syarat Supaya Dimeteraikan",
+      "order": 7,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-08"
+    },
+    {
+      "id": "chapter-05-08-keadaan",
+      "title": "Keadaan Orang yang Sudah Dimeteraikan",
+      "order": 8,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05-08"
+    },
+    {
+      "id": "chapter-05-09",
+      "title": "9. Pekabaran Elia Modern tentang Jubah Kebenaran",
+      "order": 8,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05"
+    },
+    {
+      "id": "chapter-05-10",
+      "title": "10. Pekabaran Elia tentang Undang-Undang Hari Minggu",
+      "order": 9,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05"
+    },
+    {
+      "id": "chapter-05-11",
+      "title": "11. Bila Musim Bencana Alam Sudah Tiba",
+      "order": 10,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-05"
+    },
+    {
+      "id": "chapter-06",
+      "title": "Bab VI · Pengguncangan yang Dahsyat",
+      "order": 7,
+      "nodeType": "chapter",
+      "file": "nodes/08-konten-dalam-proses.md"
+    },
+    {
+      "id": "chapter-06-01",
+      "title": "1. Pembersihan Sidang",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-06"
+    },
+    {
+      "id": "chapter-06-02",
+      "title": "2. Pelajaran dari Pengalaman Gideon",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-06"
+    },
+    {
+      "id": "chapter-06-03",
+      "title": "3. Kita Dapati Ada 10 Jenis Orang yang Terguncang",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-06"
+    },
+    {
+      "id": "chapter-07",
+      "title": "Bab VII · Tabiat dan Hujan Akhir",
+      "order": 8,
+      "nodeType": "chapter",
+      "file": "nodes/08-konten-dalam-proses.md"
+    },
+    {
+      "id": "chapter-07-01",
+      "title": "1. Apakah Tabiat Itu, dan Bagaimanakah Membentuknya?",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-07"
+    },
+    {
+      "id": "chapter-07-01-setia",
+      "title": "Setia dalam Perkara yang Kecil",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-07-01"
+    },
+    {
+      "id": "chapter-07-02",
+      "title": "2. Tabiat Yesus Teladan Kita (Kenosis)",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-07"
+    },
+    {
+      "id": "chapter-07-03",
+      "title": "3. Jenis Doa Obat Penawar Kesombongan",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-07"
+    },
+    {
+      "id": "chapter-07-04",
+      "title": "4. Dosa Orang Bertobat Disingkirkan",
+      "order": 3,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-07"
+    },
+    {
+      "id": "chapter-07-05",
+      "title": "5. Kebangunan di Kelompok—Doa Khusus",
+      "order": 4,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-07"
+    },
+    {
+      "id": "chapter-07-06",
+      "title": "6. Syarat Supaya Dipenuhi Roh Kudus/Hujan Akhir",
+      "order": 5,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-07"
+    },
+    {
+      "id": "chapter-07-07",
+      "title": "7. Seruan Nyaring yang Palsu",
+      "order": 6,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-07"
+    },
+    {
+      "id": "chapter-07-08",
+      "title": "8. Seruan Nyaring: Pekabaran Malaikat Ketiga",
+      "order": 7,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-07"
+    },
+    {
+      "id": "chapter-07-08-aniaya",
+      "title": "Mengapa Aniaya Itu Belum Terjadi",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/08-konten-dalam-proses.md",
+      "parentId": "chapter-07-08"
+    }
+  ]
+}
