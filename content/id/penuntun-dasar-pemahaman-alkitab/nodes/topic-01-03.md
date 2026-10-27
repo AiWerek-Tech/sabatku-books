@@ -70,13 +70,13 @@ Dalam pasal satu masing-masing dari peraturan ini didahului oleh ungkapan, “Be
 
 **Kelima,** Allah membagi waktu ke dalam hari, bulan, musim dengan perputaran matahari, bulan, bumi dalam jalan-jalan mereka yang berlainan. Baca Kejadian 1:14.
 
-**Keenam,** Allah menciptakan binatang di udara dan dalam laut. Masing-masing berkembang biak menurut jenisnya. Baca Kejadian 1:20; Baca Kejadian 1:21.
+**Keenam,** Allah menciptakan binatang di udara dan dalam laut. Masing-masing berkembang biak menurut jenisnya. Baca Kejadian 1:20; Kejadian 1:21.
 
 **Ketujuh,** dalam Kejadian 1:24 Allah menciptakan makhluk hidup, ternak dan binatang melata dan segala jenis binatang liar. Masing-masing akan berkembang biak menurut jenisnya.
 
 **Kedelapan,** penciptaan manusia adalah suatu penciptaan yang tersendiri dan berbeda. Baca Kejadian 1:26.
 
-**Kesembilan,** kemudian Allah memberikan hukum keturunan manusia. Baca Kejadian 1:29; Baca Kejadian 1:30.
+**Kesembilan,** kemudian Allah memberikan hukum keturunan manusia. Baca Kejadian 1:29; Kejadian 1:30.
 
 ### 10. Prinsip-prinsip apa yang berhubungan dengan tingkah laku manusia dinyatakan dalam Kejadian pasal 2?
 
@@ -84,9 +84,9 @@ Dalam pasal satu masing-masing dari peraturan ini didahului oleh ungkapan, “Be
 
 **Kedua,** Ia memberikan pekerjaan. Baca Kejadian 2:15.
 
-**Ketiga,** Allah memberikan pengekangan diri kepada manusia. Manusia harus menunjukkan pengendalian diri. Dia harus mengakui hak milik Allah. Pohon pengetahuan baik dan jahat menjadi ujian penurutan manusia. Baca Kejadian 2:16; Baca Kejadian 2:17.
+**Ketiga,** Allah memberikan pengekangan diri kepada manusia. Manusia harus menunjukkan pengendalian diri. Dia harus mengakui hak milik Allah. Pohon pengetahuan baik dan jahat menjadi ujian penurutan manusia. Baca Kejadian 2:16; Kejadian 2:17.
 
-**Keempat,** Allah memberikan perkawinan. Ini adalah fondasi rumah tangga dan persekutuan manusia. Baca Kejadian 2:18; Baca Kejadian 2:24.
+**Keempat,** Allah memberikan perkawinan. Ini adalah fondasi rumah tangga dan persekutuan manusia. Baca Kejadian 2:18; Kejadian 2:24.
 
 ### Kesimpulan
 

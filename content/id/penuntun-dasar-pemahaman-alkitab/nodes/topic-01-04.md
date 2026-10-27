@@ -20,7 +20,7 @@ Ada suatu zaman ketika gereja Kristen tidak mengizinkan kaum awam membaca Alkita
 
 **Peraturan 2. Terimalah Alkitab sebagai suara Allah kepada Anda.**
 
-Baca Yohanes 10:27; Baca Yohanes 10:28 dan 1 Tesalonika 2:13.
+Baca Yohanes 10:27; Yohanes 10:28 dan 1 Tesalonika 2:13.
 
 ### 3. Bagaimana seseorang dapat menemukan kebenaran mengenai satu mata pelajaran istimewa?
 
@@ -56,7 +56,7 @@ Baca juga Yohanes 5:39.
 
 > Wahyu 22:18; Wahyu 22:19.
 
-**Peraturan 5: Tidak ada yang akan ditambahkan atau dihilangkan dari apa yang dikatakan Alkitab.** Baca Amsal 30:5; Baca Amsal 30:6 dan Ulangan 4:2.
+**Peraturan 5: Tidak ada yang akan ditambahkan atau dihilangkan dari apa yang dikatakan Alkitab.** Baca Amsal 30:5; Amsal 30:6 dan Ulangan 4:2.
 
 **Catatan:** Ayat ini bukan hanya menunjuk kepada pengurangan atau penulisan materinya tetapi juga mengatakan apa yang tidak dikatakan oleh Alkitab atau tidak menolak apa yang benar-benar didukung oleh tafsiran yang salah. Itulah sebabnya kita harus membiarkan Alkitab itu sendiri yang berbicara dan bukti yang meyakinkan kesimpulan apa yang diajarkan.
 

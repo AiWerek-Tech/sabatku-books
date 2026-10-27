@@ -18,3 +18,13 @@ The catalog explicitly describes this as a partial book. Only available readings
 Use the existing Books catalog and hierarchical contents, online chapter fetch, verified offline edition cache, search, reading position, annotations and bookmarks. Android's main book reader connects detected Bible references to the existing scripture modal; it selects TB for Indonesian editions and KJV for English editions. The modal can open the full Bible reader. App code changes require a later Android build; publishing the book itself updates the remote catalog immediately after Pages deployment.
 
 No English edition or PDF is declared because neither was supplied. No scheduled seven-day reading plan is manufactured for this topical reference book.
+
+## Follow-up source and reader audit
+
+The ten supplied content scans (printed pages 7–16) were compared again with all five topics, including cross-page continuations on pages 8, 10, 13, 15 and 16. Inventory: 31 numbered questions, 15 author notes, 28 quotation paragraphs, five study principles and five conclusions. Source page mappings and fingerprints for all 15 supplied scans are recorded in `metcalf-source-audit.json`.
+
+Revision 3 removes repeated `Baca` commands introduced by expanding comma-separated references. No source explanation or author note is removed. Explicit book/chapter expansions, normalized spacing/capitalization and the documented Timothy reference correction remain deliberate editorial differences from the printed source.
+
+Android adds an in-topic question navigator and a conclusion shortcut. Question titles, quotations, notes and study principles have distinct theme-aware surfaces. All body text stays expanded and retains the existing Bible links, annotation actions, font controls, search and reading anchors. The navigator uses existing block indexes without inserting synthetic content blocks or new response fields.
+
+Validation: 17 publishing tests pass. Android tests replay all five source documents through the actual reader Markdown parser and compare all visible words after markup/whitespace normalization; question destinations and counts are checked. Physical-device rendering and touch interaction remain unverified until an authorized APK/device session.

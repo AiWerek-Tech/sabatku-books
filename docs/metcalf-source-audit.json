@@ -1,0 +1,167 @@
+{
+  "scope": "Bagian I — Ilham Alkitab, printed pages 7–16",
+  "sourceFileCount": 15,
+  "topicQuestionCounts": [
+    5,
+    5,
+    10,
+    6,
+    5
+  ],
+  "topicAuthorNoteCounts": [
+    2,
+    5,
+    2,
+    3,
+    3
+  ],
+  "topicQuotationCounts": [
+    4,
+    5,
+    8,
+    6,
+    5
+  ],
+  "conclusions": 5,
+  "principles": 5,
+  "pageMapping": [
+    {
+      "topic": "topic-01-01",
+      "printedPages": [
+        7,
+        8
+      ],
+      "scanNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "topic": "topic-01-02",
+      "printedPages": [
+        8,
+        9,
+        10
+      ],
+      "scanNumbers": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "topic": "topic-01-03",
+      "printedPages": [
+        11,
+        12,
+        13
+      ],
+      "scanNumbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "topic": "topic-01-04",
+      "printedPages": [
+        13,
+        14,
+        15
+      ],
+      "scanNumbers": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "topic": "topic-01-05",
+      "printedPages": [
+        15,
+        16
+      ],
+      "scanNumbers": [
+        14,
+        15
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "file": "CamScanner 27-10-2026 07.32_1.jpg",
+      "bytes": 845538,
+      "sha256": "448f39a666772e39891a1558d08af3d2634dc3f982f3d7acf7d4c92bd893b147"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_2.jpg",
+      "bytes": 644998,
+      "sha256": "3d3b2f42ba90d751749385f12182aa21ca175dacb19c46aaf2c5048bccb469c2"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_3.jpg",
+      "bytes": 1208599,
+      "sha256": "e72a7d63b5f2dd9b5ac9d22f42551848f6ba9c64d5ceb561b3f1a624dd3b14ec"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_4.jpg",
+      "bytes": 1137129,
+      "sha256": "b66e82c18ca478432c06a744f95fce0e20384bd852327aaa13c474bb08d30efd"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_5.jpg",
+      "bytes": 945244,
+      "sha256": "1bbd04f8996c9902ae8b2bf3a451289018e2469b67671451ac67bf3d07a8a8ca"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_6.jpg",
+      "bytes": 1332046,
+      "sha256": "8a447f9f0a35c2ad0133e9f8bbbdb04444905de2ccd9db6c296e83168c3f53a6"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_7.jpg",
+      "bytes": 1320066,
+      "sha256": "8213fd813d3ff7dc856252023c8e61fc7df3bebd063b2d11fdc24c579efb67b2"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_8.jpg",
+      "bytes": 1532447,
+      "sha256": "b4809a04d9b8704fcf93da9b8a6b8a1396f7a3cb88360e90276192ee615db05a"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_9.jpg",
+      "bytes": 1573008,
+      "sha256": "2de24eccc9fa39d320429dd84f82345f26ad8e6d7d28563490901a6520f77f46"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_10.jpg",
+      "bytes": 1338596,
+      "sha256": "f6483f09a2ac960906aca184b8d5ccd8c30179a153cf06a1989c8aa8fb1b973a"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_11.jpg",
+      "bytes": 1489576,
+      "sha256": "d5188d45deb32db818976d1e0d7fe9bdec8de77e385ed645f70ba48c59d0791e"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_12.jpg",
+      "bytes": 1518246,
+      "sha256": "a3ee6854ac4e5fdb5dc45f9b6503b0a65e2e875acada9a2abdfaf6a193b42b55"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_13.jpg",
+      "bytes": 1496442,
+      "sha256": "f316e23a834df5508801edff658d67286f3338355b2daba53974d38e31c0aa7b"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_14.jpg",
+      "bytes": 5526186,
+      "sha256": "f84bb194f861b42eb268278ca1a4e705901f4c39f93ed836ffc832942c9183ef"
+    },
+    {
+      "file": "CamScanner 27-10-2026 07.32_15.jpg",
+      "bytes": 1494076,
+      "sha256": "d46fa271a6f4b15d6f879bd87ceb5cd58993c79ac5cbbf37489d1202e7595c48"
+    }
+  ]
+}

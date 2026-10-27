@@ -16,14 +16,19 @@ test('Metcalf guide publishes only the supplied first part and five complete sou
  assert.equal(edition.nodes.length,6);
  assert.equal(edition.nodes.filter(node=>node.nodeType==='part').length,1);
  const counts=[5,5,10,6,5];
+ const notes=[2,5,2,3,3];
+ const quotes=[4,5,8,6,5];
  const topics=edition.nodes.filter(node=>node.parentId==='part-01');
  assert.equal(topics.length,5);
  topics.forEach((node,index)=>{
   const body=fs.readFileSync(path.join(base,node.file),'utf8');
   assert.equal([...body.matchAll(/^### \d+\./gm)].length,counts[index]);
   assert.equal([...body.matchAll(/^### Kesimpulan$/gm)].length,1);
+  assert.equal([...body.matchAll(/^\*\*Catatan:/gm)].length,notes[index]);
+  assert.equal([...body.matchAll(/^> “/gm)].length,quotes[index]);
   assert.doesNotMatch(body,/^---$|^>$/m);
   assert.doesNotMatch(body,/\b(?:draf|OCR|needs-team-review)\b/i);
+  assert.doesNotMatch(body,/; Baca /);
  });
  const creation=fs.readFileSync(path.join(base,topics[2].file),'utf8');
  assert.match(creation,/Mazmur 33:6; Mazmur 33:9/);
@@ -31,4 +36,10 @@ test('Metcalf guide publishes only the supplied first part and five complete sou
  const foundation=fs.readFileSync(path.join(base,topics[4].file),'utf8');
  assert.match(foundation,/2 Timotius 2:18/);
  assert.doesNotMatch(foundation,/1 Timotius 2:18/);
+ const prophecy=fs.readFileSync(path.join(base,topics[1].file),'utf8');
+ assert.match(prophecy,/Babel mempertahankan seorang komisaris di dalam kota itu/);
+ const understanding=fs.readFileSync(path.join(base,topics[3].file),'utf8');
+ assert.match(understanding,/dari pohon kehidupan dan dari kota kudus/);
+ assert.match(understanding,/\*\*Peraturan 5:/);
+ assert.match(foundation,/memilih kamu untuk diselamatkan dalam Roh yang menguduskan kamu/);
 });
