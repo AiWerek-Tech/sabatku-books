@@ -1,0 +1,34 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import {build,root} from '../scripts/build-content.mjs';
+
+test('Metcalf guide publishes only the supplied first part and five complete source topics',()=>{
+ const base=path.join(root,'content/id/penuntun-dasar-pemahaman-alkitab');
+ const edition=JSON.parse(fs.readFileSync(path.join(base,'edition.json'),'utf8'));
+ const result=build(root,{write:false});
+ const entry=result.catalog.find(book=>book.workId==='work:penuntun-dasar-pemahaman-alkitab');
+ assert.ok(entry);
+ assert.equal(entry.locale,'id');
+ assert.match(entry.description,/Bagian I.*lima topik/);
+ assert.match(entry.description,/II–XII belum tersedia/);
+ assert.equal(edition.nodes.length,6);
+ assert.equal(edition.nodes.filter(node=>node.nodeType==='part').length,1);
+ const counts=[5,5,10,6,5];
+ const topics=edition.nodes.filter(node=>node.parentId==='part-01');
+ assert.equal(topics.length,5);
+ topics.forEach((node,index)=>{
+  const body=fs.readFileSync(path.join(base,node.file),'utf8');
+  assert.equal([...body.matchAll(/^### \d+\./gm)].length,counts[index]);
+  assert.equal([...body.matchAll(/^### Kesimpulan$/gm)].length,1);
+  assert.doesNotMatch(body,/^---$|^>$/m);
+  assert.doesNotMatch(body,/\b(?:draf|OCR|needs-team-review)\b/i);
+ });
+ const creation=fs.readFileSync(path.join(base,topics[2].file),'utf8');
+ assert.match(creation,/Mazmur 33:6; Mazmur 33:9/);
+ assert.match(creation,/Baca Kejadian 2:15/);
+ const foundation=fs.readFileSync(path.join(base,topics[4].file),'utf8');
+ assert.match(foundation,/2 Timotius 2:18/);
+ assert.doesNotMatch(foundation,/1 Timotius 2:18/);
+});

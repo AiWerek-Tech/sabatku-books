@@ -1,0 +1,30 @@
+{
+  "kind": "edition",
+  "id": "edition:penuntun-dasar-pemahaman-alkitab:id:sabatku",
+  "key": "penuntun-dasar-pemahaman-alkitab-id",
+  "workId": "work:penuntun-dasar-pemahaman-alkitab",
+  "locale": "id",
+  "title": "Penuntun Dasar untuk Pemahaman Alkitab",
+  "description": "Panduan studi Alkitab berbentuk pertanyaan, jawaban ayat, penjelasan, dan kesimpulan. Bagian I — Ilham Alkitab tersedia lengkap dalam lima topik. Bagian II–XII belum tersedia dan akan ditambahkan bertahap.",
+  "revision": "2",
+  "status": "published",
+  "rights": {
+    "status": "verified",
+    "attribution": "Harold E. Metcalf, pengarang; Collins World, tercantum pada halaman judul; Lembaga Alkitab Indonesia, pencetak. Penerjemah: Pdt. B. Simanjuntak. Halaman kredit mencantumkan tim revisi 2005; tahun cetakan belum diketahui.",
+    "offlineAllowed": true,
+    "permissionNote": "Publikasi digital dan penyediaan bacaan offline dilakukan atas instruksi langsung pemilik proyek SabatKu setelah penelaahan berkas sumber yang disediakannya. Catatan ini merekam otorisasi publikasi dari pemilik proyek, bukan klaim izin tertulis baru dari penerbit."
+  },
+  "primaryThemeId": "biblical-studies",
+  "themeIds": ["biblical-studies", "theology-beliefs"],
+  "collectionIds": [],
+  "audienceIds": ["all"],
+  "cover": "assets/cover.jpg",
+  "nodes": [
+    {"id":"part-01","title":"I. Ilham Alkitab","order":0,"nodeType":"part","file":"nodes/part-01.md"},
+    {"id":"topic-01-01","title":"1. Dari Mana Asal Alkitab","parentId":"part-01","order":0,"nodeType":"section","file":"nodes/topic-01-01.md"},
+    {"id":"topic-01-02","title":"2. Nubuatan-nubuatan yang Digenapi — Ilustrasi-ilustrasi Ilham","parentId":"part-01","order":1,"nodeType":"section","file":"nodes/topic-01-02.md"},
+    {"id":"topic-01-03","title":"3. Penciptaan dari Semuanya","parentId":"part-01","order":2,"nodeType":"section","file":"nodes/topic-01-03.md"},
+    {"id":"topic-01-04","title":"4. Dapatkah Alkitab Dipahami?","parentId":"part-01","order":3,"nodeType":"section","file":"nodes/topic-01-04.md"},
+    {"id":"topic-01-05","title":"5. Fondasi Kebenaran","parentId":"part-01","order":4,"nodeType":"section","file":"nodes/topic-01-05.md"}
+  ]
+}

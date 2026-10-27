@@ -33,7 +33,7 @@ function rootCopy(){
 }
 test('published editions, including Elia Modern, enter the catalog with official sources',()=>{
  const result=build(root,{write:false});
- assert.equal(result.published,6);
+ assert.equal(result.published,7);
  const elia=JSON.parse(fs.readFileSync(path.join(root,'content/id/elia-modern/edition.json'),'utf8'));
  assert.equal(elia.status,'published');
  assert.ok(result.catalog.some(entry=>entry.id==='edition:elia-modern:id:sabatku'));
@@ -55,7 +55,7 @@ test('published editions, including Elia Modern, enter the catalog with official
  assert.equal(english.nodes.filter(node=>node.id.startsWith('chapter-')).length,42);
  assert.equal(english.sources.find(source=>source.primary).url,'https://egwwritings.org/read?panels=p12269.2&index=0');
  assert.equal(english.sources.find(source=>source.kind==='pdf').offlineAllowed,true);
- assert.equal(result.documents,13);
+ assert.equal(result.documents,15);
  assert.equal(result.catalog.find(entry=>entry.locale==='en').id,'edition:love-under-fire:en:sabatku');
  assert.equal(result.catalog.find(entry=>entry.locale==='en').contentMode,'hosted');
  assert.equal(result.catalog.find(entry=>entry.locale==='en').sources.find(source=>source.kind==='pdf').offlineAllowed,true);
