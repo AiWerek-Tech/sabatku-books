@@ -101,7 +101,9 @@ export function build(base=root,{write=true}={}){
      const output=prefix+'/nodes/'+n.id.replaceAll(':','-')+'.md';put(output,bytes);
      content={path:output,bytes:bytes.length,sha256:hash(bytes)};
     }
-    nodes.push({id:n.id,title:n.title,parentId:n.parentId,nodeType:nodeKind,order:n.order,...(pending?{availability:"pending"}:partial?{availability:"partial"}:{}),...(n.readingDate?{readingDate:n.readingDate}:{}),...(n.country?{country:n.country}:{}),...(content?{content}:{})});
+    const imagePath=`assets/${n.id}.jpg`;
+    const illustration=fs.existsSync(path.join(source,imagePath))?asset(source,imagePath,prefix+'/'+imagePath):null;
+    nodes.push({id:n.id,title:n.title,parentId:n.parentId,nodeType:nodeKind,order:n.order,...(pending?{availability:"pending"}:partial?{availability:"partial"}:{}),...(n.readingDate?{readingDate:n.readingDate}:{}),...(n.country?{country:n.country}:{}),...(content?{content}:{}),...(illustration?{illustration}:{})});
    };
    for(const n of d.nodes){
     const body=fs.readFileSync(safeFile(source,n.file),'utf8');

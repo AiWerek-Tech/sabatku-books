@@ -380,6 +380,11 @@ def import_editions(args: argparse.Namespace) -> None:
                     "contentAssetPath": f"{bundle_prefix}/story-{story['date']}.md",
                     "bytes": chapter_path.stat().st_size, "sha256": sha256(chapter_path),
                 })
+                image = nodes_dir.parent / "assets" / f"story-{story['date']}.jpg"
+                if image.is_file():
+                    image_target = android_assets / bundle_prefix / image.name
+                    shutil.copyfile(image, image_target)
+                    chapters[-1]["imageAssetPath"] = f"{bundle_prefix}/{image.name}"
             cover_asset = android_assets / bundle_prefix / f"cover{cover_extension(cover)}"
             cover_asset.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(cover, cover_asset)

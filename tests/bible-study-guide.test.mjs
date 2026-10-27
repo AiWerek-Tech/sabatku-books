@@ -11,8 +11,9 @@ test('Metcalf guide publishes only the supplied first part and five complete sou
  const entry=result.catalog.find(book=>book.workId==='work:penuntun-dasar-pemahaman-alkitab');
  assert.ok(entry);
  assert.equal(entry.locale,'id');
- assert.match(entry.description,/Bagian I.*lima topik/);
- assert.match(entry.description,/II–XII belum tersedia/);
+ assert.equal(entry.title,'SPL - Penuntun Dasar untuk Pemahaman Alkitab');
+ assert.match(entry.description,/pertanyaan, jawaban ayat, penjelasan, dan kesimpulan/);
+ assert.doesNotMatch(entry.description,/belum tersedia|ditambahkan bertahap/);
  assert.equal(edition.nodes.length,6);
  assert.equal(edition.nodes.filter(node=>node.nodeType==='part').length,1);
  const counts=[5,5,10,6,5];
