@@ -6,10 +6,10 @@ import {build,root} from '../scripts/build-content.mjs';
 test('Elia pending sections cannot be downloaded as published reading; section IDs survive copyediting',()=>{
  build(root,{write:true});
  const manifest=JSON.parse(fs.readFileSync(path.join(root,'public/editions/elia-modern-id/revisions/6/manifest.json')));
- const old=JSON.parse(fs.readFileSync(path.join(root,'public/editions/elia-modern-id/revisions/5/manifest.json')));
+ const oldIds=JSON.parse(fs.readFileSync(path.join(root,'tests/fixtures/elia-revision5-section-ids.json')));
  const pending=manifest.nodes.filter(n=>n.availability==='pending');
  assert.ok(pending.length>=79);assert.ok(pending.every(n=>!n.content));
- for(const node of old.nodes.filter(n=>n.parentId&&['chapter-01','chapter-02','chapter-03'].includes(n.parentId))) assert.ok(manifest.nodes.some(n=>n.id===node.id),'missing stable section '+node.id);
+ for(const id of oldIds) assert.ok(manifest.nodes.some(n=>n.id===id),'missing stable section '+id);
  assert.deepEqual(manifest.edition.collectionIds,[]);
  const source=path.join(root,'content/id/elia-modern/nodes');
  const text=fs.readdirSync(source).filter(f=>f.includes('-bab-')).map(f=>fs.readFileSync(path.join(source,f),'utf8')).join('\n');
