@@ -5,8 +5,8 @@
   "workId": "work:elia-modern",
   "locale": "id",
   "title": "Elia Modern",
-  "description": "Elia Modern mengulas panggilan Nabi Elia dan Yohanes Pembaptis serta penerapannya bagi jemaat Laodikia menjelang kedatangan Kristus. Buku ini membahas pertobatan, pembaruan rohani, dan kesiapan umat.",
-  "revision": "5",
+  "description": "Elia Modern mengulas panggilan Nabi Elia dan Yohanes Pembaptis serta penerapannya bagi jemaat Laodikia menjelang kedatangan Kristus. Buku ini membahas pertobatan, pembaruan rohani, dan kesiapan umat. Edisi digital saat ini memuat bagian awal, Bab I–II, dan sebagian Bab III; bagian selanjutnya akan dilengkapi.",
+  "revision": "6",
   "status": "published",
   "rights": {
     "status": "verified",
@@ -18,9 +18,7 @@
   "themeIds": [
     "prophecy-eschatology"
   ],
-  "collectionIds": [
-    "egw-writings"
-  ],
+  "collectionIds": [],
   "audienceIds": [
     "all"
   ],

@@ -92,12 +92,16 @@ export function build(base=root,{write=true}={}){
    const nodes=[];
    const addNode=(n,body,nodeKind)=>{
     let content;
-    if(body.trim()){
-     const bytes=Buffer.from(body+'\n');if(bytes.length>MAX_CHAPTER_BYTES)throw Error(`${d.id}/${n.id}: chapter section exceeds the 2 MiB reader limit`);
+    const notice="Konten buku ini masih dalam proses. Silakan kembali lagi nanti.";
+    const pending=body.trim()===notice;
+    const partial=!pending && body.includes(notice);
+    const readingBody=partial?body.replaceAll(notice,"").trim():body;
+    if(body.trim() && !pending){
+     const bytes=Buffer.from(readingBody+'\n');if(bytes.length>MAX_CHAPTER_BYTES)throw Error(`${d.id}/${n.id}: chapter section exceeds the 2 MiB reader limit`);
      const output=prefix+'/nodes/'+n.id.replaceAll(':','-')+'.md';put(output,bytes);
      content={path:output,bytes:bytes.length,sha256:hash(bytes)};
     }
-    nodes.push({id:n.id,title:n.title,parentId:n.parentId,nodeType:nodeKind,order:n.order,...(n.readingDate?{readingDate:n.readingDate}:{}),...(n.country?{country:n.country}:{}),...(content?{content}:{})});
+    nodes.push({id:n.id,title:n.title,parentId:n.parentId,nodeType:nodeKind,order:n.order,...(pending?{availability:"pending"}:partial?{availability:"partial"}:{}),...(n.readingDate?{readingDate:n.readingDate}:{}),...(n.country?{country:n.country}:{}),...(content?{content}:{})});
    };
    for(const n of d.nodes){
     const body=fs.readFileSync(safeFile(source,n.file),'utf8');
@@ -139,7 +143,7 @@ export function build(base=root,{write=true}={}){
  put('reading-plans.json',plans.filter(p=>p.targets.every(t=>editions.get(t.editionId)?.status==='published')));
  catalog.sort((a,b)=>a.id.localeCompare(b.id));
  put('catalog.json',{schemaVersion:config.domain==='books'?'sabatku-library-v1':'sabatku-publications-v1',domain:config.domain,revision:hash(Buffer.from(JSON.stringify(catalog))),entries:catalog,taxonomy:'taxonomy.json'});put('taxonomy.json',taxonomy);
- put('index.html','<!doctype html><meta charset="utf-8"><title>'+config.name+'</title><h1>'+config.name+'</h1><p>Public content catalog · '+catalog.length+' published entries</p><a href="catalog.json">Catalog JSON</a>');
+ put('index.html','<!doctype html><meta charset="utf-8"><title>'+config.name+'</title><h1>'+config.name+'</h1><p>Public content catalog Â· '+catalog.length+' published entries</p><a href="catalog.json">Catalog JSON</a>');
  {const out=path.join(base,'public');for(const [p,b]of outputs){const f=path.join(out,p);if(fs.existsSync(f)&&/\/revisions\//.test(p)&&!fs.readFileSync(f).equals(b))throw Error('Immutable revision modified: '+p)}}
  if(write){const out=path.join(base,'public');fs.mkdirSync(out,{recursive:true});for(const [p,b]of [...outputs].sort(([a],[b])=>(a==='catalog.json')-(b==='catalog.json'))){const f=path.join(out,p);fs.mkdirSync(path.dirname(f),{recursive:true});fs.writeFileSync(f,b)}}
  return {documents:documents.length,published:catalog.length,files:outputs.size,catalog:structuredClone(catalog)};
