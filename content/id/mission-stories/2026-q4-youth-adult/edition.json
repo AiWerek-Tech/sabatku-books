@@ -14,7 +14,7 @@
     "startDate": "2026-10-03",
     "endDate": "2026-12-26"
   },
-  "revision": "5",
+  "revision": "6",
   "status": "published",
   "rights": {
     "status": "verified",
@@ -31,7 +31,8 @@
     "mission-stories-youth-adult"
   ],
   "audienceIds": [
-    "young-adults"
+    "young-adults",
+    "adults"
   ],
   "sources": [
     {

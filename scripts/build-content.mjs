@@ -145,6 +145,23 @@ export function build(base=root,{write=true}={}){
  put('reading-plans.json',plans.filter(p=>p.targets.every(t=>editions.get(t.editionId)?.status==='published')));
  catalog.sort((a,b)=>a.id.localeCompare(b.id));
  put('catalog.json',{schemaVersion:config.domain==='books'?'sabatku-library-v1':'sabatku-publications-v1',domain:config.domain,revision:hash(Buffer.from(JSON.stringify(catalog))),entries:catalog,taxonomy:'taxonomy.json'});put('taxonomy.json',taxonomy);
+ if(config.domain==='books'&&fs.existsSync(path.join(base,'mission'))){
+  const quarters=fs.readdirSync(path.join(base,'mission')).filter(f=>/^\d{4}-q[1-4]\.json$/.test(f)).sort();
+  for(const file of quarters){
+   const q=read(path.join(base,'mission',file));
+   if(q.schemaVersion!==1||!q.id||!Array.isArray(q.countries)||!Array.isArray(q.activities))throw Error('Invalid mission companion: '+file);
+   for(const role of ['children','youth-adult']){
+    const stories=q.stories?.[role];
+    if(stories?.length!==13||new Set(stories.map(s=>s.id)).size!==13)throw Error('Mission companion must contain 13 distinct stories: '+file);
+    const edition=catalog.find(e=>e.workId==='work:mission-stories:'+role&&e.locale==='id'&&e.publicationPeriod?.year===q.year&&e.publicationPeriod?.quarter===q.quarter);
+    if(!edition)throw Error('Mission companion has no canonical edition: '+role);
+    const manifest=JSON.parse(outputs.get(edition.manifest).toString());
+    for(const s of stories)if(!manifest.nodes.some(n=>n.id===s.id&&n.readingDate===s.date)||!s.englishTextUrl.startsWith('https://sabbath-school.adventech.io/'))throw Error('Mission story relationship is invalid: '+s.id);
+   }
+   put('mission/'+file,q);
+  }
+  put('mission/index.json',{schemaVersion:1,quarters});
+ }
  put('index.html','<!doctype html><meta charset="utf-8"><title>'+config.name+'</title><h1>'+config.name+'</h1><p>Public content catalog Â· '+catalog.length+' published entries</p><a href="catalog.json">Catalog JSON</a>');
  {const out=path.join(base,'public');for(const [p,b]of outputs){const f=path.join(out,p);if(fs.existsSync(f)&&/\/revisions\//.test(p)&&!fs.readFileSync(f).equals(b))throw Error('Immutable revision modified: '+p)}}
  if(write){const out=path.join(base,'public');fs.mkdirSync(out,{recursive:true});for(const [p,b]of [...outputs].sort(([a],[b])=>(a==='catalog.json')-(b==='catalog.json'))){const f=path.join(out,p);fs.mkdirSync(path.dirname(f),{recursive:true});fs.writeFileSync(f,b)}}
