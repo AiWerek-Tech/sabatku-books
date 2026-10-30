@@ -6,11 +6,13 @@ import crypto from 'node:crypto';
 import {build,root} from '../scripts/build-content.mjs';
 
 test('all 26 mission photos are assigned to their weekly stories and published with integrity',()=>{
-  build(root);
+  const {catalog}=build(root);
   const evidence=JSON.parse(fs.readFileSync(path.join(root,'docs/mission-story-photos-2026-q4.json')));
   assert.equal(evidence.length,26);
   for(const role of ['children','youth-adult']){
-    const manifest=JSON.parse(fs.readFileSync(path.join(root,`public/editions/mission-stories-${role}-2026-q4-id/revisions/5/manifest.json`)));
+    const entry=catalog.find(item=>item.id===`edition:mission-stories:2026-q4:${role}:id`);
+    assert.ok(entry?.manifest,'The active mission edition must be published');
+    const manifest=JSON.parse(fs.readFileSync(path.join(root,'public',entry.manifest)));
     assert.equal(manifest.nodes.length,13);
     for(const node of manifest.nodes){
       const source=evidence.find(x=>x.role===role&&x.date===node.readingDate);
