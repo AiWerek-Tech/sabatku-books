@@ -28,3 +28,31 @@ Revision 3 removes repeated `Baca` commands introduced by expanding comma-separa
 Android adds an in-topic question navigator and a conclusion shortcut. Question titles, quotations, notes and study principles have distinct theme-aware surfaces. All body text stays expanded and retains the existing Bible links, annotation actions, font controls, search and reading anchors. The navigator uses existing block indexes without inserting synthetic content blocks or new response fields.
 
 Validation: 17 publishing tests pass. Android tests replay all five source documents through the actual reader Markdown parser and compare all visible words after markup/whitespace normalization; question destinations and counts are checked. Physical-device rendering and touch interaction remain unverified until an authorized APK/device session.
+
+## Chapter VII addition
+
+The owner-supplied Markdown transcription for printed pages 78–96 was added as Part VII, “Hukum Allah,” with ten topic sections and 65 numbered questions. Numbered questions use the existing collapsible question/answer reader; conclusions and author notes retain their existing reader styling. Page labels, page-break separators, and transcription continuation notes were removed. Fragments split only by printed page breaks were joined where the supplied continuation clearly completed the same sentence. The wording was otherwise preserved.
+
+The catalog revision was advanced to 6. The source Markdown page sequence and question numbering were checked programmatically. The original scan images were not visually proofread word-for-word against this transcription; this is recorded in `metcalf-chapters-02-07-audit.json`.
+
+## Chapter VI addition
+
+The owner-supplied Markdown transcription for printed pages 68–77 was added as Part VI, “Jalan Kebenaran,” before Part VII. The ten corresponding page scans (`Bab-6 (1).jpg` through `Bab-6 (10).jpg`) were visually checked page by page against the transcription, including sentence continuations across page breaks. The five topics contain 30 numbered questions (6, 9, 5, 3, and 7). Wording and source order were preserved; only page labels, extraction notes, and page-break separators were omitted, and split sentences were joined at their original continuation points.
+
+The catalog revision is now 7. Chapter VI is registered before Chapter VII in the reader's contents. The audit JSON records the page-by-page review and question sequence. The book as a whole remains a partial publication: other chapters still need their own source review and publication work.
+
+## Chapter V addition
+
+Revision 8 registers the supplied Chapter V transcription (printed pages 49–67), five topics and 52 numbered questions, before Chapter VI. Wording is preserved; extraction notes and page labels are omitted. Split sentences are joined. Full word-for-word visual verification against all 19 scans remains pending.
+
+## Chapter IV addition
+
+Revision 9 registers the supplied Chapter IV transcription, printed pages 38–48, with four topics and 33 questions. Extraction notes are excluded and page-break sentence fragments joined. Source wording is preserved. Full visual proofreading against scans remains pending.
+
+## Chapter III addition
+
+Revision 10 registers the supplied Chapter III transcription (pages 24–37): seven topics, 52 questions. All topic body text was compared after markup and whitespace normalization with the supplied transcription; words and punctuation were preserved. Page labels are omitted and cross-page sentence fragments joined. Full visual scan verification remains pending.
+
+## Chapter II completion
+
+Revision 11 replaces the earlier partial Chapter II with the supplied pages 17–23 transcription: four topics, 23 questions. All body words and punctuation were verified against the supplied Markdown after markup/whitespace normalization. Extraction notes are excluded; cross-page sentences joined. Full visual scan proofreading remains pending.

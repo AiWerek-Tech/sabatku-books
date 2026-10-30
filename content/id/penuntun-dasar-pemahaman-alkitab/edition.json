@@ -6,7 +6,7 @@
   "locale": "id",
   "title": "SPL - Penuntun Dasar untuk Pemahaman Alkitab",
   "description": "Panduan praktis untuk mendalami Alkitab melalui pertanyaan, jawaban ayat, penjelasan, dan kesimpulan. Buku ini membantu pembaca memahami asal-usul, ilham, serta dasar kebenaran Kitab Suci.",
-  "revision": "4",
+  "revision": "11",
   "status": "published",
   "rights": {
     "status": "verified",
@@ -71,6 +71,328 @@
       "order": 4,
       "nodeType": "section",
       "file": "nodes/topic-01-05.md"
+    },
+    {
+      "id": "part-02",
+      "title": "II. Kejatuhan dan Pemulihan Manusia",
+      "order": 1,
+      "nodeType": "part",
+      "file": "nodes/part-02.md"
+    },
+    {
+      "id": "topic-02-01",
+      "title": "1. KEMURTADAN IBLIS",
+      "parentId": "part-02",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/topic-02-01.md"
+    },
+    {
+      "id": "topic-02-02",
+      "title": "2. BAGAIMANA MANUSIA BERDOSA",
+      "parentId": "part-02",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/topic-02-02.md"
+    },
+    {
+      "id": "topic-02-03",
+      "title": "3. MENGAPA ALLAH MEMBIARKAN DOSA",
+      "parentId": "part-02",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/topic-02-03.md"
+    },
+    {
+      "id": "topic-02-04",
+      "title": "4. RENCANA ALLAH UNTUK PEMULIHAN MANUSIA",
+      "parentId": "part-02",
+      "order": 3,
+      "nodeType": "section",
+      "file": "nodes/topic-02-04.md"
+    },
+    {
+      "id": "part-03",
+      "title": "III. Keselamatan",
+      "order": 2,
+      "nodeType": "part",
+      "file": "nodes/part-03.md"
+    },
+    {
+      "id": "topic-03-01",
+      "title": "1. MANUSIA MEMERLUKAN KESELAMATAN",
+      "parentId": "part-03",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/topic-03-01.md"
+    },
+    {
+      "id": "topic-03-02",
+      "title": "2. MENGAPA KRISTUS DATANG KE DUNIA",
+      "parentId": "part-03",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/topic-03-02.md"
+    },
+    {
+      "id": "topic-03-03",
+      "title": "3. PERTOBATAN DAN PENGAKUAN",
+      "parentId": "part-03",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/topic-03-03.md"
+    },
+    {
+      "id": "topic-03-04",
+      "title": "4. DISELAMATKAN OLEH ANUGERAH",
+      "parentId": "part-03",
+      "order": 3,
+      "nodeType": "section",
+      "file": "nodes/topic-03-04.md"
+    },
+    {
+      "id": "topic-03-05",
+      "title": "5. KELAHIRAN BARU",
+      "parentId": "part-03",
+      "order": 4,
+      "nodeType": "section",
+      "file": "nodes/topic-03-05.md"
+    },
+    {
+      "id": "topic-03-06",
+      "title": "6. PENGUDUSAN",
+      "parentId": "part-03",
+      "order": 5,
+      "nodeType": "section",
+      "file": "nodes/topic-03-06.md"
+    },
+    {
+      "id": "topic-03-07",
+      "title": "7. TAKDIR (PREDESTINASI)",
+      "parentId": "part-03",
+      "order": 6,
+      "nodeType": "section",
+      "file": "nodes/topic-03-07.md"
+    },
+    {
+      "id": "part-04",
+      "title": "IV. Hidup dan Ajaran Yesus",
+      "order": 3,
+      "nodeType": "part",
+      "file": "nodes/part-04.md"
+    },
+    {
+      "id": "topic-04-01",
+      "title": "1. APAKAH YESUS ALLAH?",
+      "parentId": "part-04",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/topic-04-01.md"
+    },
+    {
+      "id": "topic-04-02",
+      "title": "2. PENGANTARAAN ATAU PEKERJAAN KEIMAMATAN YESUS",
+      "parentId": "part-04",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/topic-04-02.md"
+    },
+    {
+      "id": "topic-04-03",
+      "title": "3. TRINITAS",
+      "parentId": "part-04",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/topic-04-03.md"
+    },
+    {
+      "id": "topic-04-04",
+      "title": "4. MENGAPA YESUS MENGAJARKAN DALAM PERUMPAMAAN",
+      "parentId": "part-04",
+      "order": 3,
+      "nodeType": "section",
+      "file": "nodes/topic-04-04.md"
+    },
+    {
+      "id": "part-05",
+      "title": "V. Kepastian Nubuatan",
+      "order": 4,
+      "nodeType": "part",
+      "file": "nodes/part-05.md"
+    },
+    {
+      "id": "topic-05-01",
+      "title": "1. PERTUNJUKKAN PENDAHULUAN ALLAH TENTANG SEJARAH (Daniel 2)",
+      "parentId": "part-05",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/topic-05-01.md"
+    },
+    {
+      "id": "topic-05-02",
+      "title": "2. SIAPAKAH ANTI KRISTUS ITU? (Daniel 7)",
+      "parentId": "part-05",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/topic-05-02.md"
+    },
+    {
+      "id": "topic-05-03",
+      "title": "3. IBLIS MEMALSUKAN PEKERJAAN KRISTUS DALAM SURGA (Daniel 8)",
+      "parentId": "part-05",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/topic-05-03.md"
+    },
+    {
+      "id": "topic-05-04",
+      "title": "4. KETIDAKPERCAYAAN DIPERSALAHKAN (70 Minggu)",
+      "parentId": "part-05",
+      "order": 3,
+      "nodeType": "section",
+      "file": "nodes/topic-05-04.md"
+    },
+    {
+      "id": "topic-05-05",
+      "title": "5. MASA PENGHAKIMAN (2.300 hari)",
+      "parentId": "part-05",
+      "order": 4,
+      "nodeType": "section",
+      "file": "nodes/topic-05-05.md"
+    },
+    {
+      "id": "part-06",
+      "title": "VI. Jalan Kebenaran",
+      "order": 5,
+      "nodeType": "part",
+      "file": "nodes/part-06.md"
+    },
+    {
+      "id": "topic-06-01",
+      "title": "1. Mengikuti Yesus",
+      "parentId": "part-06",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/topic-06-01.md"
+    },
+    {
+      "id": "topic-06-02",
+      "title": "2. Baptisan Alkitab",
+      "parentId": "part-06",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/topic-06-02.md"
+    },
+    {
+      "id": "topic-06-03",
+      "title": "3. Dua Peraturan yang Dibuat Kristus Sebelum Kematiannya",
+      "parentId": "part-06",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/topic-06-03.md"
+    },
+    {
+      "id": "topic-06-04",
+      "title": "4. Mengenal Gereja Allah",
+      "parentId": "part-06",
+      "order": 3,
+      "nodeType": "section",
+      "file": "nodes/topic-06-04.md"
+    },
+    {
+      "id": "topic-06-05",
+      "title": "5. Pekabaran Amaran Allah yang Terakhir",
+      "parentId": "part-06",
+      "order": 4,
+      "nodeType": "section",
+      "file": "nodes/topic-06-05.md"
+    },
+    {
+      "id": "part-07",
+      "title": "VII. Hukum Allah",
+      "order": 6,
+      "nodeType": "part",
+      "file": "nodes/part-07.md"
+    },
+    {
+      "id": "topic-07-01",
+      "title": "1. Sumber Hukum Allah",
+      "parentId": "part-07",
+      "order": 0,
+      "nodeType": "section",
+      "file": "nodes/topic-07-01.md"
+    },
+    {
+      "id": "topic-07-02",
+      "title": "2. Maksud Hukum Allah",
+      "parentId": "part-07",
+      "order": 1,
+      "nodeType": "section",
+      "file": "nodes/topic-07-02.md"
+    },
+    {
+      "id": "topic-07-03",
+      "title": "3. Hukum Allah Kekal atau Akan Dihapuskan?",
+      "parentId": "part-07",
+      "order": 2,
+      "nodeType": "section",
+      "file": "nodes/topic-07-03.md"
+    },
+    {
+      "id": "topic-07-04",
+      "title": "4. Orang Kristen Melawan Hukum Allah",
+      "parentId": "part-07",
+      "order": 3,
+      "nodeType": "section",
+      "file": "nodes/topic-07-04.md"
+    },
+    {
+      "id": "topic-07-05",
+      "title": "5. Hukum Allah dalam Perjanjian Lama",
+      "parentId": "part-07",
+      "order": 4,
+      "nodeType": "section",
+      "file": "nodes/topic-07-05.md"
+    },
+    {
+      "id": "topic-07-06",
+      "title": "6. Hukum Allah dalam Perjanjian Baru",
+      "parentId": "part-07",
+      "order": 5,
+      "nodeType": "section",
+      "file": "nodes/topic-07-06.md"
+    },
+    {
+      "id": "topic-07-07",
+      "title": "7. Dua Hukum yang Bertentangan",
+      "parentId": "part-07",
+      "order": 6,
+      "nodeType": "section",
+      "file": "nodes/topic-07-07.md"
+    },
+    {
+      "id": "topic-07-08",
+      "title": "8. Perjanjian Allah yang Kekal",
+      "parentId": "part-07",
+      "order": 7,
+      "nodeType": "section",
+      "file": "nodes/topic-07-08.md"
+    },
+    {
+      "id": "topic-07-09",
+      "title": "9. Hukum yang Dihapuskan Kristus",
+      "parentId": "part-07",
+      "order": 8,
+      "nodeType": "section",
+      "file": "nodes/topic-07-09.md"
+    },
+    {
+      "id": "topic-07-10",
+      "title": "10. Hukum dan Anugerah",
+      "parentId": "part-07",
+      "order": 9,
+      "nodeType": "section",
+      "file": "nodes/topic-07-10.md"
     }
   ]
 }

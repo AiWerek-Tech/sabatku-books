@@ -1,0 +1,1103 @@
+{
+  "scope": "Bab 2–7",
+  "sourcePageCount": 80,
+  "topicCount": 35,
+  "readyForFullPublication": false,
+  "pages": [
+    {
+      "source": "Bab-2 (1).jpg",
+      "sha256": "0c3c94ff1d3043c51f13fda3a304229c39e8e2277b1305fe893ae7d034b9446f",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-2 (2).jpg",
+      "sha256": "2ce366f7a722eb6859e380f5e0929ac1f639d1261fefda5ab81c1f0fc7f58562",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-2 (3).jpg",
+      "sha256": "3ff7989113d620614e0ad41ce61a4c62bac16983cbe9b88a5012a2a4b26d11ab",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-2 (4).jpg",
+      "sha256": "ce3d493670d45cf33da53170b66c04f6a1e57cd1975b2dd7f5a7cba3ebb28c2b",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-2 (5).jpg",
+      "sha256": "711386539bb8515884a030407128f303e91a3ab33bb688afbe883a9a90bdb747",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-2 (6).jpg",
+      "sha256": "a70e3e88e85c2cc79417901f904913c2341290f357587f4c8ec22669259ef606",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-2 (7).jpg",
+      "sha256": "779d26678ede614fe4d5d9edc01129b83af528ca17a4f7c617e03ada734d8edd",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (1).jpg",
+      "sha256": "af1f8d497be2e34267f2d26b8dd6d18e7bbd4d45684d7d84854734058ad61450",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (2).jpg",
+      "sha256": "fe9bec3d2ab6ee8c72f9357a86db41c3aac2fdbf9f7f8136c3a182e89b8983fb",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (3).jpg",
+      "sha256": "a586f80c2cdf3887a10ab0fec1014bfafaddb1aaa20919865de77147132306f5",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (4).jpg",
+      "sha256": "df143ce2acfbbaa0bf6295b60f50db1563049efcad51f8c0898e0fdf59c91044",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (5).jpg",
+      "sha256": "cc7f9c8fc7e795fca1273eed303470430c65363316956579188cef1fc20447ca",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (6).jpg",
+      "sha256": "2e6e83b1816ddd669a01bb7b8f20be2e88791d916e87d8adf9365f42ace2ae28",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (7).jpg",
+      "sha256": "b86827f9630d1feba0c960a52fb2ce76f217d283b35fadf21d22aa726dfe62f0",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (8).jpg",
+      "sha256": "1f6e1984728d260814c1a870fd619c85e33ae08f85696a3ab22d217cd43f27d7",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (9).jpg",
+      "sha256": "854a30f27bb3982527ff9ae708b4a9c8985d32ae893e91bafc391224963b1895",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (10).jpg",
+      "sha256": "dc75e0170686455b2340892dbdb83d785a5e9522973634e05ed94b8c7ca8a640",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (11).jpg",
+      "sha256": "5faa6f2fd68312a68d65c54f136c4132db5157a1034e36d96261958ca51d2fcf",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (12).jpg",
+      "sha256": "19a7073333d1b4441373a52c897a94ecb05acc851b2a04c32ccce1270c19402c",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (13).jpg",
+      "sha256": "8d5aa4bec96ddcd55b31f549fff67f7e8b4837052a75c3bd1479041dc2bff55f",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-3 (14).jpg",
+      "sha256": "ce5f4eb18b14497ac2fbbace302dbcad8b803e0d1c4cfa231af951f0f794a027",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-4 (1).jpg",
+      "sha256": "dd33efceac71da82cd6c418580656131dc9e44958f37ce874468ca5093a89407",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-4 (2).jpg",
+      "sha256": "6331d8fcd75bce3c0278493b1c675efd34bd8832a3027556a8e37bdc822720be",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-4 (3).jpg",
+      "sha256": "3fa131b093e77ef41a73c448710123821bc1d85f592726910ad15b3f40cf35e4",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-4 (4).jpg",
+      "sha256": "40d14fd1a6d2a7ab4d41ba2edcf723f9f55fcad07840b4c257396fb41e6a6c8c",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-4 (5).jpg",
+      "sha256": "8ae825c4e21caaddd27a3bced65cd778b43a378c200017aac4fb359690cfe137",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-4 (6).jpg",
+      "sha256": "be99a4b30cbcf60d474349e762f61baad3a068d44178735e8f5089a9a99af0ad",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-4 (7).jpg",
+      "sha256": "dca370908605d56d46e5480ae9740c54643257a146f7e9ef636c7fe44c1619d1",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-4 (8).jpg",
+      "sha256": "b58ff39131ccf296be9704343b6597e431775baf958cb033a3cea7c2b9210c0b",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-4 (9).jpg",
+      "sha256": "d9a604960f9826a7e20aeb2e7d6acc45984ff9bd8323b467d000657d8a7e4c60",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-4 (10).jpg",
+      "sha256": "9adf83859d8f368cd4336ef2789a849d19b957a0d82e9f57d8c3333f7302a2ff",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-4 (11).jpg",
+      "sha256": "b6d1451a22c29ebb6974826662578b4946e6712f6d630094d89ab21c7a419c23",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (1).jpg",
+      "sha256": "dc90691932e688f914446b9d7151cb73e888e9b25a459ee3a21d5d569c0fd754",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (2).jpg",
+      "sha256": "b702f22fbaacac4e2167b9ddb11bbd7436cea1101be1b6e9aecf6dba1ec5bd5c",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (3).jpg",
+      "sha256": "32efb4f85ef980a913fc54d44d0521cea55705b9922288982563c33cec65540b",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (4).jpg",
+      "sha256": "834f24f559b1d3cff8bffff9850edaba296a6ea7fb4fbf40cb7b753a638dac41",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (5).jpg",
+      "sha256": "225bc6da1accdb8a9e2b373532605e48c9612d00972a10a91b4d07582432e675",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (6).jpg",
+      "sha256": "84893a65cfe8c202906966b63b9083242f3a887242e65174a3c3e7f0feb8b5bf",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (7).jpg",
+      "sha256": "72281ffadcad472926bab3261d819975692153b070335029054b33233571ae45",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (8).jpg",
+      "sha256": "ddb3b0977aa51e4c13cdc474af17a64c7125cd58c73d36a119e75b0d769431cf",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (9).jpg",
+      "sha256": "333da9d8ed458efb4a58f5c7a961ffd9cc9226c4a2a51c9b23f4d8aa7927733a",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (10).jpg",
+      "sha256": "46b9bb475fb506c75c27876a9b86c721afafd358e3bc617b57019e63867909c7",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (11).jpg",
+      "sha256": "1986ea4072409cddb1313fb25a996242d57939d6220d1e2175c7a6fdd019d369",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (12).jpg",
+      "sha256": "4517e28c5e17bcb0ee46bf4577dff554f0438f390885cddfcb34567579f5b82e",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (13).jpg",
+      "sha256": "bc3371e8d2ba22bc3eeb79487e77e7cc7af3f598efea0b757c0ed6f7bb85d8a8",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (14).jpg",
+      "sha256": "f9546fb4398165aff338eff75815aa4f7a90a818df2b8c911e295aa6807718c0",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (15).jpg",
+      "sha256": "a43436e11bbae154274ec1870ffe1f5a7f31b772175da5721a5b54df5776fa8d",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (16).jpg",
+      "sha256": "8ebce3af62cfd8520ccb6a430a77c530fa6240026e4d89452da075b6bc96fbf0",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (17).jpg",
+      "sha256": "ff1950f4324f6bb770b3be2e900b89a158237f9ea50b2c05770edb917f1555be",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (18).jpg",
+      "sha256": "fd540cdc03e45e881e9b5d50cd152674683bcc2ebb6064ea37120ae30600abbe",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-5 (19).jpg",
+      "sha256": "04fc8d623665fa633cd109b7c3a79dfdf3aa8e9f19d5fc37a6d6c53f6160351d",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-6 (1).jpg",
+      "sha256": "7a4d90bdfbeb01974ddb92c03f1c6eccdc8261b9a45cdc348edac0583f394dbc",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-6 (2).jpg",
+      "sha256": "96c84ef841b1ef8494f5f2eca86cf5e3e64089255af07447430fc4a5959d1cbb",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-6 (3).jpg",
+      "sha256": "1ad7faecc1671eb44a868eeeb45ac01f3c7119e18017f3cd18cf4cf8c33e2e7d",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-6 (4).jpg",
+      "sha256": "ecb31b4a9c7077a1052f4149e17ce21e5c48381cdd1658678c44f9a138b08c87",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-6 (5).jpg",
+      "sha256": "189040d589eb5ba973f575ca312f8434d4ba6695d3af7fe2b27e760f25e3595f",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-6 (6).jpg",
+      "sha256": "7efd655504391b44737d4aaad287c51bcf4a2a4473b3461cea6b419b83c8a1d9",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-6 (7).jpg",
+      "sha256": "14195f19e402df6433719bbd5563ab58f643766fa2c45ea6dde5ea1e8a55a863",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-6 (8).jpg",
+      "sha256": "739f6ba7164438384db1e6845176ed87b6854689c925085350b7ffea1690dd4b",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-6 (9).jpg",
+      "sha256": "e6baf491bb9b3f88b53c35924aa5444cf87cb28eb729db45ec09b7d1d97a8ee7",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-6 (10).jpg",
+      "sha256": "136a9e705ed242e0b5945e89a23fd0189f3af0e53d6f869764e778f6b2c3967e",
+      "ocrAvailable": true,
+      "visualReviewComplete": true
+    },
+    {
+      "source": "Bab-7 (1).jpg",
+      "sha256": "8fb3b65d7ce06a7b9a97b16ab7528bf463c7d875cef0020fe98b6d55ce8cf287",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (2).jpg",
+      "sha256": "dfec7989025e5bb95b7741da4b2d3dca838570224e083ab230f86890901c2e43",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (3).jpg",
+      "sha256": "2890f5b4fbf9ac30990b6ef04df6efeb7e6a59d5ca8873cc5327d88d4cfda963",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (4).jpg",
+      "sha256": "377120ca5c80c71ce0247ca0a0ac2acdec48ce42a1ecd954c4030dcb48c952c9",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (5).jpg",
+      "sha256": "aaed5b00d2bea5adfd59ef35f5bdedeeaf0adba781900f5f8cfcf8f531e25aa6",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (6).jpg",
+      "sha256": "da50c77a4774d805f6d371504eb19f1600179c52fc07b2fa5ed2efda1731499d",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (7).jpg",
+      "sha256": "d20842f984f049b2e3cc54a71068a3346db736649849f06b3f63ba8aa32587d3",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (8).jpg",
+      "sha256": "0d1100abd271afcb295bd03255ac6edc27b698a74006ef5f855d3c0c5c83d95f",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (9).jpg",
+      "sha256": "d9f842dc1521e71640c24c6236f5e10a771637b38179cd36ffb4dee4374e5eac",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (10).jpg",
+      "sha256": "fb3eda2f886fee32f3c459c42674075a79f551f898f14b44d74635700d970f0b",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (11).jpg",
+      "sha256": "f8e088d1d132c8baf7e64259f8eb5be6d636d3a860d72f40be65f924b0ace7ca",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (12).jpg",
+      "sha256": "527facba27ff4efe6357d49fc88a07a419dfcadfddbacdb75ae7891c179831bd",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (13).jpg",
+      "sha256": "6b900cd6398456ac0db95757c300af1c7d48490887bc51d06750ca990c7dd420",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (14).jpg",
+      "sha256": "d8427447a99179d8c46154e34b8270d044d034898d66a0873bd1400e4d9b3230",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (15).jpg",
+      "sha256": "4b36a9de8495766a37674ca35388f08a95089bd5296e6b98f9919c835aff701e",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (16).jpg",
+      "sha256": "3ed70868395aba0b3a8bacb1875a2b1dd1499b8004a25928f2e3b171f33b8150",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (17).jpg",
+      "sha256": "c6f82239bb5352e3584095fdea6e6969cf12a3a8b4a05239d7ebc7902893dd57",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (18).jpg",
+      "sha256": "58d73396a4583c0fa015bec0d61cd77d19c44bec50079933f57c74333e8e79fd",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    },
+    {
+      "source": "Bab-7 (19).jpg",
+      "sha256": "55fe836b114f77f6593cb02825b258af4d3c7145741ea4c581317ca8450bd8a8",
+      "ocrAvailable": true,
+      "visualReviewComplete": false
+    }
+  ],
+  "topics": [
+    {
+      "node": "topic-02-01",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "full-visual-scan-proofreading-pending"
+      ]
+    },
+    {
+      "node": "topic-02-02",
+      "questions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "full-visual-scan-proofreading-pending"
+      ]
+    },
+    {
+      "node": "topic-02-03",
+      "questions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "full-visual-scan-proofreading-pending"
+      ]
+    },
+    {
+      "node": "topic-02-04",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "full-visual-scan-proofreading-pending"
+      ]
+    },
+    {
+      "node": "topic-03-01",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-all-scans"
+      ]
+    },
+    {
+      "node": "topic-03-02",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-all-scans"
+      ]
+    },
+    {
+      "node": "topic-03-03",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-all-scans"
+      ]
+    },
+    {
+      "node": "topic-03-04",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-all-scans"
+      ]
+    },
+    {
+      "node": "topic-03-05",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-all-scans"
+      ]
+    },
+    {
+      "node": "topic-03-06",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-all-scans"
+      ]
+    },
+    {
+      "node": "topic-04-01",
+      "questions": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "question-number-sequence",
+        "possible-answer-in-heading",
+        "requires-source-proofreading"
+      ]
+    },
+    {
+      "node": "topic-04-02",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        11,
+        12,
+        13,
+        14
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "question-number-sequence",
+        "requires-source-proofreading"
+      ]
+    },
+    {
+      "node": "topic-04-03",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        4
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "question-number-sequence",
+        "possible-answer-in-heading",
+        "requires-source-proofreading"
+      ]
+    },
+    {
+      "node": "topic-04-04",
+      "questions": [
+        2,
+        3
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "question-number-sequence",
+        "requires-source-proofreading"
+      ]
+    },
+    {
+      "node": "topic-05-01",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-all-scans"
+      ]
+    },
+    {
+      "node": "topic-05-02",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-all-scans"
+      ]
+    },
+    {
+      "node": "topic-05-03",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-all-scans"
+      ]
+    },
+    {
+      "node": "topic-05-04",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-all-scans"
+      ]
+    },
+    {
+      "node": "topic-05-05",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-all-scans"
+      ]
+    },
+    {
+      "node": "topic-06-01",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reviewComplete": true,
+      "issues": []
+    },
+    {
+      "node": "topic-06-02",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "reviewComplete": true,
+      "issues": []
+    },
+    {
+      "node": "topic-06-03",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "reviewComplete": true,
+      "issues": []
+    },
+    {
+      "node": "topic-06-04",
+      "questions": [
+        1,
+        2,
+        3
+      ],
+      "reviewComplete": true,
+      "issues": []
+    },
+    {
+      "node": "topic-06-05",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "reviewComplete": true,
+      "issues": []
+    },
+    {
+      "node": "topic-07-01",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-scans"
+      ]
+    },
+    {
+      "node": "topic-07-02",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-scans"
+      ]
+    },
+    {
+      "node": "topic-07-03",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-scans"
+      ]
+    },
+    {
+      "node": "topic-07-04",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-scans"
+      ]
+    },
+    {
+      "node": "topic-07-05",
+      "questions": [
+        1,
+        2,
+        3
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-scans"
+      ]
+    },
+    {
+      "node": "topic-07-06",
+      "questions": [
+        1,
+        2,
+        3
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-scans"
+      ]
+    },
+    {
+      "node": "topic-07-07",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-scans"
+      ]
+    },
+    {
+      "node": "topic-07-08",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-scans"
+      ]
+    },
+    {
+      "node": "topic-07-09",
+      "questions": [
+        1,
+        2,
+        3
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-scans"
+      ]
+    },
+    {
+      "node": "topic-07-10",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-scans"
+      ]
+    },
+    {
+      "node": "topic-03-07",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "reviewComplete": false,
+      "issues": [
+        "source-transcription-not-visually-proofread-against-all-scans"
+      ]
+    }
+  ],
+  "chapter7Source": "D:/SABATKU-KONTEN/BUKU/Suplemen ALkitab/Bab 7/Ekstraksi_Bab_VII_Hukum_Allah_Halaman_78-96.md",
+  "chapter7PrintedPages": [
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96
+  ],
+  "chapter7TopicCount": 10,
+  "chapter7QuestionCount": 65,
+  "chapter7WordingChanged": false,
+  "chapter7VisualProofreadAgainstScans": false,
+  "chapter6Source": "D:/SABATKU-KONTEN/BUKU/Suplemen ALkitab/Bab 6/Ekstraksi_Bab_VI_Jalan_Kebenaran_Halaman_68-77.md",
+  "chapter6PrintedPages": [
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77
+  ],
+  "chapter6TopicCount": 5,
+  "chapter6QuestionCount": 30,
+  "chapter6WordingChanged": false,
+  "chapter6VisualProofreadAgainstScans": true,
+  "chapter5QuestionCount": 52,
+  "chapter5TopicCount": 5,
+  "chapter5VisualProofreadAgainstScans": false,
+  "chapter3Source": "D:/SABATKU-KONTEN/BUKU/Suplemen ALkitab/Bab 3/Ekstraksi_Bab_III_Keselamatan_Halaman_24-37.md",
+  "chapter3TopicCount": 7,
+  "chapter3QuestionCount": 52,
+  "chapter3TranscriptionPreserved": true,
+  "chapter3VisualProofreadAgainstScans": false,
+  "chapter2TranscriptionPreserved": true,
+  "chapter2TopicCount": 4,
+  "chapter2QuestionCount": 23
+}

@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {build,root} from '../scripts/build-content.mjs';
 
-test('Metcalf guide publishes only the supplied first part and five complete source topics',()=>{
+test('Metcalf guide publishes registered source parts with complete question sequences',()=>{
  const base=path.join(root,'content/id/penuntun-dasar-pemahaman-alkitab');
  const edition=JSON.parse(fs.readFileSync(path.join(base,'edition.json'),'utf8'));
  const result=build(root,{write:false});
@@ -14,8 +14,18 @@ test('Metcalf guide publishes only the supplied first part and five complete sou
  assert.equal(entry.title,'SPL - Penuntun Dasar untuk Pemahaman Alkitab');
  assert.match(entry.description,/pertanyaan, jawaban ayat, penjelasan, dan kesimpulan/);
  assert.doesNotMatch(entry.description,/belum tersedia|ditambahkan bertahap/);
- assert.equal(edition.nodes.length,6);
- assert.equal(edition.nodes.filter(node=>node.nodeType==='part').length,1);
+ assert.equal(edition.nodes.length,47);
+ assert.deepEqual(edition.nodes.filter(node=>node.nodeType==='part').map(node=>node.id),['part-01','part-02','part-03','part-04','part-05','part-06','part-07']);
+ for (const [part,expected] of [['02',[7,4,4,8]],['03',[5,6,10,10,6,7,8]],['04',[8,14,7,4]],['05',[14,13,6,9,10]],['06',[6,9,5,3,7]],['07',[8,7,8,7,3,3,11,7,3,8]]]) {
+  const sections=edition.nodes.filter(node=>node.parentId===`part-${part}`);
+  assert.equal(sections.length,expected.length);
+  sections.forEach((node,index)=>{
+   const body=fs.readFileSync(path.join(base,node.file),'utf8');
+   const sequence=[...body.matchAll(/^### (\d+)\./gm)].map(match=>Number(match[1]));
+   assert.deepEqual(sequence,Array.from({length:expected[index]},(_,i)=>i+1));
+   assert.doesNotMatch(body,/^## HALAMAN|^---$|Transkripsi berdasarkan/m);
+  });
+ }
  const counts=[5,5,10,6,5];
  const notes=[2,5,2,3,3];
  const quotes=[4,5,8,6,5];
