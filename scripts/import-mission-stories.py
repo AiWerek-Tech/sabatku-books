@@ -373,7 +373,7 @@ def import_editions(args: argparse.Namespace) -> None:
             for index, story in enumerate(stories, start=1):
                 chapter_path = android_assets / bundle_prefix / f"story-{story['date']}.md"
                 chapter_path.parent.mkdir(parents=True, exist_ok=True)
-                chapter_path.write_text(str(story["body"]), encoding="utf-8")
+                chapter_path.write_text(str(story["body"]), encoding="utf-8", newline="\n")
                 chapters.append({
                     "id": f"story-{story['date']}", "title": story["title"], "order": index,
                     "nodeType": "chapter", "readingDate": story["date"], "country": story["country"],
